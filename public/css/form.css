@@ -1,0 +1,32 @@
+.control {
+  width: 100%;
+}
+.control span {
+  display: block;
+}
+.control input {
+  padding: 5px 10px;
+}
+.control.is-invalid input,
+.control.is-invalid span {
+  color: #f5365c;
+}
+.control.is-invalid input {
+  border: 1px #f5365c solid;
+}
+/* .control.is-valid input,
+.control.is-valid span {
+  color: #2dce89;
+} */
+/* .control.is-valid input {
+  border: 1px #2dce89 solid;
+} */
+
+.control.is-invalid select {
+  color: #f5365c;
+  border: 1px #f5365c solid;
+}
+/* .control.is-valid select {
+  color: #2dce89;
+  border: 1px #2dce89 solid;
+} */

@@ -1,0 +1,4328 @@
+﻿m_code,m_name,m_unit
+090501003,Bonding (refill),ขวด
+090501009,Composite resin LC สี A1,หลอด
+090501010,Composite resin LC สี A2,หลอด
+090501011,Composite resin LC สี A3,หลอด
+090501012,Composite resin LC สี A3.5,หลอด
+090501013,Composite resin LC สี A4,หลอด
+090501019,Etchant gel (refill),ขวด
+090501020,Glass Ionomer LC for filling- ทั้งชุด ยี่ห้อ Fuji VII,ชุด
+090501021,Glass Ionomer LC for filling- ทั้งชุด ยี่ห้อ Vitremer,ชุด
+090501027,Glass Ionomer LC for filling- ทั้งชุด ยี่ห้อ Vitrebond,ชุด
+090501032,Glass Ionomer self cure for filling -ทั้งชุด Fuji IX,ชุด
+090501038,Matrix : Celluliod strip,กล่อง
+090501039,Matrix : T-Band (Stainless steel ขนาดใหญ่),ซอง
+090501042,Matrix band strip .03 x 7 mm.,ม้วน
+090501043,Matrix band stip molar(ก้ามปู) No.15,ซอง
+090501044,Matrix band stip premolar (ก้ามปู) No.12,ซอง
+090501049,Pit  fissure sealant LC : สีขุ่น OPAQUE,ชุด
+090501052,Wedge # L,ถุง
+090501053,Wedge # M,ถุง
+090501054,Wedge # S,ถุง
+090501055,Zine oxide powder,กล่อง
+090501056,Zinc oxide with acetate-powder,กระป๋อง
+090501058,วัสดุอุดฟันชั่วคราว ยี่ห้อ IRM,ชุด
+090501064,Temporary filling material,ขวด
+090502008,Calcium hydroxide powder,กระป๋อง
+090502009,file : H-file 21 mm. No.08,กล่อง
+090502010,file : H-file 21 mm. No.10,กล่อง
+090502011,file:  H-file   21 mm.   No.  15,กล่อง
+090502012,file:  H-file 21 mm. No. 20,กล่อง
+090502013,file:  H-file   21 mm.   No. 25,กล่อง
+090502014,file:  H-file   21  mm.  No. 30,กล่อง
+090502015,file:  H-file   21  mm.  No. 35,กล่อง
+090502016,file:  H-file   21  mm.  No. 40,กล่อง
+090502024,file:  H-file   21  mm.  No. 100,กล่อง
+090502025,file:  H-file   21  mm.  No. 110,กล่อง
+090502041,file:  H-file   25  mm.  No. 100,กล่อง
+090502042,file:  H-file   25  mm.  No. 110,กล่อง
+090502057,K-Flex file 21 mm. No.90,กล่อง
+090502079,File : Niti 21 mm No.20,กล่อง
+090502081,File : Niti 25 mm No.15,กล่อง
+090502091,Gutta percha cone # 20,กล่อง
+090502092,Gutta percha cone # 25,กล่อง
+090502093,Gutta percha cone # 30,กล่อง
+090502094,Gutta percha cone # 35,กล่อง
+090502095,Gutta percha cone # 40,กล่อง
+090502096,Gutta percha cone # 45,กล่อง
+090502097,Gutta percha cone # 50,กล่อง
+090502106,Gutta percha cone # MF (Dentsply),กล่อง
+090502107,Gutta percha cone # FF (Dentsply),กล่อง
+090502125,Paper point No.S,กล่อง
+090502126,Paper point No.M,กล่อง
+090502127,Paper point No.L,กล่อง
+090502129,Root canal cement-ผง,ขวด
+090502131,"Rubber dam sheet 5"" x 5""",กล่อง
+090502132,"Rubber dam sheet 6"" x 6""",กล่อง
+090502138,Clamp # 2,ตัว
+090502140,Clamp # 7,ตัว
+090502143,Clamp # 14,ตัว
+090502156,Endo serger (Scalpel Handle),อัน
+090502195,Lentulo spiral 17 mm. No. 25,กล่อง
+090502196,Lentulo spiral 21 mm. No. 25  สีแดง,กล่อง
+090502197,Lentulo spiral 21 mm. No. 30  สีฟ้า,กล่อง
+090502198,Lentulo spiral 21 mm. No. 35  สีเขียว,กล่อง
+090502199,Lentolo spiral 21 mm. No. 40 สีดำ,กล่อง
+090503130,Syringe glass 10 cc.,อัน
+090503132,"Gauge (ผ้าก้อซ ขนาด 36"" 100 หลา ตัด 9 ท่อน)",ม้วน
+090504007,Alcohol 95 %  Methyl alcohol จุดไฟ,ปี๊บ
+090504013,Alcohol 70 %  ขนาด 450 cc,ขวด
+090504017,Chlorocamphene,ขวด
+090504022,Developer - automatic,กล่อง
+090504023,Developer - ธรรมดา,แกลลอน
+090504026,Fixer - automatic,กล่อง
+090504027,Fixer ธรรมดา,แกลลอน
+090504029,Fluoride gel,ขวด
+090504038,Local anesthesia 2%,กล่อง
+090504044,Normal saline : ขวดสี่เหลี่ยมฝาเกลียว 1000 ml,ขวด
+090504056,Spongostan,กล่อง
+090504071,สบู่เหลวล้างมือ : ชนิดฆ่าเชื้อ,แกลลอน
+090504081,Parasafe,กระป๋อง
+090504108,แอลกอฮอล์ชนิดเจลสำหรับฆ่าเชื้อที่มือ (Instant hand sanitizer),ขวด
+090504129,น้ำยาทำความสะอาดพื้นผิว (Cavi Wipes),กระป๋อง
+090505003,"Autoclave tape 1/2""",ม้วน
+090505004,"Autoclave tape 3/4""",ม้วน
+090505005,Cap disposable หมวกกระดาษ,กล่อง
+090505007,Dental floss ชนิดมี wax,กล่อง
+090505008,Examination glove SS ถุงมือใช้แล้วทิ้ง,กล่อง
+090505010,Examination glove without talc S ถุงมือไม่มีแป้ง,กล่อง
+090505020,Gauze 4*4,กล่อง
+090505022,Mask ชนิดเกี่ยวหู (50 ชิ้น/กล่อง),กล่อง
+090505025,Surgical glove No 6 (ชนิดปราศจากเชื้อ) ชนิดมีแป้ง,กล่อง
+090505038,สำลีม้วน,ม้วน
+090505041,Surgical glove No 7 1/2  (ชนิดปราศจากเชื้อ) ชนิดมีแป้ง,กล่อง
+090505044,Examination glove S    ถุงมือใช้แล้วทิ้ง,กล่อง
+090505045,Examination glove M   ถุงมือใช้แล้วทิ้ง,กล่อง
+090506033,Mouth mirror refill (กระจกส่องปาก) ชนิด Front,โหล
+090506052,Saliva ejector tip หัวดูดน้ำลายพลาสติก,ถุง
+090506058,Syringe (Disposable) 10 cc,ชิ้น
+090506068,X-ray film DF-53 (IP 02),กล่อง
+090507002,Adhesive - polysulfide,ขวด
+090507004,Alginate - Fast set,กระป๋อง
+090507005,Alginate - Normal set,กระป๋อง
+090507006,Green stick compound,กล่อง
+090507010,Polysulfide rubber base - light,ชุด
+090507013,Silicone - Light,ชุด
+090507014,Silicone - Putty,ชุด
+090507017,Adhesive : Silicone,ขวด
+090508009,Acrylic resin (Self - cure) - pink - น้ำ,ขวด
+090508011,Acrylic resin for temporary crown  ยี่ห้อ Dentalon ส่วนน้ำ,ขวด
+090508022,Articulating paper : curve,กล่อง
+090508023,Articulating paper : horse-shoe,กล่อง
+090508026,Cement - Polycarboxylate,ขวด
+090508028,Cement - Zinc phosphate,ชุด
+090508031,Gingival retraction cord No 0,หลอด
+090508054,Stone - extra-hard stone - Velmix,กล่อง
+090508055,Stone - Plaster,กระสอบ
+090508056,Stone - Stone,กล่อง
+090508058,Temporary cement ยี่ห้อ TempBond,ชุด
+090508064,Wax - Periphery,กล่อง
+090508065,Wax - Pink,กล่อง
+090508078,วัสดุตรวจหาส่วนเกิน Disclosing paste,กล่อง
+090508088,Acrylic resin for temporary crow (Dentalon) สี L,ขวด
+090508089,Acrylic resin for temporary crow (Dentalon) สี M,ขวด
+090508090,Acrylic resin for temporary crow (Dentalon) สี D,ขวด
+090509001,Arch bar No.20,ม้วน
+090509002,Black silk 3/0,ม้วน
+090509004,Mersilk 4/0 พร้อมเข็ม 16 mm.(W501),กล่อง
+090509012,Coated vicryl 3/0 พร้อมเข็ม 16 mm. (W9444),กล่อง
+090509014,Coated vicryl 4/0 พร้อมเข็ม 16 mm.(W9443),กล่อง
+090509024,Filter Suction DURRV-6000,ตัว
+090509029,Needle for surgery No.21 curve,โหล
+090509073,Needle for injection G 27 G short  21 mm.,กล่อง
+090509074,Needle for injection G 27 G Long  30 mm.,กล่อง
+090509078,Blade No 15,กล่อง
+090510018,หัวขูดหินปูน 30 K,อัน
+090512129,Matrix : T-band (Stainless steel ) ขนาด small,ซอง
+090514184,Pink stone long wheel shape HP,ตัว
+090514188,White stone long flame shape HP,ตัว
+090514195,White stone short flame  shape FG,ตัว
+090514196,White stone short round shape (Latch),ตัว
+090514197,White stone short round shape FG,ตัว
+090514204,Silicone polishing for acrylic - green HP,ตัว
+090514207,Silicone polishing gray wheel shape HP,ตัว
+090514211,Silicone polishing brown flame shape (Latch),ตัว
+090514229,Mandrel for rubber cup,ตัว
+090514252,Pumice ปานกลาง (2),ถุง
+090514253,Pumice ละเอียด (3),ถุง
+090514255,Rouge สำหรับขัดมัน,ตัว
+090514257,Rubber cup,ตัว
+090514259,Sillicone polishing green flame shape (Latch),ตัว
+090514260,Soflex  ขนาดเล็ก (3/8),กล่อง
+090514261,Soflex ขนาดใหญ่ (1/2),กล่อง
+090514282,White stone short flame shape (Latch),ตัว
+090514326,Carbide round long shank bur .016 HP,กล่อง
+090514327,Carbide round long shank bur .018 HP,กล่อง
+090514336,Carbider round  bur .007 FG,กล่อง
+090514338,Carbider round  bur .009 FG,กล่อง
+090514340,Carbider round  bur .012 FG,กล่อง
+090514359,Diamond round bur .008 FG,กล่อง
+090514360,Diamond round bur .009 FG,กล่อง
+090514361,Diamond round bur .010 FG,กล่อง
+090514362,Diamond round bur .012 FG,กล่อง
+090514363,Diamond round bur .014 FG,กล่อง
+090514364,Diamond round bur .016 FG,กล่อง
+090514365,Diamond round bur .018 FG,กล่อง
+090514366,Diamond round bur .021 FG,กล่อง
+090514369,Diamond round end taper bur D2 FG,กล่อง
+090514372,Diamond round end taper bur .020 (D8c) FG,กล่อง
+090514373,Diamond round end taper bur D8,กล่อง
+090514398,Steel round long shank bur .016 HP,กล่อง
+090514403,Steel taper long shank bur .016 HP,กล่อง
+090514404,Steel taper long shank bur .018 HP,กล่อง
+090514405,Steel taper long shank bur .021 HP,กล่อง
+090514416,Steel inverted bur .006 (Latch),กล่อง
+090514421,Steel round bur .009 (Latch),กล่อง
+090514437,Steel taper bur .009 (Latch),กล่อง
+090514438,Steel taper bur .012 (Latch),กล่อง
+090514439,Steel taper bur .014 (Latch),กล่อง
+090514440,Steel taper bur .016 (Latch),กล่อง
+090514441,Steel taper bur .018 (Latch),กล่อง
+090514442,Steel taper bur .021 (Latch),กล่อง
+090514453,Gate glidden drill 28 mm #1,กล่อง
+090514454,Gate glidden drill 28 mm #2,กล่อง
+090514455,Gate glidden drill 28 mm #3,กล่อง
+090514457,Peeso reamers # 1,กล่อง
+090514458,Peeso reamers # 2,กล่อง
+090514459,Peeso reamers # 3,กล่อง
+090514460,Peeso reamers # 4,กล่อง
+090514461,Peeso reamers # 5,กล่อง
+090514462,Peeso reamers # 6,กล่อง
+090514493,Steel round long shank bur.014 (HP),กล่อง
+099999019,ท่อน้ำไมโครมอเตอร์,เส้น/สาย
+090514324,Carbide round long shank bur .012 HP,กล่อง
+090514325,Carbide round long shank bur .014 HP,กล่อง
+090502200,Lentulo spiral 25 mm. No.25 สีแดง,กล่อง
+090514476,Carbide taper long shank bur .014 HP,กล่อง
+090514477,Carbide taper  long shank bur .016 HP,กล่อง
+090514478,Carbide taper long shank bur .018 HP,กล่อง
+090501072,Composite resin LC  Flowable สี A3,หลอด
+090506205,"Needle disposable size 24Gx1""",กล่อง
+090501071,Composite resin LC Flowable สี A2,หลอด
+090514189,Green stone flame shape (Latch),ตัว
+090501006,Composite resin LC Flowable สี A4,หลอด
+090501084,Composite resin LC Flowable สี A3.5,หลอด
+090508189,Gingival retraction cord No.00,หลอด
+090502294,K-File 21 mm. No.8,กล่อง
+090514518,Carbide taper long shank bur .012 HP,กล่อง
+090508015,Acrylic resin ทำ tray -Formatray - น้ำ,ขวด
+090309018,ฟิล์มถ่ายภาพรังสีในช่องปากชนิดมีซองพลาสติกสำหรับผู้ใหญ่,กล่อง
+090514341,Carbide round bur.014 FG,กล่อง
+090514543,Gate glidden drill 32 mm #1,กล่อง
+090514544,Gate glidden drill 32 mm #2,กล่อง
+090514545,Gate glidden drill 32 mm #3,กล่อง
+090502377,K-file 21 mm. No.45,กล่อง
+090505122,Surgical glove No.6 1/2 ไม่มีแป้ง,กล่อง
+090505123,Surgical glove No.7 ไม่มีแป้ง,กล่อง
+090501203,Matrix band stip molar (ก้ามปู) No.16,ซอง
+090501204,Matrix band stip premolar (ก้ามปู) No.13,ซอง
+090502390,K-file 21 mm. No.15,กล่อง
+090502295,K-file 21 mm. No.10,กล่อง
+090506411,X-ray film DF-50,กล่อง
+090502447,K-file 21 mm. No.20,กล่อง
+090502448,K-file 21 mm. No.25,กล่อง
+090502449,K-file 21 mm. No.30,กล่อง
+090502465,K-file 21 mm. No.35,กล่อง
+090502466,K-file 21 mm. No.40,กล่อง
+090504216,แอลกอฮอล์ชนิดเจลสำหรับฆ่าเชื้อที่มือ แบบแกลลอน (Instant hand sanitizer),แกลลอน
+090502511,Gutta percha cone #MF (Hygenic),กล่อง
+090502512,Gutta percha cone # FF (Hygenic),กล่อง
+090514772,Silicone polishing for acrylic หยาบ,ตัว
+090514773,Silicone polishing for acrylic ปานกลาง,ตัว
+090514774,Silicone polishing for acrylic ละเอียด,ตัว
+090505213,Surgical glove No.7 1/2 ไม่มีแป้ง,กล่อง
+090505212,Surgical glove No.6 ไม่มีแป้ง,กล่อง
+09001005,Calcium hydroxide paste ยี่ห้อ Dycal,ชุด
+09001014,Composite resin LC สี B1,หลอด
+09001015,Composite resin LC สี B2,หลอด
+09001016,Composite resin LC สี B3,หลอด
+09001017,Composite resin LC สี P,หลอด
+09001026,Glass Ionomer LC for filling- ทั้งชุด ยี่ห้อ Fuji,ชุด
+09001029,Glass Ionomer LC for lilling- ส่วนน้ำ ยี่ห้อ Vitrebond,ขวด
+09001041,Matrix band stip.03x5 mm.,ม้วน
+09001046,Matrix holder : Tofflemire,อัน
+09001048,Mercury (ปรอท),ขวด
+09001050,Pit & fissure sealant LC สีธรรมชาติ (Natural),ชุด
+09001059,Composite resin LC สี CY,หลอด
+09001060,Clamp # 9,ตัว
+09001062,Composite resin light cure refill สี I,หลอด
+09001063,Clearfill Porcelain Bond Activator,กล่อง
+09001065,Cavity varnish,ขวด
+09001067,Composite resin light cure สี OA3,หลอด
+09001078,Dentin Conditioner,ขวด
+09001082,Composit resin LC สี P90,ชุด
+09001085,Calcium hydroxide (สำเร็จรูป),กล่อง
+09002017,file:  H-file   21  mm.  No. 45,กล่อง
+09002018,file:  H-file   21  mm.  No. 50,กล่อง
+09002019,file:  H-file   21  mm.  No. 55,กล่อง
+09002020,file:  H-file   21  mm.  No. 60,กล่อง
+09002021,file:  H-file   21  mm.  No. 70,กล่อง
+09002022,file:  H-file   21  mm.  No. 80,กล่อง
+09002026,file:  H-file   25  mm.  No. 08,กล่อง
+09002027,file:  H-file   25  mm.  No. 10,กล่อง
+09002028,file:  H-file   25  mm.  No. 15,กล่อง
+09002029,file:  H-file   25  mm.  No. 20,กล่อง
+09002030,file:  H-file   25  mm.  No. 25,กล่อง
+09002031,file:  H-file   25  mm.  No. 30,กล่อง
+09002032,file:  H-file   25  mm.  No. 35,กล่อง
+09002033,file:  H-file   25  mm.  No. 40,กล่อง
+09002034,file:  H-file   25  mm.  No. 45,กล่อง
+09002035,file:  H-file   25  mm.  No. 50,กล่อง
+09002036,file:  H-file   25  mm.  No. 55,กล่อง
+09002037,file:  H-file   25  mm.  No. 60,กล่อง
+09002038,file:  H-file   25  mm.  No. 70,กล่อง
+09002039,file:  H-file   25  mm.  No. 80,กล่อง
+09002043,K-Flex file 21 mm. No.08,กล่อง
+09002044,K-Flex file 21 mm. No10,กล่อง
+09002045,K-Flex file 21 mm. No.15,กล่อง
+09002046,K-Flex file 21 mm. No.20,กล่อง
+09002047,K-Flex file 21 mm. No.25,กล่อง
+09002048,K-Flex file 21 mm. No.30,กล่อง
+09002049,K-Flex file 21 mm. No.35,กล่อง
+09002050,K-Flex file 21 mm. No.40,กล่อง
+09002051,K-Flex file 21 mm. No.45,กล่อง
+09002052,K-file 21 mm. No.50,กล่อง
+09002053,K-file 21 mm. No.55,กล่อง
+09002060,K- file 25 mm. No.08,กล่อง
+09002061,K- file 25 mm. No.10,กล่อง
+09002063,K- file 25 mm. No.20,กล่อง
+09002064,K- file 25 mm. No.25,กล่อง
+09002065,K- file 25 mm. No.30,กล่อง
+09002066,K- file 25 mm. No.35,กล่อง
+09002067,K- file 25 mm. No.40,กล่อง
+09002068,K- file 25 mm. No.45,กล่อง
+09002069,K- file 25 mm. No.50,กล่อง
+09002070,K- file 25 mm. No.55,กล่อง
+09002072,K- file 25 mm. No.70,กล่อง
+09002073,K- file 25 mm. No.80,กล่อง
+09002078,File : Niti 21 mm No.15,กล่อง
+09002080,File : Niti 21 mm No.25,กล่อง
+09002086,File : Profile 21 mm. No.35,กล่อง
+09002090,Gutta percha cone # 15,กล่อง
+09002098,Gutta percha cone # 55,กล่อง
+09002099,Gutta percha cone # 60,กล่อง
+09002100,Gutta percha cone # 70,กล่อง
+09002101,Gutta percha cone # 80,กล่อง
+09002102,Gutta percha cone # 90,กล่อง
+09002103,Gutta percha cone # F,กล่อง
+09002108,Gutta percha cone # XF,กล่อง
+09002130,Root canal cement,ขวด
+09002133,Rubber Stop,ถุง
+09002134,วัสดุอุดปลายรากฟัน ยี่ห้อ MTA,ชุด
+09002135,Clamp # 0,ตัว
+09002137,Clamp # 1,ตัว
+09002139,Clamp # 6,ตัว
+09002141,Clamp # 12A,ตัว
+09002142,Clamp # 13,ตัว
+09002144,Lentulo sspiiral 25 mm.no30(ฟ้า),ตัว
+09002145,Clamp # 2A,ตัว
+09002146,Clamp # 14A,ตัว
+09002147,K-file 21 mm. Assortment No.15-40,กล่อง
+09002148,Rubber tip,ตัว
+09002154,Endo Explorer,ตัว
+09002155,Endo plugger # 9,ตัว
+09002157,Rubber dam frame (เหล็ก),อัน
+09002158,Rubber dam punch,อัน
+09002159,Rubber dam forcep,อัน
+09002220,Barbed broach 21 mm. No 10 (20) สีม่วง,กล่อง
+09002221,Barbed broach 21 mm. No 15 (25) สีขาว,กล่อง
+09002222,Barbed broach 21 mm. No 20 (30) สีเหลือง,กล่อง
+09002223,Barbed broach 21 mm. No 25 (35) สีแดง,กล่อง
+09002224,Barbed broach 21 mm. No 30 (40) สีน้ำเงิน,กล่อง
+09002225,Barbed broach 21 mm. No 35 (50) สีเขียว,กล่อง
+09002232,Gutta percha stopping,กล่อง
+09002269,K-flex file 25 mm. No 15-40,กล่อง
+09003004,Ammonia,ขวด
+09003019,Camphophenol,ขวด
+09003048,Micropore (ขนาด 2.5 ซม. x 9 ม.),ม้วน
+09003098,ซองยาซิปพิมพ์อักษร ขนาด 8x12 ซม.,ซอง
+09003099,ซองยาซิปพิมพ์อักษร ขนาด 9x13 ซม.,แพค/ห่อ
+09003100,ถุงหูหิ้วพิมพ์อักษรใส่ซองยา ขนาด 6x12 นิ้ว,ถุง
+09003131,Syringe glass 20 cc.,อัน
+09003226,pH paper pH 0-14 pack strip,กล่อง
+09004004,Adrenaline,กล่อง
+09004015,Bone wax,กล่อง
+09004028,Fluoride : Topical F vanish - Duraphat,หลอด
+09004032,Formocresol,ขวด
+09004033,Hibitane,แกลลอน
+09004034,Hydrogen peroxide,ขวด
+09004036,Local anesthesia : gel,ขวด
+09004039,Local anesthesia 3%,กล่อง
+09004046,Normal saline : ถุง 500 ml,ถุง
+09004047,Oil of clove,ขวด
+09004057,Surgicel,กล่อง
+09004058,Talbot solution,ขวด
+09004060,Tincture iodine,ขวด
+09004064,Vasaline,กล่อง
+09004067,น้ำมันยูคาลิปตัส,ขวด
+09004069,ยากันเสียวฟัน (Desensitizer) : Gluma,ขวด
+09004072,สบู่เหลวล้างมือ : ชนิดธรรมดา,แกลลอน
+09004073,น้ำยาฟอร์มาลีน,ขวด
+09004074,Gutaraldehyde 2 %,แกลลอน
+09004075,Providone codine solution,แกลลอน
+09004077,Savlon,แกลลอน
+09004078,ไลโซน,ขวด
+09004079,Virkon 5 g,ซอง
+09004080,Virkon 50 g,ซอง
+09004082,ผงขจัดคราบเลือดฒ่าเชื้อ (เมดิคลีน พาวเดอร์),กล่อง
+09004085,Alcohol 70 %  (ชนิดบรรจุแกลลอน),แกลลอน
+09004100,Providone Iodine solution,ขวด
+09004130,Ethanol 3.8L,ขวด
+09005002,"Autoclave tape 1""",ม้วน
+09005006,Color code instrument rings,กล่อง
+09005009,Examination glove without talc (vinyl)  สีฟ้า S,กล่อง
+09005011,Examination glove without talc M ถุงมือไม่มีแป้ง,กล่อง
+09005014,Face shield refill,แผ่น
+09005023,Mask ชนิดเกี่ยวหู (HC Particulate Respirator),กล่อง
+09005024,Mask ชนิดผูก,กล่อง
+09005033,ซองผ้าก็อช,แพค
+09005039,Surgical glove No. 6 1/2 ชนิดมีแป้ง,กล่อง
+09005040,Surgical glove No 7 ชนิดมีแป้ง,กล่อง
+09005043,Talcam : ผงแป้งสำหรับผสมถุงมือ,กิโลกรัม
+09006003,Amalgam plugger,อัน
+09006004,Amalgam well,อัน
+09006008,Dycal carrier,ตัว
+09006009,Hoe,อัน
+09006010,"Interproximal Files : 9/10,11/12",อัน
+09006011,Plastic Instrument,อัน
+09006012,Spoon,อัน
+09006017,Cotton plier,อัน
+09006018,Dappen dish,อัน
+09006019,Explorer,อัน
+09006025,Forcep ปลายแหลม,อัน
+09006029,Glass syringe 2 cc,อัน
+09006030,Glass syringe 5 cc,อัน
+09006032,Mouth mirror holder (ด้ามกระจกส่องปาก),อัน
+09006034,Mouth mirror พร้อมชุด (กระจก+ด้าม),ชุด
+09006035,Mouth prob : เด็ก,อัน
+09006038,Needle for irrigation No. 18,กล่อง
+09006039,Needle for irrigation No. 21,กล่อง
+09006041,Needle for irrigation No. 24,กล่อง
+09006047,Spatula-cement,อัน
+09006050,Stainless ruler,อัน
+09006051,Suction Tip,อัน
+09006055,Syringe-injection,อัน
+09006062,"Tray - stainless ขนาด 10x14""",ใบ
+09006065,XCP ฟันหน้า,ตัว
+09006066,XCP ฟันหลัง,ตัว
+09006067,X-ray film DF-49 (IO 42),กล่อง
+09006072,"X-ray film for duplication 8"" x 10""",กล่อง
+09006073,"X-ray film T-mat 6"" x12""",กล่อง
+09006074,"X-ray film T-mat 8"" x10""",กล่อง
+09006077,แก้วน้ำ Stainless ขนาด 5 ออนซ์,ใบ
+09006078,แก้วน้ำ Stainless ขนาด 7ออนซ์,ใบ
+09006081,แว่นตาป้องกันเลือดและของเหลว,กล่อง
+09006085,กรรไกรตัดผ้าก็อซ,อัน
+09006086,กระจกถ่ายรูปในช่องปาก,อัน
+09006108,หัวกรอเร็ว Airotor Handpiece,ชุด
+09006110,หัวกรอเร็ว Airotor ชนิดมีไฟ T2 RACER พร้อม Guic,ชิ้น
+09006111,หัวกรอช้า Contra ไม่มีไฟ NSK รุ่น Prophy,ชิ้น
+09006112,หัวกรอเร็ว Contra  มีไฟ NSK รุ่น E20 LJ,ชิ้น
+09006115,Glick No.1,ตัว
+09006116,หินรับเครื่อง (ชนิดละเอียด),อัน
+09006117,ข้อต่อหัวกรอ,ตัว
+09006265,"Slide mailer for 3 slides,100pcs./bax",กล่อง
+09006266,"Slide mailer for 3 slides,250pcs./box",กล่อง
+09006267,Fast drying mounting medium 500 ml.,ขวด
+09007003,Adhesive - universal,ขวด
+09007012,Polysulfide rubber base - regular,ชุด
+09007015,Silicone - Heavy,ชุด
+09007020,Adhesive Scotchbond,ขวด
+09007021,Primer Scotchbond,ขวด
+09008001,Acrylic resin -Duralay,ชุด
+09008002,Acrylic resin (Heat - cure) - clear - ผง,กระป๋อง
+09008003,Acrylic resin (Heat - cure) - pink - น้ำ,ขวด
+09008005,Acrylic resin (Heat - cure) - ผงสี 1R,ขวด
+09008006,Acrylic resin (Heat - cure) - ผงสี  2C,ขวด
+09008007,Acrylic resin (Heat - cure) - ผงสี 4F,ขวด
+09008008,Acrylic resin (Heat - cure) - ผงสี 5D,ขวด
+09008010,Acrylic resin (Self - cure) - pink - ผง,กิโลกรัม
+09008019,Alcohol Torch (ตะเกียงแอลกอฮอล์) : พลาสติก,อัน
+09008024,Articulating tape,ชุด
+09008025,Cement - Glass Ionomer self- cure for fixing C&B,ชุด
+09008027,Cement - Resin cement,ชุด
+09008032,Gingival retraction cord No 1,หลอด
+09008033,Gingival retraction cord No 2,หลอด
+09008034,Gingival retraction cord  without epinephrine No 0,หลอด
+09008035,Gingival retraction cord  without epinephrine No 1,หลอด
+09008036,Gingival retraction cord  without epinephrine No 2,หลอด
+09008040,Occlusal plane guide (พลาสติก),อัน
+09008057,Temporary cement Non-eugenol,ชุด
+09008059,Wax - Aluwax,กล่อง
+09008061,Wax - Colour,กล่อง
+09008062,Wax - Ivory,กล่อง
+09008063,Wax - Occlusal indicator,กล่อง
+09008067,Wax - Sticky,กล่อง
+09008072,ลวดดัดตะขอ No 18,ขวด
+09008073,ลวดดัดตะขอ No 19,ขวด
+09008074,ลวดดัดตะขอ No 20,ขวด
+09008075,ลวดดัดตะขอ No 21,ขวด
+09008076,วัสดุเสริมฐานฟันปลอมแบบแข็ง ยี่ห้อ Tokuso,ชุด
+09008079,วัสดุตรวจหาส่วนเกิน Disclosing wax,กล่อง
+09008087,Acrylic resin for temporary crow (Dentalon),ชุด
+09008092,Glass ionomer luting cement for fix crown,ชุด
+09008093,Investment stone,กระสอบ
+09008094,Link plus mini kit,กล่อง
+09008095,Root canal pin : สีแดงพลาสติก,กล่อง
+09008098,Acrylic resin (Heat - cure) ผงสี 2 L,ขวด
+09008099,Cord packer,ตัว
+09008108,Fit Tester,กล่อง
+09009005,Mersilk 4/0 พร้อมเข็ม 19 mm.,กล่อง
+09009006,Mersilk 5/0 พร้อมเข็ม 12 mm.,กล่อง
+09009007,Blade No 12,กล่อง
+09009008,Blade No 12D,กล่อง
+09009009,Blade No 15C,กล่อง
+09009010,Blade No 20,กล่อง
+09009017,Coated vicryl 5/0 พร้อมเข็ม 16 mm.,กล่อง
+09009028,Needle for surgery No.18 curve,โหล
+09009033,Suture wire No.24,ม้วน
+09009034,Suture wire No.25,ม้วน
+09009035,Suture wire No.26,ม้วน
+09009036,Suture wire No.28,ม้วน
+090509051,Dexon No.3/0 พร้อมเข็ม,โหล
+090509052,Dexon No.4/0 พร้อมเข็ม,โหล
+090509057,Blade No.11,กล่อง
+090509058,Needle Holder,ตัว
+090509059,Tissue Forceps TP42,อัน
+09009060,Tissue Forceps (แบบไม่มีเขี้ยวโค้ง),อัน
+09009061,Towel clip,อัน
+09009062,กรรไกรตัดไหมชนิดโค้ง,อัน
+09009063,Temporature (ปรอทวัดไข้),อัน
+09009064,Steislitz root forcep-45 Des,ตัว
+09009070,Artery forcep : H2 curve,อัน
+09009071,Blade holder,อัน
+09009072,Tissue Forceps (แบบไม่มีเขี้ยวโค้ง),อัน
+09009075,Coated vicry 5/0 พร้อมเข็ม 11mm.,กล่อง
+09009079,Coated vicry 5/0 พร้อมเข็ม 13mm.,กล่อง
+09009080,กรรไกรตัดไหมชนิดตรง,อัน
+09010001,Basic fushin,ขวด
+09010002,Coe pack,ชุด
+09010003,Colla Plug (3/8 inc x 3/4 inc) 1 cm x 2 cm,ชิ้น
+09010010,"ผงกระดูก : Demineralized,Biomend 0.50 mm.",ขวด
+09010013,"แผ่นเยื่อเหนี่ยวนำ : GTR, Biomend (15x20 mm.) Exte",กล่อง
+09010014,"แผ่นเยื่อเหนี่ยวนำ : GTR, Biomend (20x30 mm.)",กล่อง
+09010015,"แผ่นเยื่อเหนี่ยวนำ : GTR, Biomend (20x30 mm.) Exte",กล่อง
+09010017,Orban knives : KO 1/2,ตัว
+09010019,Kerkland knife : KK 15/16,อัน
+09010020,หินรับเครื่อง (ชนิดหยาบ),อัน
+09010027,หัวขูดหินปูน 25 K,อัน
+09010029,Hand scaler : sickel ฟันหน้า,ตัว
+09010030,Hand scaler : sickel ฟันหลัง,ตัว
+09014179,Green stone flame shape HP,ตัว
+09014180,Green stone round shape HP,ตัว
+09014181,Green stone taper sharp HP,ตัว
+09014182,Pink stonelong flame shape HP,ตัว
+09014183,Pink stonelong taper shape HP,ตัว
+09014190,Green stone flame shape FG,ตัว
+09014191,Green stone round shape (Latch),ตัว
+09014192,Green stone round shape FG,ตัว
+09014194,white stone flame shape FG,ตัว
+09014199,Silicone polishing brown flame HP,ตัว
+09014201,Sillicone polishing brown wheel shape HP,ตัว
+09014202,Sillicone polishing brown wheel shape HP for interpro,ตัว
+09014203,Silicone polishing for acrylic - black HP,ตัว
+09014205,Silicone polishing for acrylic - yellow HP,ตัว
+09014206,Silicone polishing gray topedo shape HP,ตัว
+09014209,Sillicone polishing green topedo shape HP,ตัว
+09014210,Sillicone polishing green wheel shape HP for metal,ตัว
+09014212,Silicone polishing brown flame shape FG,ตัว
+09014213,Silicone polishing gray flame shape (Latch),ตัว
+09014216,Chipless wheels,ตัว
+09014218,Composite finishing kit (Stone),ชุด
+09014219,Cotton wheel 2.5 cm.,อัน
+09014220,Cotton wheel พร้อม Mandrel,อัน
+09014221,Cutting Disks (Fiber Disk),กล่อง
+09014222,Emery band (กระดาษทรายวงแหวน),กล่อง
+09014227,Heatless stone wheel,ตัว
+09014228,Mandrel for pop-on,ถุง
+09014230,Mandrel long shank สำหรับเสียบกระดาษทราย,อัน
+09014231,Mandrel long shank สำหรับเสียบกระดาษทรายวงแหวน,อัน
+09014232,"Mini flexidisc spindile kit 3/8"" for microfill,composite",ชุด
+09014233,"Mini flexidisc start kit 3/"" for microfill, composite",ชุด
+09014243,Polishing kit : Enhance refill cup,ชุด
+09014244,Polishing kit : Enhance refill Disc,ชุด
+09014254,Pumice หยาบ (1),ถุง
+09014256,Rubber brush,ตัว
+09014258,Sand paper strip,กล่อง
+09014264,ผงขัดผสมฟลูออไรด์ : Nupro,กล่อง
+09014266,หัว Composhape No.4205 คาดแดง,ตัว
+09014267,หัว Composhape No.4205L คาดแดง,ตัว
+09014268,หัว Composhape No.5205 คาดเหลือง,ตัว
+09014269,หัว Composhape No.5205L คาดเหลือง,ตัว
+09014274,หัวขัด Porcelain PA,กล่อง
+09014277,"หัวขัดผ้า (Cotton) 6""",อัน
+09014278,หัวขัดสีชมพูรูปดอกบัว (หัวใหญ่),ตัว
+09014279,หัวยางขัดโลหะสีแดง,ตัว
+09014280,หัวยางขัดมันโลหะสีเขียวก้านยาว,ตัว
+09014283,Acrylic carbide bur,ตัว
+09014284,Acrylic carbide bur : หัวมะเฟือง,ตัว
+09014287,Diamond round bur .009 (Latch),ตัว
+09014289,Steel round long shank bur .023 HP,ตัว
+09014290,Finishing steel round bur .012 (Latch),ตัว
+09014291,Finishing steel round bur .014 (Latch),ตัว
+09014292,Finishing steel round bur .016 (Latch),ตัว
+09014293,Finishing steel round bur .018 (Latch),ตัว
+09014294,Finishing steel round bur .021 (Latch),ตัว
+09014295,Finishing steel round bur .023 (Latch),ตัว
+09014296,Green stone long flame shape HP,ตัว
+09014297,Green stone long wheel shape HP,ตัว
+09014299,Sand paper disc,กล่อง
+09014300,Steel taper bur long shank .009 HP,ตัว
+09014301,หัวกรอ Contra angle,ชิ้น
+09014307,หัว Composhape Refill,ตัว
+09014320,Carbide fissure long shank bur .016 HP,กล่อง
+09014321,Carbide fissure long shank bur .018 HP,กล่อง
+09014322,Carbide round long shank bur .006 HP,กล่อง
+09014323,Carbide round long shank bur .008 HP,กล่อง
+09014328,Carbide taper fissure long shank bur .016 HP,กล่อง
+09014330,Carbide bur for removing Composite,กล่อง
+09014331,Carbide fissure bur No. 557,กล่อง
+09014332,Carbide fissure bur .330 FG,กล่อง
+09014333,Carbide fissure taper bur # 170 L FG,กล่อง
+09014334,Carbide invented bur.006,กล่อง
+09014335,Carbider round  bur .006 FG,กล่อง
+09014337,Carbider round  bur .008 FG,กล่อง
+09014339,Carbider round  bur .010 FG,กล่อง
+09014341,Carbider round  bur .014 FG,กล่อง
+09014342,Carbider round  bur .033 FG,กล่อง
+09014343,Carbide taper bur # 169 FG,กล่อง
+09014344,Carbide taper bur # 169 L FG,กล่อง
+09014345,Carbide taper bur # 170 FG,กล่อง
+09014346,Diamond bur cylinder .010 FG,กล่อง
+09014347,Diamond bur cylinder .012 FG,กล่อง
+09014348,Diamond fissure bur .008 FG,กล่อง
+09014349,Diamond fissure bur .009 FG,กล่อง
+009014350Z,Diamond fissure bur .010 FG,กล่อง
+09014351,Diamond fissure bur .012 FG,กล่อง
+09014352,Diamond fissure bur .014 FG,กล่อง
+09014353,Diamond fissure bur .016 FG,กล่อง
+09014354,Diamond flat end taper bur FG,กล่อง
+09014355,Diamond inverted bur.009 FG,กล่อง
+09014356,Diamond inverted bur .012 FG,กล่อง
+09014357,Diamond inverted bur .014 FG,กล่อง
+09014358,Diamond round bur .006 FG,กล่อง
+09014367,Diamond round bur .007 FG,กล่อง
+09014368,Diamond round end taper .010 FG (สั้น),กล่อง
+09014370,Diamond round end taper bur .012 FG,กล่อง
+09014371,Diamond round end taper bur .014 FG D10,กล่อง
+09014374,Diamond taper bur.012 FG,กล่อง
+09014375,Diamond taper bur.014 FG,กล่อง
+09014376,Diamond taper bur.018 FG,กล่อง
+09014377,Diamond taper fissure bur.016.FG,กล่อง
+09014378,Diamond taper fissure bur .012 FG,กล่อง
+09014379,Diamond torpedo shape.012 FG,กล่อง
+09014380,Diamond torpedo shape .014 FG,กล่อง
+09014381,Diamond torpedo shape .016 FG,กล่อง
+09014383,Diamond fissure bur.008 (Latch),กล่อง
+09014384,Diamond fissure bur .010 (Latch),กล่อง
+09014385,Diamond fissure bur .012 (Latch),กล่อง
+09014386,Diamond fissure bur .009 (Latch),กล่อง
+09014387,Diamond round bur .008 (Latch),กล่อง
+09014388,Diamond round bur .010 (Latch),กล่อง
+09014389,Diamond round bur .012 (Latch),กล่อง
+09014390,Diamond round bur.014 (Latch),กล่อง
+09014391,Diamond round bur.018 (Latch),กล่อง
+09014392,Diamond round bur.021 (Latch),กล่อง
+09014393,Diamond round bur .009 (Latch),กล่อง
+09014394,Steel fissure long shank bur .016 HP,กล่อง
+09014395,Steel fissure long shank bur .018 HP,กล่อง
+09014396,Steel fissure long shank bur .021 HP,กล่อง
+09014399,Steel round long shank bur .018 HP,กล่อง
+09014400,Steel round long shank bur .020 HP,กล่อง
+09014401,Steel round long shank bur .021 HP,กล่อง
+09014406,Steel taper long shank bur .023 HP,กล่อง
+09014408,Stell fissure bur.009 (Latch),กล่อง
+09014409,Steel fissure bur .010  (Latch),กล่อง
+09014410,Steel fissure bur .012  (Latch),กล่อง
+09014411,Steel fissure bur .014 (Latch),กล่อง
+09014412,Steel fissure bur .016 (Latch),กล่อง
+09014413,Steel fissure long shank bur .016 (Latch),กล่อง
+09014414,Steel fissure long shank bur .018 (Latch),กล่อง
+09014415,Steel fissure long shank bur .023 (Latch),กล่อง
+09014417,Steel inverted bur .008 (Latch),กล่อง
+09014418,Steel inverted bur .010 (Latch),กล่อง
+09014420,Steel round bur.006 (Latch),กล่อง
+09014422,Steel round bur .010  (Latch),กล่อง
+09014423,Steel round bur .012 (Latch),กล่อง
+09014424,Steel round bur .014 (Latch),กล่อง
+09014425,Steel round bur .016 (Latch),กล่อง
+09014426,Steel round bur .018 (Latch),กล่อง
+09014427,Steel round bur .021 (Latch),กล่อง
+09014428,Steel round bur .023 (Latch),กล่อง
+09014429,Steel round bur .008 (Latch),กล่อง
+09014430,Steel round long shank bur .008 (Latch),กล่อง
+09014431,Steel round long shank bur .010 (Latch),กล่อง
+09014432,Steel round long shank bur .012 (Latch),กล่อง
+09014433,Steel round long shank bur .014 (Latch),กล่อง
+09014434,Steel round long shank bur .016 (Latch),กล่อง
+09014435,Steel round long shank bur .018 (Latch),กล่อง
+09014436,Steel round long shank bur .021 (Latch),กล่อง
+09014443,Finishing steel flame bur .010 (Latch),กล่อง
+09014444,Finishing steel flame bur .012 (Latch),กล่อง
+09014445,Finishing steel flame bur .014 (Latch),กล่อง
+09014446,Finishing steel round bur .014 (Latch),กล่อง
+09014447,Finishing steel round bur .016 (Latch),กล่อง
+09014449,Finishing steel round bur .021 (Latch),กล่อง
+09014451,Steel fissure bur .008 (Latch),กล่อง
+09014456,Gate glidden drill 28 mm #4,กล่อง
+09015073,ไนโตรเจนเหลว,ลิตร
+09015076,ก๊าซคาร์บอนไดอ๊อกไซด์,ท่อ
+09015202,Sodium nitrite,กล่อง
+099999020,ข้อต่อเข้าเครื่องขูดหินปูนของ Belmont,ตัว
+099999022,ฝาปิดหลังหัวกรอ (Head cap. STD UP for pana air),อัน
+099999023,สาย Saliva Ejection,เส้น/สาย
+099999024,สายหัวกรอ 4 รู ชนิดไม่มีไฟ,เส้น/สาย
+099999025,สายหัวกรอ 6 รู ชนิดมีไฟ,อัน
+099999026,สายหัวกรอความเร็ว,เส้น/สาย
+099999027,สีแต้มยูนิต,กระป๋อง
+09002077,File : K-flex file 30 mm No.35,กล่อง
+09002105,Gutta percha cone # FM,กล่อง
+09002112,Lentulo spiral 17 mm. No.25,ตัว
+09002113,Lentulo spiral 25 mm. No.20 (# 1) สีเหลือง,ตัว
+09002117,Lentulo sprial 21 mm. No.30 สีฟ้า,ตัว
+09002118,Lentulo sprial 21 mm. No.35 สีเขียว,ตัว
+09002119,Lentulo sprial 21 mm. No.40 สีดำ,ตัว
+09002120,Lentulo sprial 25 mm. No.35 สีเขียว,ตัว
+09002121,Lentulo sprial 25 mm. No.40 สีดำ,ตัว
+09006002,Amalgam carver,อัน
+09008060,Wax - Blue inlay,กล่อง
+09008077,"วัสดุเสริมฐานรากฟันปลอมชัวคราว ยี่ห้อ Trusoft, Soft liner",กล่อง
+09008016,Acrylic resin ทำ tray - Formatray - ผง,ถัง
+09012001,Fluoride tray L,คู่
+09012002,Fluoride tray M,คู่
+09012003,Fluoride tray S,คู่
+09012006,Left central crown LC3,ตัว
+09012007,Left central crown LC4,ตัว
+09012008,Left central crown LC5,ตัว
+09012009,Left central crown LC6,ตัว
+09012010,Left lateral crown LL1,ตัว
+09012017,"Left lower ""D"" molar DLL3",ตัว
+09012018,"Left lower ""D"" molar DLL4",ตัว
+09012021,"Left lower ""D"" molar DLL7",ตัว
+09012022,"Left lower ""E"" molar ELL2",ตัว
+09012023,"Left lower ""E"" molar ELL3",ตัว
+09012024,"Left lower ""E"" molar ELL4",ตัว
+09012025,"Left lower ""E"" molar ELL5",ตัว
+09012026,"Left lower ""E"" molar ELL6",ตัว
+09012027,"Left lower ""E"" molar ELL7",ตัว
+09012028,"Left upper ""D"" molar DUL2",ตัว
+09012030,"Left upper ""D"" molar DUL4",ตัว
+09012031,"Left upper ""D"" molar DUL5",ตัว
+09012034,"Left upper ""E"" molar EUL2",ตัว
+09012035,"Left upper ""E"" molar EUL3",ตัว
+09012036,"Left upper ""E"" molar EUL4",ตัว
+09012037,"Left upper ""E"" molar EUL5",ตัว
+09012038,"Left upper ""E"" molar EUL6",ตัว
+09012040,Mouth gag : ขนาดใหญ่,อัน
+09012042,Primary cuspid stainless crown Mandibular CL1,ตัว
+09012043,Primary cuspid stainless crown Mandibular CL2,ตัว
+09012044,Primary cuspid stainless crown Mandibular CL3,ตัว
+09012046,Primary cuspid stainless crown Mandibular CL5,ตัว
+09012047,Primary cuspid stainless crown Mandibular CL6,ตัว
+09012049,Primary cuspid stainless crown : Maxillary CU2,ตัว
+09012054,Right central crown RC1,ตัว
+09012055,Right central crown RC2,ตัว
+09012056,Right central crown RC3,ตัว
+09012057,Right central crown RC4,ตัว
+09012058,Right central crown RC5,ตัว
+09012059,Right central crown RC6,ตัว
+09012062,Right lateral crown RL3,ตัว
+09012063,Right lateral crown RL4,ตัว
+09012064,Right lateral crown RL5,ตัว
+09012066,"Right lower ""D"" molar DLR2",ตัว
+09012067,"Right lower ""D"" molar DLR3",ตัว
+09012068,"Right lower ""D"" molar DLR4",ตัว
+09012069,"Right lower ""D"" molar DLR5",ตัว
+09012071,"Right lower ""D"" molar DLR7",ตัว
+09012072,"Right lower ""E"" molar ELR2",ตัว
+09012073,"Right lower ""E"" molar ELR3",ตัว
+09012074,"Right lower ""E"" molar ELR4",ตัว
+09012076,"Right lower ""E"" molar ELR6",ตัว
+09012079,"Right upper ""D"" molar DUR3",ตัว
+09012080,"Right upper ""D"" molar DUR4",ตัว
+09012081,"Right upper ""D"" molar DUR5",ตัว
+09012083,"Right upper ""D"" molar DUR7",ตัว
+09012084,"Right upper ""E"" molar EUR2",ตัว
+09012085,"Right upper ""E"" molar EUR3",ตัว
+09012086,"Right upper ""E"" molar EUR4",ตัว
+09012090,Silver solder wire,ม้วน
+09012098,Stainless steel band : Mandibular NL32,ตัว
+09012099,Stainless steel band : Mandibular NL33,ตัว
+09012100,Stainless steel band : Mandibular NL34,ตัว
+09012113,Stainless steel band : Mandibular NU32,ตัว
+09012127,ฟันเด็นโตฟอร์ม #84,ซี่
+09013008,Stainless steel wire 0.0175 inch - twistflex,หลอด
+09013009,Stainless steel wire 0.014 inch - straight,หลอด
+09013011,Stainless steel wire 0.018 inch - straight,หลอด
+09013012,Stainless steel wire  0.016 x 0.022 inch - straight ,หลอด
+09013013,Stainless steel wire 0.017 x 0.025 inch - straight,หลอด
+09013014,Stainless steel wire 0.018 x 0.025 inch - straight,หลอด
+09013015,Stainless steel swire .019 x 0.025 inch - straight ,หลอด
+09013016,"Stainless steel swire 0.014 inch, upper - preformed",กล่อง
+09013017,"Stainless steel swire 0.014 inch, lower - preformed",กล่อง
+09013018,"Stainless steel swire 0.016 inch, upper - preformed",กล่อง
+09013019,"Stainless steel swire 0.016 inch, lower - preformed",กล่อง
+09013020,"Stainless steel swire 0.018 inch, upper - preformed",กล่อง
+09013021,"Stainless steel swire 0.018 inch, lower - preformed",กล่อง
+09013022,"Stainless steel  wire 0.020 inch,  upper - preformed ",กล่อง
+09013023,"Stainless steel  wire 0.020 inch,  lower - preformed ",กล่อง
+09013024,"Stainless steel  wire 0.016 x 0.022 inch, upper - preformed ",กล่อง
+09013025,"Stainless steel  wire 0.016 x 0.022 inch,  lower - preformed ",กล่อง
+09013026,"Stainless steel  wire 0.017 x 0.025 inch, upper - preformed ",กล่อง
+09013027,"Stainless steel  wire 0.017 x 0.025 inch, lower - preformed",กล่อง
+09013028,"Stainless steel  wire 0.018 x 0.025 inch, upper - preformed ",กล่อง
+09013029,"Stainless steel  wire 0.018 x 0.025 inch, lower - preformed ",กล่อง
+09013030,"Stainless steel  wire 0.019 x 0.025 inch, upper - preformed ",กล่อง
+09013031,"Stainless steel  wire 0.019 x 0.025 inch, lower - preformed ",กล่อง
+09013032,"Stainless steel  wire 0.016 x 0.022 inch, upper - reverse curve",กล่อง
+09013033,"Stainless steel  wire 0.016 x 0.022 inch, lower - reverse curve",กล่อง
+09013034,"Stainless steel  wire 0.019 x 0.025 inch, upper - preformed ",กล่อง
+09013035,"Stainless steel  wire 0.019 x 0.025 inch, lower - preformed ",กล่อง
+09013036,"Nickel titanium wire .014 inch,  upper - preformed ",กล่อง
+09013037,"Nickel titanium wire .014 inch,  lower - preformed ",กล่อง
+09013038,"Nickel titanium wire .016 inch, upper - preformed ",กล่อง
+09013039,"Nickel titanium wire .016 inch, lower - preformed ",กล่อง
+09013040,"Nickel titanium wire .018 inch, upper - preformed ",กล่อง
+09013041,"Nickel titanium wire .018 inch,  lower - preformed ",กล่อง
+09013042,"Nickel titanium wire 0.016 x 0.022 inch,  upper - preformed ",กล่อง
+09013043,"Nickel titanium wire 0.016 x 0.022 inch,  lower - preformed ",กล่อง
+09013044,"Nickel titanium wire 0.018 inch, upper - reverse curve ",กล่อง
+09013045,"Nickel titanium wire 0.018 inch, lower - reverse curve ",กล่อง
+09013048,"Super-niti wire 0.014 inch, upper - preformed",กล่อง
+09013049,"Super-niti wire 0.014 inch, lower - preformed",กล่อง
+09013050,"Super-niti wire 0.016 inch, upper - preformed",กล่อง
+09013051,"Super-niti wire 0.016 inch, lower - preformed",กล่อง
+09013052,"Super-niti wire 0.018 inch, upper - preformed",กล่อง
+09013053,"Super-niti wire 0.018 inch, lower - preformed",กล่อง
+09013054,"Super-niti wire 0.017 x 0.025 inch, upper - preformed",กล่อง
+09013055,"Super-niti wire 0.017 x 0.025 inch, lower - preformed",กล่อง
+09013057,"Super-niti wire 0.018 x 0.025 inch, lower - preformed",กล่อง
+09013060,"TMA wire 0.017 x 0.025 inch,  upper – preformed ",กล่อง
+09013061,"TMA wire 0.017 x 0.025 inch,  lower – preformed ",กล่อง
+09013062,"TMA wire 0.019 x 0.025 inch,  upper – preformed ",กล่อง
+09013063,"TMA wire 0.019 x 0.025 inch,  lower – preformed ",กล่อง
+09013064,"Reverse curve TMA With T - loop, 30 mm.",กล่อง
+09013065,"Reverse curve TMA With T - loop, 32 mm.",กล่อง
+09013066,"Reverse curve TMA With T - loop, 34 mm.",กล่อง
+09013067,"Reverse curve TMA With T - loop, 36 mm.",กล่อง
+09013068,"Reverse curve TMA With T - loop, 38 mm.",กล่อง
+09013069,"Reverse curve TMA With T - loop, 40 mm.",กล่อง
+09013071,Australian wire .014 inch - special plus,ม้วน
+09013072,Australian wire .016 inch - special plus,ม้วน
+09013073,Australian wire .018 inch - special plus,ม้วน
+09013074,Australian wire .020 inch – premium plus,ม้วน
+09013075,Australian wire .008 inch – premium plus,ม้วน
+09013076,Australian wire .010 inch – premium plus,ม้วน
+09013077,Australian wire .012 inch – premium plus,ม้วน
+09013079,Australian wire .016 inch – premium plus,ม้วน
+09013081,Australian wire .020 inch – premium plus,ม้วน
+09013082,"Bondable brackets, slot .022 inch, Roth prescription แต่ละชุดประกอบด้วย Bracket จำนวน 20 ตัว สำหรับฟันทุกซี่ในช่องปาก ยกเว้นฟันกรามแท้",ชุด
+09013083,"Bondable metal brackets, slot .022 inch, Roth prescription แต่ละชุดประกอบด้วย Bracket จำนวน 20 ตัว สำหรับฟันทุกซี่ในช่องปาก ยกเว้นฟันกรามแท้",ชุด
+09013084,"Bondable ceramic brackets, slot .022 inch, Roth prescription แต่ละชุดประกอบด้วย Bracket จำนวน 20 ตัว สำหรับฟันทุกซี่ในช่องปาก ยกเว้นฟันกรามแท้",ชุด
+09013085,"Prewelded  first molar band with convertible triple tube, slot .022 inch– upper  right",ชิ้น
+09013086,"Prewelded  first molar band with convertible triple tube, slot .022 inch– upper left ",ชิ้น
+09013087,"Prewelded  first molar band with convertible combination tube, slot .022 inch– lower   right",ชิ้น
+09013088,"Prewelded  first molar band with convertible combination tube, slot .022 inch– lower  left ",ชิ้น
+09013089,Prewelded second molar band upper right,ชิ้น
+09013090,Prewelded second molar band upper left,ชิ้น
+09013091,Prewelded second molar band lower right,ชิ้น
+09013092,Prewelded second molar band lower left,ชิ้น
+09013093,"Bondable convertible single buccal tube, slot .022 inch, upper  first  molar -right and left",ตัว
+09013094,"Bondable convertible single buccal tube, slot .022 inch, lower  first  molar -right and left",ตัว
+09013095,"Bondable convertible single buccal tube, slot .022 inch, upper second  molar -right and left",ตัว
+09013096,"Bondable convertible single buccal tube, slot .022 inch, lower second  molar -right and left",ตัว
+09013097,Braket  MBT  System แต่ละชุดประกอบด้วย braket 20 ตัว สำหรับฟันทุกซี่ในช่องปากยกเว้นฟันกรามแท้,ชุด
+09013098,Braket  MBT  System แต่ละชุดประกอบด้วย braket 16 ตัว สำหรับฟันทุกซี่ในช่องปากยกเว้นฟันกรามแท้,ชุด
+09013099,Preweld bands with convertible tripple tubes สำหรับฟันกรามแท้ซี่ที่ 1 แต่ละชุดประกอบด้วย band 2 ตัว สำหรับฟันกรามแท้ซี่ที่ 1 ในฟันบนข้างซ้ายและขวา,ชุด
+09013100,Preweld bands with convertible double tubes แต่ละชุดประกอบด้วย band 2 ตัว สำหรับฟันกรามแท้ซี่ที่ 1 ในฟันล่างข้างซ้ายและขวา,ชุด
+09013101,Preweld bands singel tubes แต่ละชุดประกอบด้วย band 2 ตัว สำหรับฟันกรามแท้ซี่ที่ 2 ในฟันบนข้างซ้ายและขวา,ชุด
+09013102,Preweld bands singel tubes แต่ละชุดประกอบด้วย band 2 ตัว สำหรับฟันกรามแท้ซี่ที่ 2 ในฟันล่างข้างซ้ายและขวา,ชุด
+09013103,"Bodable convertible buccal tubes สำหรับฟันกรามแท้ซี่ที่ 1  แต่ละชุดประกอบด้วย Tubes สำหรับฟันกรามแท้ซี่ที่ 1 ข้างซ้าย-ขวา ,บน-ล่าง อย่างละตัว จำนวน 4 ตัว/ชุด สำหรับ MBT system",ชุด
+09013104,"Bodable single buccal tubes สำหรับฟันกรามแท้ซี่ที่ 2  แต่ละชุดประกอบด้วย Tubes สำหรับฟันกรามแท้ซี่ที่ 2 ข้างซ้าย-ขวา ,บน-ล่าง อย่างละตัว จำนวน 4 ตัว/ชุด สำหรับ MBT system",ชุด
+09013105,Intraoral elastic band  1/8” 3.5 oz (100วง/ซอง),ซอง
+09013106,Intraoral elastic band  1/4” 2 oz (100วง/ซอง),ซอง
+09013107,Intraoral elastic band  1/4” 3.5 oz (100วง/ซอง),ซอง
+09013108,Intraoral elastic band  1/4” 6 oz (100วง/ซอง),ซอง
+09013109,Intraoral elastic band  3/16” 3.5 oz (100วง/ซอง),ซอง
+09013110,Intraoral elastic band  3/16” 4.5 oz (100วง/ซอง),ซอง
+09013111,Intraoral elastic band  5/16” 3.5 oz (100วง/ซอง),ซอง
+09013112,Coloured moduled for ligation (10 เส้น/กล่อง),แพค/ห่อ
+09013113,Elastic C – Chain (coloured) :  ข้อถี่ (15 fs/ ม้วน),ม้วน
+09013114,Elastic C – Chain (coloured) :  ข้อปานกลาง  (15 fs/ ม้วน),ม้วน
+09013115,Elastic C  - Chain (coloured)  : ข้อห่าง  (15 fs/ ม้วน),ม้วน
+09013116,"Elastic  (Posterior seperator) 1,000 ตัว/ซอง",ซอง
+09013117,Power tube ขนาด 0.25 นิ้ว ยาว 50 ฟุต/ม้วน,ม้วน
+09013118,Tissue Guard,ม้วน
+09013120,bondable  lingual button ,ชิ้น
+09013123,Crimpable hook ขนาด  .022 x .028 นิ้ว,ชิ้น
+09013125,Palatal Sheath ,ชิ้น
+09013126,Open coil spring Nikel Titanium (havy),ม้วน
+09013127,Closed coil spring super elastie niti (light force)เส้นผ่าศูนย์กลาง .010x.030 นิ้ว ยาว 6 mm.,กล่อง
+09013128,Closed coil spring super elastie niti (light force)เส้นผ่าศูนย์กลาง .010x.030 นิ้ว ยาว 9 mm.,กล่อง
+09013129,Rotating wedges (100 ชิ้น/CRT),กล่อง
+09013131,"Face bow, short",ชิ้น
+09013135,Protraction head gear,ชิ้น
+09013136,Safety Release Modules,ชิ้น
+09013137,Glass ionomer  cement : Protech (Powder 240 gm/Liquid 120 ml),ชุด
+09013138,liquid for  glass ionomer band cement (120 ml),ขวด
+09013139,Self cured orthodontic bonding system,ชุด
+09013141,Eching  for  orthodontic bonding (Refill) บรรจุ 5 ml,ขวด
+09013142,Light cured orthodontic bonding  (Refill) บรรจุ 5 ml,ขวด
+09013143,Orthodontic bonding light cured system  ,ชุด
+09013145,Metal strip,ซอง
+09013146,Expansion screws (Hyrax ขนาด 7 mm.),ชิ้น
+09013148,Distal screw,ชิ้น
+09013149,Three way screw,ชิ้น
+09013150,Tracing paper (100 แผ่น/กล่อง),กล่อง
+09013154,Wax Form Class I (1 ชิ้น/CRT),กล่อง
+09013155,Wax Form Class II Division I (1 ชิ้น/CRT),กล่อง
+09013156,Wax Form Class II Division II (1 ชิ้น/CRT),กล่อง
+09013157,Wax Form Class III (1 ชิ้น/CRT),กล่อง
+09013181,Band pusher,ชิ้น
+09013184,Bracket removing pliers,ชิ้น
+09013187,Mathicne  ,ชิ้น
+09013188,Tucker,ชิ้น
+09013189,Adhesive remover replacement,ชิ้น
+09013216,Stone : snow white stone,กล่อง
+09013218,Stainless steel spring hard wire 0.045 นิ้ว,ม้วน
+09013219,Stainless steel spring hard wire 1.1 mm.,ม้วน
+09013220,Stainless steel spring : Rectangular .017 x .022,หลอด
+09013221,Stainless steel (Preform) post wire .019 x .025 Upper,กล่อง
+09013223,Prewelded premolar band upper right/left,ตัว
+09013224,Prewelded premolar band lower right/left,ตัว
+09013225,กล่องใส่แบบจำลองฟัน,กล่อง
+09013226,Mini stainless steel scetional screws (3 mm.),ตัว
+09013227,Molar band seating instrument,ตัว
+09013228,Stainless laboratory wire 0.5 mm. - spring hard,ม้วน
+09013229,Stainless laboratory wire 0.6 mm. - spring hard,ม้วน
+09013230,Stainless laboratory wire 1.1 mm. - spring hard,ม้วน
+09013231,Stainless steel wire 0.016 x 0.016 inch - straight,หลอด
+09013232,Nickel titanium wire 0.016 x 0.016 inch upper - preformed,กล่อง
+09013233,Nickel titanium wire 0.016 x 0.016 inch lower - preformed,กล่อง
+09013234,"Nickel titanium wire 0.017 x 0.025 inch,  upper - preformed ",กล่อง
+09013235,"Nickel titanium wire 0.017 x 0.025 inch,  lower - preformed ",กล่อง
+09013236,"Nickel titanium wire 0.019 x 0.025 inch,  upper - preformed ",กล่อง
+09013237,"TMA wire 0.018 x 0.025 inch,  upper – preformed ",กล่อง
+09013238,"TMA wire 0.018 x 0.025 inch,  lower – preformed ",กล่อง
+09013239,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5 x 5 นิ้ว ขนาด 0.020 แบบแข็ง,แผ่น
+09013240,Acrylic resin (Self - cure) - ortho pink,ขวด
+09013242,น้ำสบู่สำหรับแช่โมเดลแบบจำลองฟัน,แกลลอน
+09013245,"Nickel titanium wire 0.018 x 0.025 inch,  upper - preformed ",กล่อง
+09013246,"Nickel titanium wire 0.018 x 0.025 inch,  lower - preformed ",กล่อง
+09013250,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5 x 5 นิ้ว ขนาด 0.030 แบบแข็ง,แผ่น
+09013251,"Nickel titanium wire 0.019 x 0.025 inch,  lower - preformed ",กล่อง
+09014319,Carbide fissure long shank bur .014 HP,กล่อง
+09014452,Carbide taper fissure long shank bur .021 HP,กล่อง
+09014329,Carbide bur for remove large (latch) (fissure 010 FG),กล่อง
+09014382,Diamond disc พร้อม Mandrel,กล่อง
+09014397,Steel round long shank bur .014 HP,กล่อง
+09014402,Steel round long shank bur .014 HP,กล่อง
+09014448,Finishing steel round bur .018 (Latch),กล่อง
+09014450,Finishing steel round bur .023 (Latch),กล่อง
+09014407,Steel taper long shank bur .009 HP,กล่อง
+09014419,Steel round bur (Latch),กล่อง
+09014285,Diamond fissure bur .009 (Latch),ตัว
+09014286,Diamond round bur .007 FG,ตัว
+099999021,น๊อตล็อคข้อต่อหัวกรอคอนทรา,ตัว
+099999032,หลอดไฟสำรอง J. morita,หลอด
+09014172,Brown stone long taper shape HP,ตัว
+09004115,ยาลดการเสียวฟัน(Colgate Sensitive Pre-Reget),หลอด
+09001001,Amalgam allog-ชนิดเม็ด,กล่อง
+099999036,ผ้าห่อเครื่องมือ,ผืน
+0170201036,ผ้าห่อเครื่องมือ ขนาด 45*60 นิ้ว 2 ชั้น,ผืน
+0170201015,ผ้าห่อเครื่องมือ ขนาด 24*24 นิ้ว 2 ชั้น,ผืน
+09004093,น้ำยาฆ่าเชื้อ Germxtra,ชุด
+0170201052,ผ้าห่อเครื่องมือ ขนาด 36*36 นิ้ว,ผืน
+09004113,Gzyme3,ขวด
+09004114,Gobble plus,ขวด
+09004014,Alvogyl,ขวด
+09003006,Amoxycillin 500 mg,กล่อง
+09012172,Climping,ตัว
+09008154,ครอบฟันชั่วคราว,กล่อง
+09014159,Steel taper bur.008 (Latch),ตัว
+09003040,Ibuprofen 400 mg.,กล่อง
+09003054,Mouth wash : Chlohexidine,ขวด
+09003065,Paracetamol 325 mg,เม็ด
+09003066,Paracetamol 500 mg,กล่อง
+09008127,ตะเกียงแอลกอออล์,ชิ้น
+09008133,ฟันพลาสติก ยี่ห้อ Majordent,แผง
+09008043,Plastic Pin,กล่อง
+09012114,Stainless  steel band :Maxillary NU33,ตัว
+09012128,ฟันเด็นโตฟอร์ม # 85,ซี่
+09003007,Amoxycillin syrup,ขวด
+0900367,Paracetamol syrup,ขวด
+09010022,Hand Scaler Gracy No.7/8,ตัว
+09012168,ฟันเด็นโตฟอร์ม # 75,ซี่
+09010023,Hand Scaler Gracy No.11/12,ตัว
+09003001,Actifed,เม็ด
+09010024,Hand Scaler Gracy No.13/14,ตัว
+09008178,Pastic Mounting Plate,คู่
+09003043,Kamilosan M,ขวด
+09003047,Metronidazole 400 mg,กล่อง
+09003067,Paracetamol syrup,ขวด
+09013254,Bracket Damon 3 Mx (20 ซี่/ชุด),ชุด
+09003088,Vitamin B 1-6-12,กล่อง
+09006178,ตะเกียงเป่าแก๊สเป่าไฟแบบมืือจับขนาดเล็ก (Solder),อัน
+09003136,Cephaiexin 250 mg,เม็ด
+09003160,Amitriptyline 25 mg,เม็ด
+09003177,Kanolcne cr 5 g,หลอด
+09008101,ฟันพลาสติก ยี่ห้อ Yamahachi,แผง
+09003207,Tystatin oral suspension,กล่อง
+09003208,Dosance 25 mg,เม็ด
+09003201,Kamlstad Gel N,หลอด
+09003055,Mouth wash : Sodium fluoride 0.05%,ขวด
+09008071,ฟันพลาสติก Frassaco #,ซี่
+09003076,Ponstan 500 mg,เม็ด
+09003162,Neurontin 300 mg,กล่อง
+09005081,ถาดนับเม็ดยา,อัน
+09003027,Daktarin oral gel,หลอด
+09014469,ถ้วยผสมปูน Vac-U-Mixer,ชุด
+09003059,Mycostatin orai suspension,หลอด
+09012169,ฟันเด็นโตฟอร์ม # 74,ซี่
+09003084,Tetgretol 200 mg,เม็ด
+09003039,Ibuprofen 200 mg,เม็ด
+09003062,Nystatin,ขวด
+09003197,Cataflam (เ็ม็ด),เม็ด
+09003037,Fluocinolone 0.1 %,ตลับ
+09003213,FBC,เม็ด
+09001088,Fuji IX vanish,ขวด
+09003214,Folic acid,กล่อง
+09003005,Amoxycillin 250 mg.,เม็ด
+09003036,Erythomycin 250 mg,เม็ด
+09008053,Silicone  สำหรับทำเบ้าหล่อแบบพร้อมตัวเร่ง,ชุด
+09003211,Sialexin 250 mg,เม็ด
+09003212,Rothricin 150 mg,เม็ด
+09004091,สเปรย์ทำความสะอาดหัวกรอ ยี่ห้อ W&H,กระป๋อง
+09003023,Chlorhexidine mybain,ขวด
+09006044,Plaster bowl,อัน
+09006128,Plaster spatula,ชิ้น
+09006150,Wax Knife,ชิ้น
+09006165,Roach  carver,อัน
+09008123,Wax  spatula No.7,ชิ้น
+09008124,เครื่องมือแต่งขี้ผึ้ง (PKT No.2),ชิ้น
+09008125,เครื่องมือแต่งขี้ผึ้ง (PKT No.4),ชิ้น
+09008106,"NP Alloy Adkist,emt Kit",ชุด
+09008107,Porcelain Adjustment Kit,ชุด
+09001091,Composite resin LC สี A3.5 Dentin,หลอด
+09001092,Composite resin LC สี L,หลอด
+09001093,Composite resin LC สี T,หลอด
+09014217,Composit finishing Kit : Ennance,ชุด
+09001070,Alloy primer,ชุด
+09002184,File ชนิด Flox-o-file 25 mm: no.15,กล่อง
+09002185,File ชนิด Flox-o-file 25 mm. no.20,กล่อง
+09002186,File ชนิด Flox-o-file 25 mm. no.25,กล่อง
+09002187,File ชนิด Flox-o-file 25 mm. no.30,กล่อง
+09002188,File ชนิด Flox-o-file 25 mm.35,กล่อง
+09002189,File ชนิด Flox-o-file 25 mm.no.40,กล่อง
+09006201,Plaster  knife,อัน
+09008150,เครื่องมือแต่งขี้ผึ้ง (PKT No.3),ชิ้น
+09008151,เครื่องมือแต่งขี้ผึ้ง (PKT No.5),ชิ้น
+09002256,K-file 25 mm.Assortment,กล่อง
+09001004,Bonding set : Scotch Bond,ชุด
+09002258,Gutta percha cone # 100,กล่อง
+09002259,Gutta percha cone # 110,กล่อง
+09002260,Gutta percha cone # 120,กล่อง
+09002261,Gutta percha cone # 130,กล่อง
+09002262,Gutta percha cone # 140,กล่อง
+09008163,Acrylic resin (Heat - cure) - ผง สี 3F,ขวด
+09008175,Acrylic resin (Heat - cure) - ผง สี 1D,ขวด
+09008176,Acrylic resin (Heat - cure) - ผง สี 3D,ขวด
+09009179,Muttihink Autowax,ชุด
+09008138,Tray พิมพ์ปาก,คู่
+09011073,"Synocta Analog , 12 mm. Grey",ตัว
+09011074,Synoc Abut cemen Crown & Bridge 5.5,ตัว
+09002007,C+File,กล่อง
+09002089,File : Protaper hand-use 21 mm.,กล่อง
+0901187,Replace select Tapered 4.3 x 10 mm.,ตัว
+09002191,AH Plus sealer,ชุด
+09011187,Replace select Tapered 4.3 x 10 mm.,ตัว
+09014467,Gate gliden 28 mm. Assirtnebt,กล่อง
+09011188,Replace select Taper 4.3 x 13 mm.,ตัว
+09014468,Gate glidden drill 32 mm. Assortment,กล่อง
+09008080,วัสดุตรวจหาส่วนเกิน ยี่ห้อ Fit checker/Fine checker,กล่อง
+09011186,UCLA abutment NP # 29006,ตัว
+09008139,Adhesive cream (ครีมติดยึดฟันปลอม),หลอด
+09006196,Endo Ray,ชุด
+09011011,Analog Implant select 4.3 (29500),ชิ้น
+09001096,Ceram-X Duo Starter Kit 7 Sysing,ชุด
+09001097,Ceram-X Duo Starter Kit 7 Sysing,ชุด
+09011121,Anolog Implant select 5.0#29502,ชิ้น
+09014029,Carbide round bur .018 FG,ตัว
+09011153,Implant Replica NOBPPL NP #29498,ตัว
+09014032,Carbide round bur FG,ตัว
+09011184,Implant coping select NP#29485,ชิ้น
+09011178,Implant Coping select WP #29493,ตัว
+09011185,Implant coping select NP#29486,ชิ้น
+09002178,File  ชนิด Flox-o-file 21 mm.No.15,กล่อง
+09002179,File  ชนิด Flox-o-file 21 mm.No.20,กล่อง
+09002180,File  ชนิด Flox-o-file 21 mm.No.25,กล่อง
+09002181,File  ชนิด Flox-o-file 21 mm.No.30,กล่อง
+09002182,File  ชนิด Flox-o-file 21 mm.No.35,กล่อง
+09003125,ยาสามัญประจำบ้าน,กล่อง
+09002183,File  ชนิด Flox-o-file 21 mm.No.40,กล่อง
+09002255,File : Protaper rotary,กล่อง
+09004070,สารฟอกสีฟัน,ขวด
+09004117,สารฟอกสีฟัน (ชุด),ชุด
+099999269,แก๊สอาร์คอน,ถัง
+09010021,Hand Scaler Gracy No.3/4,ตัว
+09007023,Rely - Try In  A1,หลอด
+070403036,หมึก Printer LBP 800/810/1120 EP-522,กล่อง
+09007025,Rely - x  Vencer Refill  AJ,หลอด
+09005076,ขวดใส่น้ำยาล้างมือ,ใบ
+09006176,"อุปกรณ์จ่ายปรอท และ A,malgam",ตัว
+09007026,Rely - x  Vencer Refill  A3,หลอด
+09006124,คีมดัดลวดชนิดปากแบน,ชิ้น
+09007024,Rely  -  Try  In  A3,หลอด
+09006125,คีมดัดลวดชนิดปากกลม,ชิ้น
+09013196,คีมดัดลวด,อัน
+09007022,Alginate : Extrafast,ถุง
+09008158,Fiber lux post,กล่อง
+09004040,Local anesthesia 4%,กล่อง
+09007027,Express Exp. penta,กล่อง
+09007028,Express light  body  tubbe  2*70 ml,คู่
+09011202,Colla Tupe Absorbuble Collgen Wound Dental,ชิ้น
+09010026,Naber probe (แบบมี Scale) P2N,ตัว
+09004099,สารละลาย Alginate,กระป๋อง
+09008180,Acrylic resin - Duralay - น้ำ,ขวด
+09004024,EDTA,ขวด
+09005049,ซองฟิล์มเอ็กซเรย์,ซอง
+09008179,Plastopaste 212 g tube base,ชุด
+09001066,Bonding : SE Bond,ชุด
+09001090,SE Bond Plus,ชุด
+09008082,วัสดุบันทึกการสบฟัน ยี่ห้อ Futtard occlusion,ชุด
+09008141,วัสดุวัสดุกดสบ Blu-Mousse,ชุด
+09008167,Cered powder,ขวด
+09006135,Mouth retractor,ตัว
+09006170,Root Canal Plugger,อัน
+09008168,Cad-cam spray,กระป๋อง
+09006211,Laxator,ตัว
+09008169,Cerec liquid,ขวด
+09008130,Acrylic resin for temporary crown ยี่ห้อ unifast (ชุด),ชุด
+09008174,Restorative pins,ชุด
+09014471,Diamond bur.016 FG รูปรักบี้,ตัว
+09005017,Floss thteader,ซอง
+09005048,Super floss,กล่อง
+09005083,"แก๊สออกซิเจน ความดันไม่ต่ำกว่า 2,000 ปอนด์",ท่อ
+09001089,Vitrebond plus,ชุด
+09008085,วัสดุปรับสภาพเนื้อเยื่อ (Tissue conditioner) / Cose-Comfort (GC),ชุด
+09003104,Soduim thiopental,ขวด
+09003105,Prostigmine,ขวด
+09004120,1% Eosin aqueosus solution,ขวด
+09003107,Succinyl choline,ขวด
+09004123,Mayer's Hematoxyhin sulution,ขวด
+09015095,Cover glass 22*22 mm.,กล่อง
+09003153,Atropine 0.6 mg/cc.,หลอด
+09015096,"Cover glass 22*40 mm. ""DAT""",กล่อง
+09004119,GC tooth mosse,หลอด
+09003180,Plasil,หลอด
+09015097,Cover glass 22*50 mm,กล่อง
+09003181,CPM,หลอด
+09015131,Paraplast plus (Tissue embedding medium),กิโลกรัม
+09015224,Cover glass 24*40 mm.,กล่อง
+09003190,Dexamethasone,ขวด
+09001002,Amalgam alloy -ชนิดแคปซูล,กล่อง
+09003193,Potassium chloride,หลอด
+09015225,Cover glass 247*50 mm.,กล่อง
+09015294,Diposable microtome blade high profile,กล่อง
+09003194,Glucose 50%,ขวด
+09003195,Calcuim gluconate,หลอด
+09003196,Cordarune,กล่อง
+09004054,Soduim bicarbonate,อัน
+09004111,Transamin,หลอด
+09005073,Surgical glove No.8,กล่อง
+090401074,Xylocaine 10% spray,ขวด
+09003200,Acetar 1000 ml,ขวด
+09009031,SET IV  ใหญ่,อัน
+09009066,5% DN/2  1000 cc.,ขวด
+09009177,5% DN/2  500 ml.,ขวด
+09010074,Three  ways,ชิ้น
+09010075,Extensin tube,เส้น/สาย
+09012171,Xylocanine gedly 2%,หลอด
+09006056,Syringe (Disposable)  3 cc.,ชิ้น
+09006057,Syringe (Disposable)  5  cc.,ชิ้น
+09006202,"Needle  disposable  size  20Gx1.5""",กล่อง
+09006204,"Needle disposable size 18Gx1.5""",กล่อง
+09006206,"Needle  disposable size 24Gx1.5""",กล่อง
+09009183,สาย Suction No. 12,เส้น/สาย
+09009184,สาย Suction No. 14,เส้้น/สาย
+09009185,สาย Suction No.16,เส้น/สาย
+09009186,สาย Suction No.10,เส้น/สาย
+09005046,Examination glove No.L,กล่อง
+09003110,Cardipine,หลอด
+09003188,Onsia,หลอด
+09004125,Thyrnol 100 g,ขวด
+09003189,parulon,หลอด
+09003191,Adalat,เม็ด
+09003192,Tracryium,หลอด
+09003198,Ephedrine,หลอด
+09006172,Progard,ชุด
+09015281,DI-PAK Medium,ชุด
+09015282,"Ametek mixed bed 10""",ชุด
+09015283,"Resin 20""",ชุด
+09015285,"Carbon 20"" for RO100 GPD",ชุด
+09015286,RO Membrane 100 GPD,ชุด
+09013194,Kobayashi Ligatures (100 ตัว/CRT),กล่อง
+09004112,Coagu Chek pt test,กล่อง
+09013300,Ligature ties mini twisted,กล่อง
+09003199,พลาสเตอร์เหนียว,ม้วน
+09012029,"Left upper ""D"" molar DUL3",ตัว
+09005082,กระดาษเทปสำหรับอบแก๊ส 3/4,ม้วน
+09015287,Buehler Dressing Stick,ชิ้น
+09015288,ฺBuehler Metadi Dimond Suspensions,ขวด
+09015291,ลูกยางแดง เบอร์ 8,อัน
+09015289,"ฺBuehter Wafering Blade 6"" No.114276",แผ่น
+09004097,Sterile water,กล่อง
+09005026,"ซองบรรจุเวชภัณฑ์ชนิดเรียบ 2"" ความยาว 200 เมตร/ม้วน",ม้วน
+09015059,TISAB III (Concentrated) 475 ml bottle,ขวด
+09005030,"ซองบรรจุเวชภัณฑ์ชนิดเรียบ 8"" ความยาว 200 เมตร/ม้วน",ม้วน
+09012075,"Right lower ""E"" molar ELR5",ตัว
+09009193,Uring bag (ถุงใส่ปัสสาวะ),เส้น/สาย
+09010073,Glass Ionomer ketac N100 trial kit,ชุด
+09009194,สายสวนปัสสาวะ No.12,เส้น/สาย
+09009195,สายให้อาหารทางจมูก No.12,เส้น/สาย
+09009196,สายให้อาหารทางจมูก No.14,เส้น/สาย
+09009197,สายให้อาหารทางจมูก No.16,เส้น/สาย
+09009198,สายสวนปัสสาวะ (Foley s catheter)No.14,เส้น/สาย
+09009088,Luxator,ตัว
+09009199,สายสวนปัสสาวะ (Foley s catheter) No.16,เส้น/สาย
+09009200,สายสวนปัสสาวะ (Foley s catheter) No.10,เส้น/สาย
+09015290,ลูกยางแดง เบอร์ 5,อัน
+09006209,Mot canal plugger,ชุด
+09006210,จุดต่อ EKG (เครื่อง Run EKG),ชุด
+09014251,Polishing kit: Cormposite (Astropol Ivoclar Vivadent),ชุด
+09006149,ตู้ล้างฟิล์ม,ตู้
+09009026,Medicut No.22 (เข็มให้น้ำเกลือ),กล่อง
+09013180,Jarabak plier with cutter,ชิ้น
+09009162,Medicut No.20 Jelco,กล่อง
+09014470,ชุดเดือยฟันและแกนฟันสำเร็จ FRC Postec Plus MF Kit,ชุด
+09013204,Adhesive Remouving Plier,ตัว
+09009187,Capilary tube,กล่อง
+09013290,Mathicu Needle Holder,ตัว
+09013291,Haif Round Plier,ตัว
+09003118,Sevoflurome,ขวด
+09006177,Tool slood(ตัวกัดหารอยร้าวของฟัน),อัน
+09003154,Isoflurane,ขวด
+09003157,Nimbex,ขวด
+09013273,"Preweld bands singel tubes มี band 2 ตัว ฟันกรามแท้ซี่ที่ 1ฟันบนข้างซ้าย,ขวา",ชุด
+09006028,Glass slab 7x15x2 ซม.,อัน
+09003209,Ultasonic jel,กระป๋อง
+09002234,File Niti ขนาด 25 ความผาย 0.12 ยาว 17 mm.,กล่อง
+09002235,File Niti ขนาด 25 ความผาย 0.10 ยาว 21 mm.,กล่อง
+09002236,File Niti ขนาด 25 ความผาย 0.08 ยาว 21 mm.,กล่อง
+09002237,File Niti ขนาด 25 ความผาย 0.06  ยาว 21 mm.,กล่อง
+09002239,File Niti ขนาด 30 ความผาย 0.06  ยาว 21 mm.,กล่อง
+09002240,File Niti ขนาด 35 ความผาย 0.04  ยาว 21 mm.,กล่อง
+09002241,File Niti ขนาด 35 ความผาย 0.06  ยาว 21 mm.,กล่อง
+09002242,File Niti ขนาด 40 ความผาย 0.06  ยาว 21 mm.,กล่อง
+09002243,File Niti ขนาด 40 ความผาย 0.04  ยาว 21 mm.,กล่อง
+09002245,File Niti ขนาด 25 ความผาย 0.08  ยาว 25 mm.,กล่อง
+09002246,File Niti ขนาด 25 ความผาย 0.06  ยาว 25 mm.,กล่อง
+09002248,File Niti ขนาด 30 ความผาย 0.06  ยาว 25 mm.,กล่อง
+09002250,File Niti ขนาด 35 ความผาย 0.06  ยาว 25 mm.,กล่อง
+09002252,File Niti ขนาด 40 ความผาย 0.06  ยาว 25 mm.,กล่อง
+09002254,File Niti ขนาด 45 ความผาย 0.06  ยาว 25 mm.,กล่อง
+09001094,Composite resin LC สี C2,หลอด
+09001095,Composite resin LC สี C3,หลอด
+09014472,หัว Composhape No. 5255,ตัว
+09006130,Hemostat (สำหรับจับฟิล์ม),ชิ้น
+09006155,Suction Fraier,ตัว
+09006164,Rongeurs friedman,ตัว
+09006214,Periossteal Retractor Seltion,ตัว
+09008013,Acrylic resin for temporary crown ยี่ห้อ Unifast ส่วนน้ำ,ขวด
+09008014,Acrylic resin for temporary crown ยี่ห้อ Unifast ส่วนผง,ขวด
+09009163,กรรไกรตัดชิ้นเนื้อ,ตัว
+09010036,Miller bone file,ตัว
+09010038,Molt periosteal,ตัว
+09010041,Dental Elevator,ตัว
+09010042,Elevator # E 191,ตัว
+09010044,Towel clamps,ตัว
+09010047,Elevator # E 190,ตัว
+09002238,File Niti ขนาด 25 ความผาย 0.04  ยาว 21 mm.,กล่อง
+09002244,File Niti ขนาด 25 ความผาย 0.102  ยาว 25 mm.,กล่อง
+09002251,File Niti ขนาด 35 ความผาย 0.04  ยาว 25 mm.,กล่อง
+09002253,File Niti ขนาด 40 ความผาย 0.04  ยาว 25 mm.,กล่อง
+09002207,Clamp # 13A,ตัว
+09006118,Endo : Root canal sperder D11TS,ตัว
+09006122,Endo : Root canal sperder D11T,ตัว
+09006208,Spreader GP2,ตัว
+09013288,MIA Mobile Intraoral,แพค/ห่อ
+09013263,Bracket  Seba,ชุด
+09013178,Distal and cutters,ชิ้น
+09013292,ยางแยกฟัน (Quik- Stik),อัน
+09006213,เครื่องเขย่าปูนพลาสเตอร์,เครื่อง
+09013303,Smartclip 022 Insertion,อัน
+09013304,Smartclip Wire Disengage,อัน
+09013276,Lateral  serew - Medium,ชิ้น
+09013277,Lateral  serew - Mini,ชิ้น
+09013312,Lateral  serew - Mixi,ชิ้น
+09013313,Fan Type Screw,ชิ้น
+09013305,Repid Molar Intruder,ชุด
+09013306,Jones Jig H.G.Occlusal,ชุด
+09013307,Jones Jig H.G. Gingival,ชุด
+09013308,Self  Looking Separating (Medium),ชุด
+09013309,Self  Looking Separating (long),ชุด
+09013310,Bite Block Short,ชุด
+09013311,Bite Block Long,ชุด
+09013124,Spit round tubes. 030 x 018 inch,กล่อง
+09013253,Open coil spring Titanium (Medium force )เส้นผ่าศูนย์กลาง .010x.030 นิ้ว ยาว 21 นิ้ว(gm/ม้วน),ม้วน
+09013284,Open coil spring Nikel Titanium (light),ม้วน
+09013293,"Intraoral elastic band 3/8 "" 2 oz(100 วง/ซอง)",ซอง
+09013294,"Intraoral elastic band 3/8 "" 6 oz(100 วง/ซอง)",ซอง
+09013297,"Intraoral elastic band 1/2 "" 14 oz(100 วง/ซอง)",ซอง
+09013299,"Intraoral elastic band 3/8 "" 3.5 oz(100 วง/ซอง)",ซอง
+09013283,Microimplant,ตัว
+09015119,Loop,อัน
+09015292,Loop forming pliers,ตัว
+070405014,หมึก Injet  HP Officejet 4355 All in One Color (C9352A #22),กล่อง
+070405033,หมึก HP Officejet 5610 All-in-one C9352A (22 Tri-color),กล่อง
+090234006,ประเก็นยางขอบประตูเครื่องนึ่ง,เส้น
+090399089,"แก๊สอ๊อกซิเจน ความดันไม่ต่ำกว่า 2,000 ปอนด์",ท่อ
+099999172,Micro switch,ตัว
+09008102,Fiber post refill,ตัว
+09003086,Tylenol,เม็ด
+09003089,Vitamin B complex,กล่อง
+09003090,Vitamin C,ขวด
+09003215,Vilerm 400 mg,เม็ด
+09004084,Chorhexidine mouth wash,ขวด
+09010031,ผงกระดุก : Bio-oss ขนาด 0.25 g.,ขวด
+09010032,ผงกระดุก : Bio-oss ขนาด 0.5 g.,ขวด
+09010049,ผงกระดุก : DFDBA  0.25 mm.,ขวด
+09010051,ผงกระดุก : DFDBA  0.5 cc.,ขวด
+09008038,Investment สำหรับงาน Crown & Bridge,ชุด
+09008146,น้ำสำหรับผสมปูนทนไฟ (Monomer Investment),ขวด
+09004042,Nitrous Oxide (N20),ถัง
+09006212,Holder  หัวกรอ,อัน
+09008182,หัวแปรงไฟฟ้า,อัน
+09008183,ขนแปรงไฟฟ้า,อัน
+09004066,แก๊ส Ethylne Oxide 100% ขนาดบรรจุ 100 g,กล่อง
+09006219,ที่ใส่ฟิล์มเอ้กซ์เรย์,แผ่น
+09011051,Implant Repical RP(61072),ชิ้น
+09011203,Impression Coping Opentray NP3.5,ตัว
+09011204,Impression Coping Opentray NP5.3,ตัว
+09002054,K-file 21 mm No.60,กล่อง
+09013272,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5 x 5 นิ้วขนาด 0.020 แผ่นนิ่ม,แผ่น
+09006134,How plier,ตัว
+09013182,Band seater,ชิ้น
+09013197,Arch Comtouring Plier,ตัว
+09008137,Williss Gauge(ที่วัดความยาวของใบหน้า),อัน
+09003077,Prednisolone 5 mg,ขวด
+09009044,U29 สำหรับ sution:Silicone tube (U29ยาง) 7x11 มม.,ม้วน
+09002266,File Niti ขนาด 30 ความผาย 0.04 ยาว 21 mm.,กล่อง
+09002213,Clamp # 212,ตัว
+09013316,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5 x 5 นิ้วขนาด 0.120 แผ่นนิ่ม,แผ่น
+09006220,Tube Suction,เส้น/สาย
+09006221,3 Way Syringe,ชุด
+09012148,กรรไกรตัดครอบฟันโลหะ,ตัว
+09014475,Diamond taper fissure bur. HP,ตัว
+09003015,Biocalm,เม็ด
+09003041,Ibuprofen syrup,ขวด
+09003166,Clinda mycin 300 mg,เม็ด
+09003216,Cavumox 275 mg,เม็ด
+09009037,Syring - Insulin,ชิ้น
+09009201,NSS (100 cc.),ขวด
+09012132,1 % xylocain 50 ml,ขวด
+09003144,ยาชาเอทิลคลอไรด์ ชนิดสเปรย์,กระป๋อง
+09015293,Stage Micrometer,อัน
+09014304,"หัวขัดผ้า (Cotton) 1""",ตัว
+09013215,ผง Self cure acrylic resin : Ortho clear,กระป๋อง
+09008144,Acrylic resin(Heat-Cure)-Clear-ชุด,ชุด
+09006064,XPC instument with bite wing,ชุด
+09008041,Pindex Plus Pin Gold (เดี่ยว),กล่อง
+09011090,F-TSVNBIO-Fixture tapered screw Vent implant ขนาด 4.7x10 mm.,ตัว
+09002172,Composite Instrument,ชิ้น
+09006021,Film Hoder (Single),อัน
+09011005,"Alutment,Temporary GoldAdapt Non-Engaging (with screw) Titanium 4.5 RP(29037)",ชิ้น
+09003203,Cephalexin 1 mg,ขวด
+09003204,PGS (5 ล้าน U),ขวด
+09003206,Metronidazole,ขวด
+09008068,Zinc oxide eugenol paste,ชุด
+09013279,"Bondable convertible buccaltube ฟันกรามซี่ที่ 1 ซ้าย,ขวา",ตัว
+09013287,"Bondable convertible buccaltube ฟันกรามซี่ที่ 2 ซ้าย,ขวา",ตัว
+09002040,"	File : H-file 25 mm No.90",กล่อง
+09002074,K-file 25 mm No.90,กล่อง
+09004092,Alcohol : 95% Ethyl Alcohol,ขวด
+09004121,Chromic acid,ขวด
+09015262,Na2HP04 sodiumdihydrogen phosphate,ขวด
+09015263,NaHP04 sodiumdihydrogen phosphate,ขวด
+09008149,Boxing wax,กล่อง
+09008157,Gingi mask,กล่อง
+09001047,Matrix Sectional-refill (matrix 72),ชุด
+09004126,Fluoride : Topical F vanish- Durafor,หลอด
+09006129,Hipower suction,ชิ้น
+09008147,Para post fiber lux kit,ชุด
+09006036,Mouth prob ผู้ใหญ่,อัน
+09006139,Fox plate,ชิ้น
+09014479,Gate gildden drill # 5,กล่อง
+09002175,Clamp # 8,ตัว
+090801017,ปืนสำหรับฉีดวัสดุ,ชุด
+0170201012,ผ้าคลุมผู้ป่วยสีเขียวผืนใหญ่ ขนาด 36x36 นิ้ว,ผืน
+09003165,Trileptal 300 mg,กล่อง
+09003174,Fluconazole 50 mg.,เม็ด
+09011062,Impression Coping WP- closed tray 6 mm(2949),ชิ้น
+09011053,Implamt Replica,ชิ้น
+09011081,Esthetic Abutment NOBRPL NP 1 mm.#32372,ชิ้น
+09011056,Implamt Replica 6.0 mm.(29995),ชิ้น
+09011070,"Esthetic Abutment NOBRPL 6.0,0.5 mm.#32375",ชิ้น
+09003159,Amitriptyline 10 mg,เม็ด
+09003012,Augmetin,เม็ด
+090314023,Ventolin inhalor,หลอด
+09012166,Xylocain Viscus,ขวด
+090222001,ยาเวชภัณฑ์,ชุด
+09006121,เครื่องวัดความดันโลหิตระบบดิจิตอล,เครื่อง
+09003049,Micropore ขนาดเล็ก 1 นิ้ว * 10 หลา,ม้วน
+09004090,Transpore,ม้วน
+09001051,Primer (refill),ขวด
+090404096,Propofol,แอมพลู
+09003187,Flucozole 150 mg.,เม็ด
+09003210,Cefazolin,ขวด
+09006222,Ramus clamp left,ตัว
+09016008,น้ำยาใส่ Suction,แกลลอน
+09013269,ปากคีมสำหรับจับ Bondable buceal tubes ด้ามสั้น,อัน
+09013270,ปากคีมสำหรับจับ Bondable buceal tubes ด้ามยาว,อัน
+09013319,Crimp Pliers,ตัว
+09008091,Parapost,กล่อง
+09008148,Para post stainless steel,ชุด
+09008162,Drill,ตัว
+09008081,วัสดุตรวจหาวัสดุส่วนเกิน ยี่ห้อ Pressure spot indicator (PSI),ชุด
+09010028,Probes แบบถี่,ตัว
+09006015,Cheek Retractor ที่รั้งปากสำหรับถ่ายรูปขนาดเล็ก,อัน
+09006016,Cheek Retractor ที่รั้งปากสำหรับถ่ายรูปขนาดใหญ่,อัน
+09006200,แผ่นติดหน้าอกผู้ป่วย (EKG electrode reddot),แพค/ห่อ
+09009032,SET ให้เลือด,อัน
+09006131,กระปุกสำลี,ชิ้น
+09006136,กระบอกใส่ Transfer forcep,อัน
+09010076,เหงือกเทียม ขนาดเล็ก,แผ่น
+09002211,Lentulo spiral 25 mm.No. 25 (สีแดง),กล่อง
+09006137,Tripple  syringe,ตัว
+09002055,File : K-file 21 mm No.70,กล่อง
+09002056,File : K-file 21 mm No.80,กล่อง
+09002071,File : K-file 25 mm No.60,กล่อง
+09011195,048.601 RN Synocta Abutment H1.5 mm 1/0 exp.,ตัว
+09011072,"Synocta Position Cylinder ,12 mm.",ตัว
+09011100,"048.017V4 Impression Cap H 8,Plastic",ชิ้น
+09011196,048.229 Synocta Plastic cop crown 10 mm.1/0 exp.,ตัว
+09011197,048.350v SCS Occlusal screw 4.4 mm.1/0 exp.,ตัว
+09011198,"048.611 synocta Abut 15 "" Angle B5.7 m 1/0",ตัว
+09009076,Forceps # F150,ตัว
+09011200,Straight Abutment,ตัว
+09011201,UCLA Abutment 3.5 mm,ตัว
+090316020,แก๊สผสม,ท่อ
+09012103,Stainless steel band : Mandibular NL36,ตัว
+09012105,Stainless steel band : Mandibular NL37,ตัว
+09012107,Stainless steel band : Mandibular NL38,ตัว
+0901208,Stainless steel band : Mandibular NL39,ตัว
+09012119,Stainless steel band : Maxllary NU36,ตัว
+09012146,Stainless steel band : Mandibular NL40,ตัว
+09012121,Stainless steel band : Maxllary NU37,ตัว
+09012123,Stainless steel band : Maxllary NU38,ตัว
+09012124,Stainless steel band : Maxllary NU39,ตัว
+09012125,Stainless steel band : Maxllary NU40,ตัว
+09012108,Stainless steel band : Mandibular NU39,ตัว
+09004089,Paraectamol injection,หลอด
+090367026,Diclofenage 25 mg/Amp,เม็ด
+09004045,Normal saline : ถุง 1000 ml,ถุง
+09013318,Bow Diyider,อัน
+09012019,"Left lower ""D"" molar DLL5",ตัว
+09012032,"Left upper ""D"" molar DUL6",ตัว
+09012045,Primary cuspid stainless crown Mandibular CL4,ตัว
+09012097,Stainless steel band : Mandibular NL31,ตัว
+09012112,Stainless steel band : Mandibular NU31,ตัว
+09012004,Left central crown LC1,ตัว
+09007016,ปลายผสมวัสดุพิมพ์ปาก (Refill) งานทันตกรรมประดิษฐ์ (Mixing tips) (Mixingtip Occlufast),แพค/ห่อ
+09013004,Stainless steel laboratory wire 0.7 mm:- Hard,อัน
+09014187,Whit stone HP #4 refill (SF0465),ตัว
+09014048,Diamond  inverted bur .010 FG,ตัว
+09014097,Steel bur : หัวมะเฟือง,ตัว
+09014275,หัวขัด Porcelain PB 0596,กล่อง
+09014215,Carborundum disc (Speparating Disk),กล่อง
+09011052,Implant Repical WP(61074),ชิ้น
+09011097,Esthetic Abutment NOBRPL WP 0.5 mm.#32374,ชิ้น
+09011088,Esthetic Abutment NOBRPL 1 mm.#32373,ชิ้น
+09014098,Steel fissure long shank bur .014 HP,ตัว
+09014011,Carbide round long shank bur .012 FG,ตัว
+09016035,ปลายทิปตัดเหงือก,ตัว
+09014311,Finishing steel round .010 (Latch),ตัว
+090299052,Craousel(Sumple Changer) with 7 positions for 1 cm cuvettes,ชุด
+090211775,Ammonium Ferrous Sulphate,ขวด
+09005074,"ซองบรรจุเวชภัณฑ์ชนิดเรียบ 10"" ความยาว 200 เมตร/ม้วน",ม้วน
+09004008,Alcohol : Absolute Alchol 2.5 ลิตร,ขวด
+09004031,Formalin,ขวด
+09004041,"Nitric acid ,AR 2.5 L",ขวด
+09004122,Gelatin 500 g,ขวด
+09015065,Xylene 2.5 L.,ขวด
+09011002,"Alutment  Gold Adapt Engaging ,5.0 WP (29014)",ชิ้น
+09011177,Goldadpt Engaging Select RP #29010,ตัว
+090404038,Heparin,ขวด
+09003072,PGS (Penicillin G Sodium),ขวด
+09003205,PGS (1 ล้าน U),ขวด
+09012149,กระดานรัดตัวเด็ก,อัน
+09008181,ฟันพลาสติก ยี่ห้อ Biolux,แผง
+09006082,โมเดลฟัน P10-SBIA,ชิ้น
+09002263,File Niti ขนาด 30 ความผาย 0.04  ยาว 21 mm.,กล่อง
+09002264,File Niti ขนาด 30 ความผาย 0.06  ยาว 21 mm.,กล่อง
+09002265,File Niti ขนาด 35 ความผาย 0.04  ยาว 21 mm.,กล่อง
+09013274,"Preweld bands singel tubes มี band 2 ตัว ฟันกรามแท้ซี่ที่ 1ฟันล่างข้างซ้าย,ขวา",ชุด
+09007029,ฟันพลาสติก,แผง
+09007030,Attachment Male Small,ตัว
+09007031,Attachment  Female Small,ตัว
+090399861,Beaker,อัน
+090399862,ชุดย้อมแกรม,ชุด
+09015082,"Beaker 2,000 ml.""Pyrex""",ใบ
+09015128,Parafilm,ม้วน
+09015295,Adhesive  Disks,แพ็ค
+09015152,Serological Pipette 10 ml,อัน
+09008128,Add on (margin) 20 g.,ขวด
+09008170,IPS Inline Pom A3,หลอด
+09008172,Staining kit,ชุด
+09008173,Glaze,ชุด
+090319005,ไนล่อน,กล่อง
+09016044,ชุดเครื่องมือทางการผ่าตัด (Surgical Kit),ชุด
+09007033,ชุดเครื่องมือสำหรับพิมพ์ปาก (Prosthetic Kit),ชุด
+09011206,ชุดเครื่องมืองานศัลยกรรมรากเทียม,ชุด
+09016017,Lexer Gouge 5 mm STR.25 cc,ตัว
+09016018,Lexer Gouge 10 mm STR.25 cc,ตัว
+09016021,Dinmann Periost Elevator D/E,ตัว
+09016022,Cottle Septub Speculum 50 MM,ตัว
+09016023,Obwegeser Chin Retractor 16 cm.,ตัว
+09016024,Obwegeser Mandible Retractor,ตัว
+09016036,Free Raspatora SH/SH,ตัว
+09016037,Obwegeser Periost Elevator 7 mm.,ตัว
+09016038,Luniatschek guaze Packers 19 cm.,ตัว
+09016009,Obwegeser Retractor 7,ตัว
+09016010,Obwegeser Retractor 6,ตัว
+09016011,Volkmann Bon Curetter 1,ตัว
+09016002,Obwegeser Periost Elevator 9 mm,ตัว
+09016014,Dingmann Bone Hold Clamp L Patt,ตัว
+09016015,Obwegeser Periost Elevator 1,ตัว
+09016016,Obwegeser Periost Elevator 2,ตัว
+09011199,Gold Adapt Engaging Seleot HP# 29006,ตัว
+09004128,น้ำมันพ่น Hand Pice,ชุด
+09013271,Bracket  Smartclip,ชุด
+09015192,ช้อนตักสาร แบบโลหะ (Stainless) ขนาดใหญ่,อัน
+09001099,Dentine (ผง Dentine vetapan 3D-Master สี 4M1 50 g),หลอด
+09003161,Neurontin 100 mg,กล่อง
+090401063,Solcoseryl eye gel (5 g),หลอด
+0100101408,ยาสีฟัน,หลอด
+09005063,ยาสีฟัน (แพ็ค),แพค
+09011087,15 Esthetic Abutment NOBRPL 1 mm.#32380,ชิ้น
+09013222,Elastic ligature (A1),กล่อง
+090399075,เทปติดอบแก๊ส,ม้วน
+09004127,Sculpturing Wax (สีเทา และสี Ivory รุ่น Classic อย่างละ 1 อัน),อัน
+09006223,Ramus Clamp right,ตัว
+09016039,Mini Screw 2.0 mm long 5 mm.,ตัว
+09016040,Mini Screw 2.0 mm long 7 mm.,ตัว
+09016041,Mini Screw 2.0 mm long 9  mm.,ตัว
+09016042,Mini Screw 2.0 mm long 11 mm.,ตัว
+09013006,Stainless steel laboratory wire 0.9 mm: - Hard,อัน
+09008042,Pindex Twin Plus (คู่)(TWS Link plus pins 1 กล่อง 24 ตัว),กล่อง
+09003031,Diclofenac 25 mg,เม็ด
+09003080,Sodium fluoride 0.25 mg.,เม็ด
+09002267,Wedjet,กล่อง
+09002268,Main Cone,กล่อง
+09013286,Expansion screws ขนาด 7 mm.(Mini),ตัว
+09006171,UV lamp kil for milh-Q synthesis,ชุด
+0199999337,millipak 40 Filter Unit 0.00 um.2/pk,ชุด
+09006188,Oral Tube เบอร์ 6.5,กล่อง
+09006187,Oral Tube เบอร์ 6,กล่อง
+09006185,Oral Tube เบอร์ 7,กล่อง
+09006186,Oral Tube เบอร์ 7.5,อัน
+90399210,Tracheal Tube size 6 ท่อช่วยหายใจ,ชิ้น
+090399211,Tracheal Tube size 6.5 ท่อช่วยหายใจ,ชิ้น
+090399212,Tracheal Tube size 7 ท่อช่วยหายใจ,ชิ้น
+090399213,Tracheal Tube size 7.5 ท่อช่วยหายใจ,ชิ้น
+098805012004,Cefazolin Injection 1gm.,ไวแอล
+009016043,Healing Abutment Contical (4.5x4 ),ชิ้น
+098801010007,Carminative Mixture 180 ml,ขวด
+090403167,ยาธาตุน้ำขาว,ขวด
+009003014,Batadine 15 cc,ขวด
+009003103,"Elastic bandege 4""",ม้วน
+009003128,Elhyl chloride spray,ขวด
+099999013,ก๊าซไนโตรเจน,ท่อ
+009004110,ยาธาตุน้ำขาว,ขวด
+009004106,Bevistocryl 120 wipes,ถุง
+009004086,Pethedine 50 g,หลอด
+009004087,Fentanyl Citrate inj 2 ml,หลอด
+098804071006,Morphine Injection 10 mg,แอมพลู
+09011214,Forsus split crimp,อัน
+09013282,"Intraoral elastic band 3/8"" 3.5 oz (100 วง/ซอง)",ซอง
+09013248,JASPER JUMPER KIT,ชุด
+09003085,Tetracycline,เม็ด
+090205056,ขวดน้ำกลั่น,ใบ
+09015197,สไลด์ผ้า,กล่อง
+090209027,แปรงล้างหลอดทดลอง (ขนาดกลาง),อัน
+090209026,แปรงล้างหลอดทดลอง (ขนาดเล็ก),อัน
+090209028,แปรงล้างหลอดทดลอง (ขนาดใหญ่),อัน
+09016025,Obwegeser Ramus Osteotome 8 mm.,ตัว
+09016026,Obwegeser Ramus Osteotome 12 mm.,ตัว
+09016029,Obwegeser Septal Osteotome,ตัว
+09016027,Tessier  Osteotome 10 mm.STR,ตัว
+09016028,Tessier  Osteotome 10 mm.CVD,ตัว
+09016030,Cottle Osteotome 4 mm.Wied,ตัว
+09016031,Cottle Osteotome Gradua 7 mm.,ตัว
+09016032,Cottle Osteotome 9 mm.Wied,ตัว
+09016033,Lindermann Burr 2.65 mm.,ตัว
+09016034,Lindermann Burr 3.45 mm.,ตัว
+09003219,Desflurane,ขวด
+09006059,Syringe (Disposable) 20 cc.,ชิ้น
+09006060,Syringe (Disposable) 50 cc.,ชิ้น
+09006014,Cheek Retractor ที่รั้งปากด้านข้าง ชนิด Double End,แพค/ห่อ
+09015161,Themometer,ชุด
+09008145,โลหะ Non-Precious,กล่อง
+090211791,สารสอบเทียบปริมาณสารพันธุกรรม(Fast 96 - well Instrument Verifcation Plate),หน่วย
+09008126,Partail tray (ซ้าย-ขวา),ชิ้น
+09008084,วัสดุบันทึกการสบฟัน,กล่อง
+0199999424,ไม้พาย (ไม้ไอติม),ด้าม
+09003116,Bacterial filter (ผู้ใหญ่),อัน
+09010068,Biyonet (ตัวเล็ก),คู่
+09011208,Healing Collars 4.5 mm. D-5.5 mm.Length 5 mm./THCW 5/5,ตัว
+09008185,Palane line,อัน
+09008186,Ring,คู่
+090395005,Bowle - Dick Test with Lead Free,แพค/ห่อ
+090395006,Prospore II G.stearothermophilus steam,แพค/ห่อ
+090399875,Unicem,กล่อง
+09003002,Acyclovir 1 gm,หลอด
+09001104,Tetric Color  (Ivoclar vivadent  1ชุด มี 7 สี),ชุด
+09003184,Fresofol 1% MCT/L CT 20 ml.,กล่อง
+09006156,Enamel hatchet,อัน
+09003220,Lana comfor แท่งสำลี,ถุง
+09008184,ยางที่ปากคีมคีบ (Rubber Grips),กล่อง
+09014037,Diamond bur.021 FG รูปรักบี้,ตัว
+09016001,Fanous Osteotome,ตัว
+09016003,Wieder Tongus Depressor Large,ตัว
+09016004,Malltew Nylon Facigs 200 g.,ตัว
+09016005,Twist Drill 1.45 mm.,ตัว
+09016006,Dress Forceps 25 mm.,ตัว
+09016007,Tongue Depressor Wood,ตัว
+09004095,ยากันเสียวฟัน : system,ขวด
+09008051,Separating media : Rodofilm,แกลลอน
+09013070,Australian wire .012 inch - special plus,ม้วน
+09006162,Band  remover,อัน
+09013192,Pusher & Scaler,ตัว
+09001107,"Standard plus 4.1-4.8 RN ,12 mm.",ตัว
+09001108,"Standard plus 4.8-4.8 RN ,10 mm.",ตัว
+09001109,"Standard plus 4.8-4.8 RN ,12 mm.",ตัว
+09011142,Healing Cap,ตัว
+09001110,"RN Closure screw ,Small",ตัว
+09001111,"Standard plus 3.3 -4.8 RN ,10 mm.",ตัว
+09011082,"Standard plus implant ขนาด 3.3  (BL IMP,)",ตัว
+09011176,024.2105.04 NC closure screw H 0.5 mm.,ตัว
+09008140,arti-spot,ชุด
+090404030,Erythromycin,ขวด
+09003142,Terramycin eye oint,หลอด
+09001114,Composite resin LC สี C1,หลอด
+099999257,Solenoid Valve,ตัว
+090303001,ปรอทวัดไข้ทางปาก,อัน
+090311003,ไม้พันสำลี 2.1/2 นิ้ว,อัน
+090313001,สำลีก้อน 450 กรัม,แพค/ห่อ
+09003094,พลาสเตอร์ปิดแผล,กล่อง
+09004118,Hibitane 500 ml.,ขวด
+09009180,Multi Core Four,ชุด
+090394001,Diamond taper bur .010 FG,ตัว
+09008134,หน้ากากยางสำหรับใส่หัวกระโหลกศีรษะจำลองฝึกปฎิบัติงานทางทันตกรรม,ชิ้น
+09002272,"Efuccra (ฟันพลาสติก 34U/A4,34L/A4)",แผง
+09008030,Flux (สำหรับใช้เชื่อม Eand),ขวด
+09015124,Microtome Blade 818(Blades PX302),กล่อง
+09009206,Pindex system long พร้อม sleeres,กล่อง
+09009207,Pindex system short  พร้อม sleeres,กล่อง
+09003126,1% Lidocaine + Adrenaline (2%),ขวด
+09007034,Adhesive,กล่อง
+09011030,Healing Abutment 4.5 mm D x 3 mnH,ชิ้น
+09011057,Implant Replica NP,ชิ้น
+09011207,Impression Coping RP 4.3 mm.,ตัว
+09011054,Implant Replica 4.3 RP,ชิ้น
+09013325,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#16,ชิ้น
+09013326,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#26,ชิ้น
+09013327,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#36,ชิ้น
+09013328,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#46,ชิ้น
+09013329,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#17,ชิ้น
+09013330,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#27,ชิ้น
+09013331,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#37,ชิ้น
+09013332,TP Tube Dircet Bond Tuber Non Converible .022 ซี่#47,ชิ้น
+090394002,Surgical carbide .023,ตัว
+090394003,Surgical carbide .027,ตัว
+09008129,Shade guide vita pan,แผง
+09013289,Ball Glasps,ตัว
+09013323,Bird beak with cutter,ตัว
+09008190,Luting cement,ชุด
+09009156,File stand,อัน
+09013333,Post สำเร็จรูป,ชุด
+09015094,Cover glass : 22 x 40 mm.,กล่อง
+09015268,Filter paper 15 cm.,กล่อง
+09009081,Blade No.24,กล่อง
+09013210,Straight root tip pick,อัน
+09013211,Angel root tip pick,อัน
+09006001,Amalgam carrier,อัน
+09012041,Mouth gag : ขนาดกลาง,อัน
+09503119,Chlorhexidine 2%,ขวด
+09003119,Chlorhexidine 2%,ขวด
+09006228,Superoxol,ขวด
+09005047,ปลายพูกัน รีฟิว,ถุง
+09009158,Coated vicryl 2/0 พร้อมเข็ม 26 mm.,กล่อง
+09009159,Prolene 5/0  พร้อมเข็ม 15 mm.,กล่อง
+09013320,Band single buccal tube (SBT),ตัว
+09013321,Band  Double  buccal tube (DBT),ตัว
+09013265,Band Triple Tube,ตัว
+090410015,Fluconazole 200 mg,กล่อง
+098805011010,Amoxycillin Syrup 125 mg/5 ml 60 ml,ขวด
+090410016,Cavumoxy 625,เม็ด
+090410017,Dacin-f 300,เม็ด
+090410018,Ranidine 150 mg,เม็ด
+090410019,Alum milk 240 ml,ขวด
+09003147,ORS เกลือแร่,ซอง
+090399877,ขวดบรรจุภัณฑ์ (ยาน้ำ),ขวด
+09013252,Blade สำหรับเปิด Convertible tube,ชุด
+09013324,Opiband altra,กล่อง
+090393007,Pace Epoxy Resin,อัน
+090393008,Pace Epoxy Resin Hardener,อัน
+09008188,Paracore,ชุด
+09015196,ถาดวางสไลด์,อัน
+0100120002,ขวดพลาสติก,ขวด
+09003222,Marcain 0.5%,แอมพลู
+090101367,Ethidium bromide solution,ขวด
+090101027,Acetic acid,ขวด
+09006230,หัว Composhape No.4400,ตัว
+09006231,หัว Composhape No.5400,ตัว
+09006232,หัว Composhape No.4201,ตัว
+09006233,หัว Composhape No.5201,ตัว
+09006229,Tray stand,อัน
+09006235,Perforrted tray,อัน
+090367039,"Closed Head Ring, Adult",ชิ้น
+09006005,Ball bumisher,อัน
+09006192,GC plier,ตัว
+09012147,Mouth gag : ขนาดเล็ก,ตัว
+09016045,ฟิล์ม DVB dryview Laser Imaging 20x25 cm.,กล่อง
+09016046,ฟิล์ม DVB dryview Laser Imaging 25x30 cm.,กล่อง
+09003133,Fluoride,ขวด
+09014482,Diamond bur FG : D11,ตัว
+09014483,Diamond bur FG : 50D9,ตัว
+09014484,Diamond bur FG : 4274,ตัว
+09014485,Diamond bur FG : 3274,ตัว
+09014486,Diamond bur FG : 4255,ตัว
+09014487,Diamond bur FG : 5255,ตัว
+09014488,Diamond bur FG : 4035,ตัว
+09014489,Diamond bur FG : 216N,ตัว
+09008187,Unigrip,อัน
+090399087,แก๊สไนโตรเจนท่อขนาดใหญ่,ท่อ
+09001102,Mixing Well,กล่อง
+09015297,กระดาษสำหรับผสมวัสดุ (GI),ถุง
+09006183,Adper 3 color Bruch tips,แพค/ห่อ
+09014490,Soflex refill สีส้มอ่อน,ถุง
+09014491,Soflex refill สีเหลือง,ถุง
+090302001,สำลี,แพค/ห่อ
+090304006,ผ้าก๊อสพับขนาด 3x3 นิ้ว(12 ply),อัน
+09003003,Air -X,เม็ด
+09003011,Antacil,เม็ด
+09003026,CPM- chlorphenilamine 4 mg,เม็ด
+09003061,Noraxcin 400 mg,เม็ด
+09003152,Iodine,ขวด
+09003218,ยานวดคลายกล้ามเนื้อ,หลอด
+09004063,Transpore ขนาดเล็ก 1/2 นิ้ว x 10 หลา,ม้วน
+09009040,ผ้าพันแผลชนิดแถบกาว 6 ซม. x 4.5 ม.,ม้วน
+09003172,Dimenhydrinate,เม็ด
+09006146,Straight elevator,ตัว
+09009208,Feer,ตัว
+09013203,Warmick jamer,ชุด
+09014480,Carbide taper bur long shank 020 HP,ตัว
+09014481,Carbide round bur long shank 020 HP,ตัว
+090404097,Ranitidine injection,แอมพลู
+09007018,Sillicone - Regular Type,ชุด
+09006236,Intensive uniglors parte,หลอด
+09006241,Modola (Tramdol),กล่อง
+09014095,Diamond wheel,ตัว
+09003022,Chloram eye ointment 5 g,หลอด
+09015296,Glass micro combinatiocn,ชุด
+09001115,วัสดุอุดฟัน Dentine shande,ชุด
+09001117,Rely U100,ชุด
+09001118,Rely Lvtting,ชุด
+09008193,ผง Acrylic ortho clear,กระป๋อง
+09008194,น้ำ Acrylic ortho pink,ขวด
+09004059,Tincture Benzoids,ขวด
+090302005,Applicator Neddles,แผง
+090395007,แท่ง Cutta percha,กล่อง
+09011108,Analog IA4,ตัว
+09011109,Abutment Hex-Lock 4.5-6.5 mm./HLA4/6(4.5-5.5 mm),ตัว
+09001106,หัวขัด Enhance Flame shape,ตัว
+09014272,หัวขัด Imtensive (Perio set) ก้านสั้น,ชุด
+09005086,Emla 5%,หลอด
+09006242,Investment formula one,ถุง
+09005089,หัวขัด Composite สีฟ้า,กล่อง
+09005090,หัวขัด Composite สีเทา,กล่อง
+09003140,Whitehead Vanish 500 ml,ขวด
+09003141,"Cormy, s Solution 250 ml",ขวด
+09005088,Margin finisher (P),ชิ้น
+09003134,Teramycin ophthalmic 3.5,หลอด
+090499021,แอมโมเนีย,ขวด
+09014019,Carbide flame bur FG,ตัว
+09014030,Carbide round bur.021 FG,ตัว
+09012020,"Lefl lower ""D"" molar DLL6",ตัว
+09005093,ถ้วยผสมวัสดุ ขนาดเล็ก,ถ้วย
+09005094,ถ้วยผสมวัสดุ ขนาดใหญ่,ถ้วย
+090399909,Bisolvon,ขวด
+09005091,Robitussin,ขวด
+09005092,M.carminative,ขวด
+030601026,ข้อต่อพร้อมสายสปริง,ชุด
+09006179,BP cuff,อัน
+09001103,Solidex,ชุด
+090101320,เรซิ่นใส,กิโลกรัม
+09001045,Matrix hoder : Ivory,ตัว
+09002136,Clamp #00,ตัว
+09013002,ลวด Stainless steel hard wire 0.8,อัน
+09013003,Stainless steel hard wire 0.9 mm,อัน
+09006238,Carbide long shank,ตัว
+090399903,k-flex file 25 mm No.45,กล่อง
+090399904,k-flex file 25 mm No.50,กล่อง
+90399090,k-flex file 25 mm No.55,กล่อง
+090399906,k-flex file 25 mm No.60,กล่อง
+090399907,k-flex file 25 mm No.70,กล่อง
+090399908,k-flex file 25 mm No.80,กล่อง
+09011189,Synocta post (temp) crow 9 mm.,ตัว
+090399900,NC Temp Abut  Conical,ตัว
+090399901,"Synocta IMP CAP,Scrwed, 10.1 mm.",ตัว
+090399902,"NC Implant Analog,Length 12 mm.",ตัว
+090333011,"NC Impress post , for open tray",ตัว
+090399910,"NC Anato abut,ANG15, H 2mm.",ตัว
+090399899,หัว Safe tip,ตัว
+090399918,K-flex 21 mm.No. 50,กล่อง
+090399919,K-flex 21 mm.No. 55,กล่อง
+090399920,K-flex 21 mm.No. 60,กล่อง
+09003078,Sinusaid,เม็ด
+090401109,Predisolon,หลอด
+090403215,Sialexin 500 mg,เม็ด
+090403216,Baclofen 10 mg,เม็ด
+090403217,Vilrem 1 g,กล่อง
+09006102,ที่หนีบฟิล์ม X-ray ในช่องปาก (Snap- A ray),ตัว
+09002276,Lentulo 25 mm. No. 30,กล่อง
+09014281,Finishing Steel round. 009 (Latch),กล่อง
+09014309,หัวยางขัดโลหะสีแดง,ชิ้น
+09006248,Plier,อัน
+09005097,internal Implant 3.5 x 12 mm.,ตัว
+09002058,K-file 21 mm No.100,กล่อง
+09002059,K-file 21 mm No.110,กล่อง
+09002273,K-file 21 mm No.120,กล่อง
+09002274,K-file 21 mm No.130,กล่อง
+09002075,K-file 25 mm No.100,กล่อง
+09002076,K-file 25 mm No.110,กล่อง
+09002202,File : K-file 25 mm No.120,กล่อง
+09002203,File : K-file 25 mm No.130,กล่อง
+09002204,File : K-file 25 mm No.140,กล่อง
+09002275,K-file 21 mm No.140,กล่อง
+09006138,Hot plate,ชิ้น
+09013179,Ligature cutters,ชิ้น
+090393009,น้ำยาฉีดพ่นรอยพิมพ์ Germixtra,แกลลอน
+09008039,Microfilm,ขวด
+09006024,Forcep ใหญ่,อัน
+090101495,Hydrion S/P Paper,แพค/ห่อ
+09014061,Diamond round bur .023 FG,ตัว
+09005095,Cylinder 048.070,ตัว
+09005096,Analog 048.124,ตัว
+09005098,Cylinder 048.095,ตัว
+09011077,Impression transfer รหัส 048.013,ชิ้น
+09011079,Implant analog 048.171,ชิ้น
+09011080,Straight abutment รหัส 048.606,ชิ้น
+09011193,"043.06535 Standard Plus 4.8.6.5 wn,12",ตัว
+09012082,"right upper ""D"" molar DUR6",ตัว
+09014492,ตลับเหล็กใส่หัวกรอ,อัน
+09011134,Tenax fiber white post 1.1 mm.#TFW 11,แพค/ห่อ
+09011135,Tenax fiber white post 1.3 mm.#TFW 13,แพค/ห่อ
+090305038,Elastic Sleeve,ม้วน
+09001023,Glass Ionomer LC for filling - ส่วนน้ำ ยี่ห้อ vitremer,ขวด
+09011215,Nobel Replace groovy 5x13 mm.,ชิ้น
+09008136,Acrylic resin ทำ Tray-Formatray-ทั้งชุด,ชุด
+09005036,ปลายพูกัน (ขาว-ดำ)(200 อัน/ชุด),ชุด
+030507002,สูบแบบท่อพัก,ชุด
+09008195,หัวเจาะ Pin dex,อัน
+090339031,IV.Catheter No.22,กล่อง
+090339032,IV.Catheter No.24,กล่อง
+090339033,IV.Catheter No.20,กล่อง
+090404142,Voluvent 500 ml.,ขวด
+09003114,Gelofusin,ขวด
+09003179,Clindamycin 300 mg,ขวด
+09001127,043.652S standard plus 4.8-6.5 mm.,ชิ้น
+09011194,048.039 WN Healing cap # 3 mm.,ตัว
+09001128,048.605  xynoc abut cemen crown+bridge 5.5,ชิ้น
+09001129,024.2370 nc temp abut.d5 mm.h 12mm,ชิ้น
+09001130,"024.4222 rc heal abut,conical 4.5x2",ชิ้น
+09001131,"024.4224 rc heal abut,conical 4.5x4",ชิ้น
+09001124,"025.4101 rc implant analog, length 12 mm.",ชิ้น
+09001125,"025.4201 rc impress post,for closed tray",ชิ้น
+09001132,"024.4244 rc healing abut, conical ,d6 b4",ชิ้น
+09001134,022.4332 rc cement abut 6 mm. h 2mm.,ชิ้น
+09001123,"021.4412 btimp 04.1 mm.re,sal 12",ชิ้น
+09001135,"024.2244 nc heal abut, conical 4.8x3.5",ชิ้น
+09001136,"025.2101 nc implant analog,length 12mm.",ชิ้น
+09001137,025.2201 nc impress posL for closed tray,ชิ้น
+09001133,022.4326 rc cement abut 5 mm.h 2 mm.,ชิ้น
+09002208,Profile,กล่อง
+09006154,Younger goold,ตัว
+09009161,กรรไกรตัดชิ้นเนื้อ,อัน
+09010046,Castrovicjo,ตัว
+0100202034,ถุงพลาสติกหูหิ้ว 9*18 นิ้ว,แพค/ห่อ
+09013151,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5x5 นิ้ว ขนาด 0.040 แบบแข็ง,แผ่น
+09008143,Die speacer,ขวด
+090399859,K-file niti flex 21 mm. No.15-40,กล่อง
+09006163,Syringe Impression,อัน
+09013322,Band tripple buccal tube (TBT),ตัว
+09008083,วัสดุบันทึการสบฟัน ยี่ห้อ Occlufast,ชุด
+09004102,Racestyptine Hacmostatic Solution Agent (สารห้ามเลือดชนิดไม่มี Adrendline),ขวด
+09012005,Left central crown LC2,ตัว
+09012013,Left lateral crown LL4,ตัว
+09012014,Left lateral crown LL5,ตัว
+09012060,Right lateral crown RL1,ตัว
+09012048,Prirnary cuspid stainlees crown : Maxillary CU1,ตัว
+09012050,Prirmary cuspid stainless crown : Maxillary CU3,ตัว
+09012138,Stainless steel band : Mandibular NL32.5,ตัว
+09012104,Stainless steel band : Mandibular NL36.5,ตัว
+09012106,Stainless steel band : Mandibular NL37.5,ตัว
+09012115,Stainless steel band : Maxillary NU34,ตัว
+09002280,K-file 31 mm. No.15,กล่อง
+09002281,K-file 31 mm. No.20,กล่อง
+09002282,K-file 31 mm. No.25,กล่อง
+09002283,K-file 31 mm. No.30,กล่อง
+09002284,K-file 31 mm. No.35,กล่อง
+09002285,K-file 31 mm. No.40,กล่อง
+09002286,K-file 31 mm. No.45,กล่อง
+09002287,K-file 31 mm. No.50,กล่อง
+09002288,K-file 31 mm. No.55,กล่อง
+09002289,K-file 31 mm. No.60,กล่อง
+09002290,K-file 31 mm. No.70,กล่อง
+09002291,K-file 31 mm. No.80,กล่อง
+09014494,Micromotor 90/LAB,ชุด
+09014495,Micromotor 90/E-type,ชุด
+090395008,Tape Test สำหรับอบแก๊ส,ม้วน
+090403080,Paracetamol syrup,ขวด
+09003223,Alerest,เม็ด
+090399544,"Tooth forcef 5""",ชิ้น
+09009065,Rongcurs forceps,ตัว
+09001120,K-flex 21 mm. No.8,กล่อง
+09001121,K-flex 21 mm. No.10,กล่อง
+09001122,K-flex 21 mm. No.15,กล่อง
+09002205,Ketac silver,กล่อง
+09014262,แผ่นกระดาษทรายกลมชนิดหยาบ (Discomat disc),แผ่น
+09006145,คีมสำหรับตัดปูน,ตัว
+09003120,Chlorhexidine mouth wash & Sodium fluoride,ขวด
+09005054,แปรงสีฟันกระจุกเดียว,ด้าม
+09005056,แปรงซอกฟัน,กล่อง
+09008191,Cerec Optispray,กระป๋อง
+09008192,Dentatect,กระป๋อง
+09006174,Bone chisels (shisels),อัน
+09006114,Perossteal Retractor Seltion,ตัว
+09009160,"Tissue Forceps (แบบมีเขี้ยว 6"")",อัน
+09008153,Partial Tray,อัน
+09007035,Crown Gauge,อัน
+09006249,อุปกรณ์จ่ายสารละลายชนิดปรับปริมาณได้,ชุด
+09008142,Die hardenner,ขวด
+09003224,Chlorhexidine 0.12% 240 ml.,ขวด
+09003225,Chlorhexidine 0.12% 1000 ml.,ขวด
+09014036,Diamond bur .018 รูปรักบี้,ตัว
+090315001,หูฟังตรวจโรค Stethoscope,อัน
+09013340,Plasatic teeth,ชุด
+09013341,Metal teeth,ชุด
+09006313,อุปกรณ์สำหรับถอดเข็มฉีดยา,อัน
+09013336,Nance Loop Pliers by Omega,ตัว
+09013337,Omega Loop Forming Plieres-Tweed Style by Masterline,ตัว
+09013338,Band Slitting Instrument by Masterline,ตัว
+09013339,Rose Torquing Plieres by Masterline,ตัว
+090214080,ชุดผลิตภัณฑ์ตรวจจับคราบเลือดตกค้าง,กล่อง
+090214081,Bowic-cisk test pack,แพค
+090214082,Stearn sterilization integralor,กล่อง
+09006310,XCP Bitewing,ตัว
+09013334,Diastemal Closer Kit,ชุด
+09013335,Lip Burnper kit,ชุด
+09006311,Short twist Uigature fle,แพค
+09015264,Ernbedding cassette with,แพค
+09015064,Xylene (4L.),ขวด
+09015132,Paraplast plus 1 kg.,ถุง
+09006250,Prolene 4/0,กล่อง
+09006251,Prolene 6/0,กล่อง
+09006253,Clinpro white vanish,แพค
+09006254,Ionosit bass/line,แพค
+09011170,Standard plus implant ขนาด 4.8x12 mm.,ตัว
+09011205,021.6140  BL.IMP.048 mm. AC.SLA101,ชิ้น
+09003227,Siadexin 500 gm.,เม็ด
+09003229,Cavumoxy 625 mg,เม็ด
+09003232,Clonazepan 2 mg.,เม็ด
+09003231,Clonazeparn 0.5 mg.,เม็ด
+09003230,Nortriptyline 10 mg.,กล่อง
+09003228,Baclofen 10 mg.,เม็ด
+09016047,X-DR HT Screw 1.5x7,ชิ้น
+09016048,X-DR HT Screw 1.5x9,ชิ้น
+09016049,X-DR HT Screw 1.5x11,ชิ้น
+09009209,Blade 1.5 mm,ชิ้น
+09008196,Drill 1.5x50 mm.,ชิ้น
+09004062,Transpore ขนาดเล็ก 1 นิ้ว x 10 หลา,ม้วน
+090337001,"Needle disposable size 18Gx1.5""",อัน
+09003024,Cluxocillin 500 mg.,เม็ด
+09003235,Sialexin 125,ขวด
+09003234,Dexanethasone,เม็ด
+09001142,024.4370 RC Temporay Abutment,ตัว
+09001143,022.4104 RC Anatonic Abutment,ตัว
+09004037,Local anesthesia:spray,ขวด
+09013191,Template Cephlometic protractor tracing,อัน
+09009077,Forcep # F151,ตัว
+09011044,"Implant fixture 4.3x13 mm. Taper TiUnite,RP 1.5 mm. Collar",ตัว
+09012077,"Right lower ""E"" molar ELR7",ตัว
+09012070,"Right lower ""D"" molar DLR6",ตัว
+09006234,Bass wire,กล่อง
+09012087,"Right upper ""E"" molar EUR5",ตัว
+09006103,ที่หนีบฟิล์มเดี่ยว Film Hanger (Single Film),อัน
+09002247,File Niti ขนาด 25 ความผาย 0.04 ยาว 25 mm.,กล่อง
+09002249,File Niti ขนาด 30 ความผาย 0.04 ยาว 25 mm.,กล่อง
+09006297,Graft knife,อัน
+09014500,white stone short round latch,กล่อง
+09002295,K-File 21 mm. No.10,กล่อง
+09001138,FRC postec plus R Refills,ชุด
+09012156,SSC ANT.CUSPID # L2,ตัว
+09012173,SSC.ANT.CUSPID # R2,ตัว
+09014501,หัว Composhape No.4062,ตัว
+09014473,หัว Composhanpe No.4255,ตัว
+09014315,Finishing Diamond No.5205,ตัว
+09014502,หัว Composhape No.5062,ตัว
+09006503,cabide HM72 GX 104 060,ตัว
+09006512,หัว Composhape No.4255 FG คาดแดง,ตัว
+09006510,K-file 31 mm. No.120,ตัว
+09006513,หัว Composhape No.4201 FG คาดแดง,ตัว
+09006504,cabide HM416 GX 104 060,ตัว
+09006508,File:K-file 31 mm. No.100,กล่อง
+09006482,ซองกันน้ำลาย Size 0,กล่อง
+09006506,Silicone polishing green flame HP 9983P 104,ตัว
+09006362,Diamond round bur. 012 FG,กล่อง
+09006505,cabide HM251FX 104 060,ตัว
+09014511,Diamond bur FG 517,กล่อง
+09014509,Diamond bur FG 258,ตัว
+09014507,Diamond bur FG 255A,ตัว
+09006314,Mortize crow & tainate prep set,ชุด
+09011219,Plastic Engaging 3.5 mm.,ตัว
+09011192,022.2102 NCANTO Abut.straight.H2 mm.,ตัว
+09005087,Mixing tip,ถุง
+09006151,Minisata retractor,ชิ้น
+09001144,GI luing & lining cement,ชุด
+090403197,Antirobe (Buscopan),ขวด
+090410009,Tranadoling,แอมพลู
+09016051,Flask Ejector,อัน
+09001148,Bitine Ring,กล่อง
+09011172,Implant cane,ตัว
+09010062,Corn plier,ตัว
+09015106,Divider เครื่องมือวัดขนาดฟัน,อัน
+09002082,File:Profile 21 mm. No.15,กล่อง
+09002083,File:Profile 21 mm. No.20,กล่อง
+09002084,File:Profile 21 mm. No.25,กล่อง
+09006263,Buretts calmp,อัน
+09006264,Triport,อัน
+09006262,Stand & Base,อัน
+09006268,เทอร์โมมิเตอร์,อัน
+09015187,ขวดหยดสีชา ขนาด 60 ซีซี,ขวด
+09006260,ลูกยางดูดสาร,อัน
+09006258,กระบอกฉีดน้ำกลั่น 250 ml.,อัน
+09006026,Forceps,อัน
+09011220,Tapered Intemal Implant 4.6x10.5 mm. 4.5 Platform,ตัว
+09001077,Composite resin LC สี UD,หลอด
+09015046,Mitis Salivarlus Agar 500 gm.,ขวด
+09007032,Pindex system,กล่อง
+09013295,"Intraoral elastic band 3/8"" 8oz",ซอง
+09013296,"Intraoral elastic band 3/8"" 14 oz",ซอง
+09013344,"Intraoral elastic band 1/26"" 14 oz",กล่อง
+09013345,"Intraoral elastic band 1/2"" 8 oz",กล่อง
+09005105,1 st Molar Bands,ตัว
+09005106,2 nd Molar Bands,ตัว
+09013264,Band Double Tube,ตัว
+09006245,Weldable Tube Maxillary 2nd Molar-Non Convertible Single Right/Left,ตัว
+09006246,Weldable Tube Mandibular 2nd Molar-Non Convertible Single Right/Left,ตัว
+09005013,Face shield,อัน
+09001149,แผ่นกราฟบันทึกผล,กล่อง
+09008052,Shim Stock,กล่อง
+098804072002,Gabapentin Capsule 300 mg,กล่อง
+09009211,ชุดการสอบเทียบช่วงแสงสำหรับเครื่องเพิ่มปริมาณสารพันธุกรรมในสภาพจริง,ชุด
+09004011,Alcohol : Iso propyl,ขวด
+09006190,Bridge Remover,ชุด
+09002164,Endo : plugger,ชิ้น
+09002087,File : Profile 21 mm. No.40,กล่อง
+090213004,หน้ากากกันกลิ่นและไอระเหย,ชิ้น
+090401061,Soda  line,แกลลอน
+09013349,Enamel pro M.Mint,กล่อง
+09013350,EP Vamish clear BB GUM,กล่อง
+09003171,Counterpain 60 g.,หลอด
+09003239,Chlorhexidine mouth was,แกลลอน
+09003240,Angitril,เม็ด
+09013342,Hard wire cutter straight,ตัว
+09006269,Microcentrifuge Tube 0.65,อัน
+09006270,Miicroentrifuge Tube 1.7 ml.,แพค/ห่อ
+09006271,"Well TC Cluster ""U""",อัน
+09006272,DW 200ul Yel Grad .96/Rack,แพค/ห่อ
+09006273,Bule Tip Rack 1000 ul.,อัน
+09015215,Centrifuge tube 15 ml.,แพค/ห่้อ
+09015214,Centrifuge tube 50 ml.,แพค/ห่อ
+09006274,Cryogenic Vial 2 ml.,แพค/ห่อ
+09006275,Well TC Plate,อัน
+09006276,"Pipet Tip,PP,1000 ul.",แพค/ห่อ
+09001057,วัสดุอุดฟันชั่วคราว,ชุด
+09006013,Cheek retractor-Metal,ชุด
+09004131,สเปรย์ทำความสะอาดหัวกรอ,ชุด
+09012109,Stainless steel band: Maxillary NU28,ตัว
+09012110,Stainless steel band: Maxillary NU29,ตัว
+09012096,Stainless steel band: Mandibular NL30,ตัว
+09012135,Stainless steel band: Maxillary NU30.5,ตัว
+09006312,อุปกรณ์กระตุ้นไฟฟ้า,อัน
+09002306,File ชนิด Flox-o-file 21 mm. No.10,กล่อง
+090399914,K-Flex 25 mm. No.30,กล่อง
+090399915,K-Flex 25 mm. No.35,กล่อง
+09003149,ยาแก้เมารถ Drimen,แผง
+09003243,Prednisolone,หลอด
+09003244,coroxin 150 mg,เม็ด
+09005101,Viscostat Tissue Management Kit,ชุด
+09005102,Viscostat 30 Indispense,ชุด
+09005103,Fujj LX GP Extra CAP A2,กล่อง
+09005104,Fujj LX GP Extra CAP A3,กล่อง
+09016050,วัสดุพิมพ์ปากชนิด Polyether (PE),ชุด
+09007001,Adhesive-polyether-Permadyne,ขวด
+09001141,Protemp TM (4),ชุด
+09009082,Medicut No.24 (เข็มให้น้ำเกลือ),กล่อง
+09014081,Diamond torpedo shape .018 FG,ตัว
+09003167,เข็มเจาะเลือดที่ไม่ใช้ปากกา,กล่อง
+09003178,K-y gelly,หลอด
+09012167,2% Xylocanine adrenaline,ขวด
+09001035,Glass Ionomer self cure for lining ทั้งชุด,ชุด
+09014271,หัวกรอ Stone ชมพู รูปดอกบัว,ตัว
+09006255,Sorbitol 70%,ขวด
+09006257,Calcium phosphate dibasic,ขวด
+090350091,Silk 2-0 ยาว 75 cm เข็ม 26 mm.  1/2 round,โหล
+09003158,Hypafix,กล่อง
+09002301,K-Flex file 25 mm. No.15,กล่อง
+09002302,K-Flex file 25 mm. No.20,กล่อง
+09002303,K-Flex file 25 mm. No.25,กล่อง
+09002309,K-Flex 25 mm. No.35,กล่อง
+09002310,K-Flex 25 mm. No.40,กล่อง
+09002311,K-Flex 25 mm. No.45,กล่อง
+09002312,K-Flex 25 mm. No.50,กล่อง
+09002308,K-Flex 25 mm. No.30,กล่อง
+09002304,K-Flex file 25 mm. No.70,กล่อง
+09002305,K-Flex file 25 mm. No.80,กล่อง
+09013348,Rack Chain,ชิ้น
+09011217,Tidesing,ตัว
+09011218,Implant transfer,ตัว
+09014465,Pumice ชนิดใช้สำหรับขัดงานฟันปลอม,ถัง
+09010050,Conpiler suture,ตัว
+09010063,Orbon knife,อัน
+09010058,Hand scaler : sickel,ตัว
+09008029,Etchant for ceramics,ขวด
+099999130,ชุดควบคุมอุณหภูมิเครื่องซิลซอง,ชุด
+09011084,RE-Mark MT mini-Temporary Implant,ตัว
+09011083,RE-Mark MT Mini-Temporay Implant Narrow Body,ตัว
+090399147,เครื่องหาความสัมพันธ์ของขากรรไกร(Plane line),อัน
+09001139,Express TM XT Light Body Quick,ชุด
+09001140,Express TM XT Putty Quick,ชุด
+09011165,Std plus 4.1 N 4.8  stactive RC 4.1 Stactive 12 mm.,ตัว
+09011211,Abutment Temporary D 7 mm. H 12 mm.,ตัว
+09001126,Abutment 048.635 RC Abutment 022.4336,ตัว
+09008050,Resin สำหรับหล่อแบบ-ตัวเร่ง,ขวด
+09015298,Walker flam,อัน
+09002299,K-Flex file 21 mm. No.70,กล่อง
+09002300,K-Flex file 21 mm. No.80,กล่อง
+09003020,Carbamazepine,กล่อง
+09003242,Injection plug,กล่อง
+090405085,ด้ามมีดผ่าตัด,อัน
+09014514,Diamond roung long shank 010 FG,กล่อง
+09002298,Diamond roung long shank 012 FG,กล่อง
+09006252,หัว Tripple syrings,ชุด
+09006126,คีมดัดลวด ชนิดสามขา,ชิ้น
+09009118,"Disposable hand switch,knife,cable 3 m.",อัน
+09008199,Disposable neuteal electrode TWINSAFE,ชิ้น
+09009320,Disposable neuteal electrode cable 3 m.,เส้น
+09009321,"Tungsten needle electrode,insulated",อัน
+09016052,Micro-screw 1.5x5 mm.,ตัว
+09008201,Triple tray wide body postenior,กล่อง
+090080202,Triple tray anterior,กล่อง
+09008202,Triple tray anterior,กล่อง
+09008198,ตะขอเกี่ยวเครื่องวัดความยาวรากฟัน,อัน
+09003245,Sumidin,เม็ด
+090367028,ferrous sulfate,เม็ด
+09013244,Forsus Direct Pushrod,ชุด
+09008200,Block-out Resin,ชุด
+061204009,Selector Switch,ตัว
+09008105,Articulating paper holder,ชิ้น
+09006277,ViPlus 100-well storage rack,ชิ้น
+09006278,ViPlus PCR Chiller IsoFreeze PCR Rack,ชิ้น
+09006279,"Rack cube ""VWR UK""",ชิ้น
+09006280,"Cryo 1 degree C Freezing Container, PC",ชิ้น
+09006281,bottle-screw cap-borosilicate glass-clear-100 ml.,ชิ้น
+09006282,bottle-screw cap-borosilicate glass-clear-250 ml.,ชิ้น
+09006283,bottle-screw cap-borosilicate glass-clear-500 ml.,ชิ้น
+09006284,bottle-screw cap-borosilicate glass-amber-100 ml.,ชิ้น
+09006285,bottle-screw cap-borosilicate glass-amber-250 ml.,ชิ้น
+09006286,bottle-screw cap-borosilicate glass-amber-500 ml.,ชิ้น
+09006287,graduated cylinder-amber-class A-glass 50 ml.,ชิ้น
+09006288,graduated cylinder-amber-class A-glass 100 ml.,ชิ้น
+09006289,Vent Unitary Right-to-know wash bottle 500 ml.,ชิ้น
+09015120,Magnetic bar retriever 350 mm.,ชิ้น
+09006290,cleaning brush-narrow test tubes-12x80 mm.,ชิ้น
+09006291,timer-electronic-19 hour/59 min.,ชิ้น
+09006292,dropping bottle-tip head-amber-P.E.-100 ml.,ชิ้น
+09006293,dropping bottle-tip head-clear-P.E.-100 ml.,ชิ้น
+09006294,petri dishes-glass-100x20 mm.,กล่อง
+09006295,inoculation loop-steel-loop cirecular end,ชิ้น
+09006296,inoculation loop-steel-loop handle,ชิ้น
+09006316,อSurveyor Kit,ชุด
+09006127,คีมดัดลวด ชนิดปากนก,ชิ้น
+060510004,แม็กเนตริกสวิทซ์,ตัว
+09004134,Rapid multi-Enzyme cleaner,แกลลอน
+09004135,Biofile Removel Multi-Enzyme cleaner,แกลลอน
+09015223,Carbond tap ขนาด 8 mm.x20 m.,ม้วน
+090402011,NSS 1000 cc.,ขวด
+09007036,Strain Gauge,แพค/ห่อ
+09006053,Suction Tip: Silicone Tip,อัน
+090299050,Cork borer,ชุด
+09006023,Forcep,อัน
+09012174,SSC ฟัน,ชุด
+09003247,Ketazon 200 mg.,เม็ด
+09003246,Hacmo-vit,เม็ด
+09016054,Mini bone plate L.shape LT.,ตัว
+09016055,Mini bone plate L.shape RT.,ตัว
+09016056,Mini bone plate L.shape L.T.Long,ตัว
+09016057,Mini bone plate L.shape RT.Long,ตัว
+09016058,Mini bone plate straight 16 hole,ตัว
+09016059,Mini bone plate straight 4 hole,ตัว
+09016053,Mini screw 2.3x7 mm.,ตัว
+09014515,Diamonds Cylindrical 1.6 mm.,กล่อง
+09014516,Diamonds Cylindrical 1.2 mm.,กล่อง
+09014517,Step bur,กล่อง
+09006302,"Microman M25,3.0 ul-25.0ul",อัน
+09006303,"Microman M1000,100.0ul",อัน
+09006304,CP25 for M25,อัน
+09006305,Pre-assembled CP1000 for M1000,อัน
+09006306,SteriliZed & Pre-assembled CP1000ST for M1000,อัน
+09002109,Gutta percha stick,กล่อง
+090410013,Omepazole 20 mg.,ขวด
+090401047,Oxyletracycline spray,ขวด
+09006315,Removel Forceps,ตัว
+09010078,หัว ET 25,ตัว
+036001003,เพรสเซอร์สวิท,ตัว
+09011209,Implant 4.1 mm.,ตัว
+09001150,RC Closure,ตัว
+09001151,Drill Sleeve,ตัว
+09012117,Stainless steel band: Maxillary NU35,ตัว
+09012175,Stainless steel band: Maxillary NL35,ตัว
+09014520,Carbide taper long shank bur .023 HP,กล่อง
+09014521,Carbide round long shank bur .023 HP,กล่อง
+09010067,หัวขูดหินปูน 25 K (หัว Slim),อัน
+09009013,Coated vieryl 3/0 พร้อมเข็ม 22 mm. รูปตัว J,กล่อง
+09008097,ผงเซรามิค D-Sign A2,ขวด
+09008207,IPS E.MZX PRESS,แพ็ค
+09008203,Empress Investment Ring system,แพค
+09008204,Empress Silicone ring small,แพค
+09008205,IPS Pressvest powder,แพค
+09008206,IPS Pressvest Liquid,แพค
+09015300,Flask,อัน
+0130125001,แบตเตอรี่ ขนาด 12V 120 A,ลูก
+09013343,Expansion screw,ตัว
+090208004,Embodding rings white,แพค
+09015265,Bio-Mold 30x24x5 mm.,อัน
+09015233,Paraplast plus (Pararffim),ถุง
+09004132,น้ำยาทำความสะอาดพื้นผิว แบบ refill,แพค
+09007047,Storage Cane for Cryotube viais Aluminun,กล่อง
+09012061,Right lateral crown RL2,ตัว
+09012065,Right lateral crown RL6,ตัว
+09007042,Primer,ขวด
+09007043,Flocking Kit,ชุด
+09008044,Seleral Polymer,ขวด
+09007045,Daro Adhesive Regular,กระปุก
+09007046,Mixing Pad (M),แผ่น
+09007038,Extrinsic coloration system,ชุด
+09007039,Functional intrinsic kit 12 color,ชุด
+09007040,Functional intrinsic skin color kit 11 color,ชุด
+09007044,Seleral Polymer,ขวด
+09010066,หัว URM Tip H3,อัน
+09008208,น้ำยา Aistringent,ขวด
+09008209,Silicone reline material,ชุด
+09008210,Resilient Deture Acrylic Tissue Treatment,ชุด
+09007049,Tubesandplugs orange with needle,แพค
+09014250,Polishing kit utra II SF-022 (ULTRA Band Lok blue),ชุด
+09015140,Rack 5x10 ช่อง (rack wire),อัน
+09007048,Chemflex (GIC),ชุด
+09003095,พลาสเตอร์ปิดแผลหลังการผ่าตัด Steri-strip,กล่อง
+09007201,Optra sculpt Assortment (Optra Gute size small),กล่อง
+090403177,Triamcinclcne 0.1% oral 5 gm,หลอด
+09003087,Aeyelovir (Vilerm) 5g,หลอด
+09006319,ชุด Prep Veneer (Mlduar veneer set),ชุด
+09001068,Calcium Hydroxide base (Apexit Plus Refill)(Apexcal),ชุด
+09002228,CAVITY ACCESS,ชุด
+09014522,Counting charrnber improved Neubauer,อัน
+09001152,Systemp Inlay,หลอด
+09001153,Systemp Onlay,หลอด
+09011223,Castdsign (AS-22844),ตัว
+09006317,Columbia retractor,ตัว
+09010079,หัว ET 20,ตัว
+09010080,หัว ET 18D,ตัว
+09007041,Medecal Grade Elastorner MDX4-4210 II Ib,แกลลอน
+09012176,SSC ANT.Central UL1 (907001),ตัว
+09012151,SSC ANT.Central#UL4 (907004),ตัว
+09012177,SSC ANT.Central UL5,ตัว
+09012178,SSC ANT.Central UL6,ตัว
+09012179,SSC ANT.Central UR1 (907031),ตัว
+09012180,SSC ANT.Central UR2 (907012),ตัว
+09012153,SSC ANT.Central # UR4,ตัว
+09012181,SSC ANT.Lateral UL4,ตัว
+09012182,SSC ANT.Lateral UL5,ตัว
+09012183,SSC ANT.Cuspid U1,ตัว
+09012158,SSC ANT.Cuspid#L3,ตัว
+09012184,SSC ANT.Cuspid L4,ตัว
+09013355,Self Ligation Breacket,ตัว
+09006320,Tokuso self cure,ชุด
+09015301,Tip syring(HW1916 Tube orange),ชุด
+090123225,กล่องโมเดลใส่แบบจำลองฟัน,กล่อง
+09013356,Bracket Head series,ตัว
+09010081,Automatrix,ชุด
+09001154,เรซิน ซีเมนต์ NX3 light cure,หลอด
+09008096,Variolink II EST CEM/ Excite DSC,ชุด
+09011224,Zaagkit for 4 root,ตัว
+09011225,Locator male processing,ชุด
+090399860,Molar Bracket,ตัว
+09008119,Enamel porcelain (Traslusent),ขวด
+09001112,Opaquer(+Liquid),หลอด
+09010077,Kirkland chise,ตัว
+09010012,"แผ่นเยื่อเหนี่ยวนำ : GTR, Biomend (15x20 mm.)",กล่อง
+09005027,"ซองบรรจุภัณฑ์ชนิดเรียบ 3"" ความยาว 200 เมตร/ม้วน",ม้วน
+09005028,"ซองบรรจุภัณฑ์ชนิดเรียบ 4"" ความยาว 200 เมตร/ม้วน",ม้วน
+09005029,"ซองบรรจุภัณฑ์ชนิดเรียบ 6"" ความยาว 200 เมตร/ม้วน",ม้วน
+09007050,พายผสม,อัน
+099999313,Foot Switch,ชุด
+099999131,กระดาษถ่ายรูป paper reorder UVP,ม้วน
+09001061,composite resin refill A3 (P 60),หลอด
+090404075,Sterile water,กล่อง
+090401006,Atropine 0.5%,ขวด
+09011212,Impression post for closed tray (025.4202),ตัว
+09001079,Implant analog รหัส048.171(025.4101),ชิ้น
+090399086,หูฟังตรวจโรค Stethoscope,อัน
+09010055,Mini five hand scaler gracey #3/4,ตัว
+09010056,Mini five hand scaler gracey #7/8,ตัว
+09010057,Mini five hand scaler gracey #11/12,ตัว
+09010053,Mini five hand scaler gracey #13/14,ตัว
+09001155,Minimaly invasive cosmetic,ชุด
+09008216,Vanolink veneer,ชุด
+09006181,Disposable brush tips,แพค/ห่อ
+0170201018,เสื้อกาวน์เขียวผูกหลัง,ผืน
+09006318,ข้อต่อเครื่องตัวประสาทฟัน,ตัว
+09008217,Arti - Fol,กล่อง
+09009323,Luer Vaccum Adapters,หลอด
+09009322,Capillary Tips,หลอด
+09014373,Diamond round end taper bur D8,กล่อง
+09014265,หัว Composhape,กล่อง
+09013266,Stainless steel wire 0.016x0.022 inch -Straight,หลอด
+09013267,Stainless steel wire 0.021x0.025,หลอด
+09014260,Soflex ขนาดเล็ก (3/8),กล่อง
+09013351,Bumper Tubing Clear,ชิ้น
+09013352,Combo cheek,ชุด
+090399911,K-Flex 21 mm No.15,กล่อง
+090399912,K-Flex 21 mm No.20,กล่อง
+090399913,K-Flex 21 mm No.25,กล่อง
+09005108,Examination glove without talc SS ถุงมือไม่มีแป้ง,กล่อง
+09002316,K3XF Files 21 mm.Taper.08/TIP25,กล่อง
+09002317,K3XF Files 25 mm.Taper.08/TIP25,กล่อง
+09002318,K3XF Files 21 mm.Taper.06/TIP25,กล่อง
+09002319,K3XF Files 25 mm.Taper.06/TIP25,กล่อง
+09002320,K3XF Files 21 mm.Taper.04/TIP25,กล่อง
+09002321,K3XF Files 25 mm.Taper.04/TIP25,กล่อง
+09002322,K3XF Files 21 mm.Taper.06/TIP30,กล่อง
+09002323,K3XF Files 25 mm.Taper.06/TIP25,กล่อง
+09002324,K3XF Files 21 mm.Taper.04/TIP30,กล่อง
+09002325,K3XF Files 25 mm.Taper.04/TIP30,กล่อง
+09002329,K3XF Files 21 mm.Taper.10/TIP25,กล่อง
+09002330,K3XF Files 25 mm.Taper.10/TIP25,กล่อง
+09012187,K3 taoer 02 ยาว 21 mm.,กล่อง
+09016064,K3 taper 02 ยาว 25 mm.,กล่อง
+09008004,Acrylic resin (Heat-cure) - pink - ผง,กิโลกรัม
+09013186,Mosquito forcep,ชิ้น
+09011226,OTA Osseous collectors,ชิ้น
+09006105,ปลาย Syringe ฉีดวัสดุพิมพ์ปาก (Plastic tip),อัน
+09001101,Kolar plus resin (วัสดุปิดผิวฟัน),ชุด
+090214040,tissue cassette,แพค/ห่อ
+09010037,Forceps # F23,ตัว
+09003046,Metronidazale 200 mg,เม็ด
+090403027,Cephalexin 500 mg,เม็ด
+09003081,Solcoseryl dental 5 g,หลอด
+09002326,K3XF Files 21 mm. Taper .06/TIP40,กล่อง
+09002327,K3XF Files 21 mm Taper .06/TIP35,กล่อง
+09002332,K3XF Files 25 mm Taper .06/TIP35,กล่อง
+09002328,K3XF File 21 mm Taper .04/TIP35,กล่อง
+09002334,Endodontic ruler,อัน
+09008220,น้ำเรซิน,แกลลอน
+09013315,Contouring pliers,ตัว
+09013200,Bird beak plier,ตัว
+09014082,Diamond bur cylinder .010 (latch),ตัว
+09014083,Diamond bur cylinder .012 (latch),ตัว
+090101368,Hematoxylir (powder 25 g),ขวด
+09010082,Antiseptic solution,แกลลอน
+090101127,Hydrochloric acid 2.5 Lt.,ขวด
+09010084,Toluidine blue,ขวด
+09010083,Fuchsin basic,ขวด
+09015087,Beaker LF 100 ml.,อัน
+090354002,Beaker glass size 50 ml.,อัน
+09002331,Disposable Low Profile Blade,กล่อง
+09008215,น้ำยา NRC และน้ำยา A+B สำหรับวัสดุยึด Paracore,กล่อง
+09013359,Boon Bracket Posittioning Gauge,ตัว
+090399161,hook,อัน
+09001158,Etching ชนิด syring,ถุง
+09008218,Model base,คู่
+09015302,Pace Diamond Blade,แผ่น
+09009016,Coated vicryl 5/0 พร้อมเข็ม 12 mm.,กล่อง
+09006321,Oral Tube,ชิ้น
+09006322,Cleft tube,ชิ้น
+09006323,Nasal tube,ชิ้น
+09006324,Guedel oral Airway,ชิ้น
+09013353,Arch wire,ม้วน
+09013357,Weingart Utility Plier,ตัว
+09013358,Tweed arch bending plier,ตัว
+09014263,แผ่นตัดปูน,แผ่น
+090399635,T plate,ชิ้น
+09002313,K-Flex 25 mm.No.60,กล่อง
+09012186,SSC ANT.Central UL3,ตัว
+09012152,SSC ANT.Central #UR3,ตัว
+09012188,SSC ANT.Central UR6,ตัว
+09012185,SSC ANT.Central UL2 (907013),ตัว
+09012155,SSC ANT.CUSPID #U2,ตัว
+09012190,SSC ANT.Cuspid L6,ตัว
+09012189,SSC ANT.Cuspid L1,ตัว
+09006061,syringe for elastomer (พิมพ์ปาก),อัน
+09006247,short Twist Kobayashi Hook.012 standerd (0.014 standard),กล่อง
+09013119,Elastic Thread ขนาด .025 นิ้ว ยาว 25 ฟุต/ม้วน,ม้วน
+09013185,Bracket holder : ชนิดมี Blade ที่ปลาย สำหรับปรับตำแหน่ง bracket,ชิ้น
+09006088,"กระปุกแช่เครื่องมือ ขนาด 1""x4""",อัน
+09003121,Paracetamol 500 mg. ยี่ห้อTylenol,เม็ด
+098802061002,Issorbide dinitrate Tablet 5 mg. (1 กล่อง/50 เม็ด),กล่อง
+09006330,Tissue plier (TP43),ตัว
+09006331,molt No.9,ตัว
+09006332,Mont curette No.2/4,ตัว
+09006333,Prichard,ตัว
+09006334,Heavy sickle,ตัว
+09006338,Frazier Coupland,ตัว
+09009327,Root forcep บน ล่าง,ตัว
+09010060,Bone plugger,อัน
+09010093,Kerkland chisel 13K/14L,ตัว
+09010094,Oscheinbein 1/2,ตัว
+09003050,Micropore ขนาดเล็ก 1/2 นิ้ว x 10 หลา,ม้วน
+098813081005,Chlorhexidine Solution,แกลลอน
+098805016007,Norfloxaoin 400 mg,กล่อง
+09003063,Oreda,ซอง
+09008132,Mounting ring,ตัว
+09010085,Air scaler,ตัว
+09006113,หัวกรอช้า Staight Handpiece,ตัว
+09002335,Pathfile,กล่อง
+09013373,แผ่นแบ่งช่องว่างฟัน,ตัว
+09003248,Cap Removal,แพค/ห่อ
+09013360,ขี้ผึ้งสำหรับกันระคายเคือง,กล่อง
+09013361,Ligature director with scaler,ตัว
+09011017,Esthetic abutmant 1 mm.,ชิ้น
+09014466,Carbide round long shank HP,ตัว
+09006169,Spreader,อัน
+09014173,Brown stone long flame shape HP,ตัว
+09014185,White stone HP #1 refill,ตัว
+09011228,Fixture TS II Regalar Fre-Mount,กล่อง
+09011229,Transfer Abutment,กล่อง
+09011230,Healing Abutment,กล่่อง
+09011231,Impression Coping,กล่อง
+09011232,Lap analog,กล่อง
+09001009,"Composite resin LC สี A1(Z350XTbody,denteen,Enamel)",หลอด
+09001010,"Composite resin LC สี A2(Z350 XT body,denteen,enamel)",หลอด
+09001011,"Composite resin LC สี A3 (Z350 XT body,denteen,enamel)",หลอด
+09001012,Composite resin LC สี A3.5(Z350 XT body),หลอด
+09001013,composite resin LC สี A4,หลอด
+09001075,composite resin LC สี DY,หลอด
+090318036,Suction Tube No.10 สายดูดเสมหะ,ชิ้น
+09013152,แผ่นพลาสติกทำเฝือกสบฟัน  ขนาด5*5นิ้ว ขนาด 0.040 แบบนิ่ม,กล่อง
+090399098,สำลีปลอดเชื้อขนาดก้อนละ 0.35 กรัม (เบอร์1),แพค/ห่อ
+09007051,Phosphorie,หลอด
+09003249,Arcoxia 120 mg,กล่อง
+09006339,ตัวเกาะพร้อมสายยาง (Spray Nozzic),ชุด
+09015005,Agar:Rogosa Agar (Difcd) 500 g.,ขวด
+09013362,Hollow Chop Plier,ตัว
+09013363,Backet mini diamond slot.022,ตัว
+09013364,Bondable Sigle tube No.6,กล่อง
+09013365,Bondable Sigle tube No.7,กล่อง
+09013366,Direct bond Bracket Holder,ตัว
+09013367,Band No.6 Ormco With Sigle Tube,กล่อง
+09013368,Enlight วัสดุยึดติด Bracket ชนิดฉายแสง,ชุด
+09013369,วัสดุสำหรับ Fix Band สีขาว,ชุด
+09013370,Pocelain Primer,ขวด
+09013371,O-ring สำหรับคล้อง Bracket,ถุง
+09013372,Bite Turber,กล่อง
+09013375,Elastic separating Plier,ตัว
+090316019,ถังออกซิเจน ขนาด 6 ลบ.ม.,ถัง
+099999349,สายเครื่องวัดความยาวรากฟัน,เส้น/สาย
+09002336,K-file 31 mm.No. 10,กล่อง
+09002337,file ชนิด Flex-o-file 21 mm. No.10,กล่อง
+09002338,file ชนิด Flex-o-file 25 mm. No.10,กล่อง
+09014530,Soflex refill ขนาดใหญ่ 1/2 (493 ISF),ถุง
+09001159,composite resin LC สี CT,หลอด
+09001160,Composite resin LC สี AT,หลอด
+09008131,Edentulous Perforated Tray,คู่
+09006194,อุปกรณ์วัดความหนาของ wax,อัน
+09010091,LaGrange scissors,ตัว
+09010092,Goldman fox scissores,ตัว
+09010086,Elevator ขวา,ตัว
+09010087,Elevator ซ้าย,ตัว
+09010088,Elevator ชายธงซ้าย,ตัว
+09010089,Elevator ชายธงขวา,ตัว
+09005110,Periosteal P9,ตัว
+09006327,Root tip ตรง,ตัว
+09006325,Root tip ขวา,ตัว
+09006326,Root tip ซ้าย,ตัว
+09011227,Bone file,ตัว
+09009326,Artery forceps,ตัว
+09006328,Rongrurs,ตัว
+09006336,scissors,ตัว
+09014531,Diamond bur 422R,กล่อง
+09006340,Contra hanpiece,ชิ้น
+09006195,อุปกรณ์วัดความหนาของโลหะ,อัน
+09006096,ถ้วยยา,ใบ
+09006166,ชามรูปไต,อัน
+09016065,Sectional screw (13 mm. Retraction medium),ตัว
+09013147,Expansion screws (Hyrax ขนาด 11 mm.),ชิ้น
+09016066,Expantion Hyrax Medium-10,ตัว
+09013285,Expansion screws (Hyrax ขนาด 12 mm.) (Maxi-12Straight),ตัว
+09006198,คีมถอนฟันบนเด็ก,ตัว
+09006199,คีมถอนฟันล่างเด็ก,ตัว
+09013278,Lip retravtor,อัน
+09014513,Dimaond bur FG 8526,กล่อง
+09014508,Diamond bur FG 235,กล่อง
+09014532,Diamond bur FG 235GB,กล่อง
+09014533,Diamond bur FG 8238,กล่อง
+09014534,Diamond bur FG 237GB,กล่อง
+09014535,Diamond bur FG 236CB,กล่อง
+09014536,Diamond bur FG 250,กล่อง
+09014537,Diamond bur FG 5250,กล่อง
+09014538,Diamond bur FG 129,กล่อง
+09014539,หัวกรอฟันปลอมแบบถอดได้ No.201CB,กล่อง
+09014540,หัวกรอฟันปลอมแบบถอดได้ No.201N,กล่อง
+09014541,หัวกรอฟันปลอมแบบถอดได้ No.204CB,กล่อง
+09006341,ที่วัดรอยผุของฟัน(น้ำยา),ชุด
+090214068,Spatula,ชิ้น
+09006063,XCP Endo Ray,ชุด
+09013378,Ligature wire,ม้วน
+09013380,Open coil spring niti stainless,กล่อง
+09013381,Close coil spring niti stainless,กล่อง
+09013382,Open coil spring niti,กล่อง
+09013383,Close coil spring niti,กล่อง
+09013379,Pre-formed Ligature wide,กล่อง
+09009067,5% DN/3 500 ml.,ขวด
+09005019,ผ้าก๊อช 3x3,แพค/ห่อ
+09014542,Diamond round ent taper คาดเหลือง 016,กล่อง
+09013376,Nickel titarium wire 0.21x0.025 upper preformed,กล่อง
+09013377,Nickel titanium wire 0.021x0.025 lower preformed,กล่อง
+09005035,ปลายพู่กัน (ขาว-ดำ) (100 อัน/ชุด),ชุด
+09001156,Sectional matrix refill รุ่น mini,กล่อง
+09001157,Sectional matrix refill รุ่น standard,กล่อง
+09008018,Alcohol Torch (ตะเกียงแอลกอฮอล์) : แก้ว,อัน
+09006045,Plate (Petridish)(ขนาดเล็ก),คู่
+09002339,Ketac Cem,ชุด
+09005018,ก๊อช 2*2 นิ้ว,ซอง
+090005019,ก๊อช 3*3 นิ้ว,โหล
+09005020,Gauze 4*4,กล่อง
+090304005,ก๊อช 36*100 หลา,ม้วน
+09004136,Jel fome,กล่อง
+09010045,Curette,ตัว
+09014167,Brown stone taper shape HP,ตัว
+09013058,"Super-niti wire 0.019x0.025 inch,upper-preformed",กล่อง
+09013059,"Super-niti wire 0.019x0.025 inch,lower-preformed",กล่อง
+09006184,สาย High power suction,เส้น/สาย
+090404009,Atropine,ขวด
+090399083,"แก๊สอ๊อกซิเจน ความดันไม่ต่ำกว่า 2,000 ปอนด์",ถัง
+090401130,Propofol,ขวด
+09003250,Aethoxysklerol,ขวด
+09012191,SSC ANT.Cuspid U2,ตัว
+09008224,Seperating media,ขวด
+09013387,Retraction screw Extra mini,ตัว
+09013388,Retraction screw medium,ตัว
+09005077,Face Mask สำหรับใช้กับศีรษะจำลอง,อัน
+09004016,Caries detector,ชุด
+09003252,Cavumox 1 g.,เม็ด
+098810011021,Parecoxib Injection 40 mg,กล่อง
+090399885,ไวคิล 2/0 (W9582T),กล่อง
+09010095,แผ่นเคลื่อนย้ายผู้ป่วย,แผ่น
+098804071012,Pethidine Injection 50 mg,แอมพลู
+09012136,Stainless steel band : Maxillary NU31.5,ตัว
+09012144,Stainless steel band : Maxillary NU33.5,ตัว
+09012116,Stainless steel band : Maxillary NU34.5,ตัว
+09012094,Stainless steel band : Mandibular NL28 (Plus),ตัว
+09012095,Stainless steel band : Mandibular NL29,ตัว
+09012140,Stainless steel band : Mandibular NL31.5,ตัว
+09012141,Stainless steel band : Mandibular NL33.5,ตัว
+09014551,Polishing kit : Enhance refill ดอกบัว,ชุด
+09006344,X-ray film DF-49 (IO 41),กล่อง
+09012192,1%Xylocaine without Adrernaline,ขวด
+09012193,1%Xylocaine with Adrenaline,หลอด
+09012194,Herbessar ini,หลอด
+09012033,"Left upper ""D"" molar DUL7",ตัว
+09003255,Triamcinolone Acetonide0.1% 5g,หลอด
+09003256,Triamcinolone Acetonide0.1% 1 g,ซอง
+09003257,Tranexamic Acid 250 mg,เม็ด
+09006350,Verneer caliper วัดโลหะ,ตัว
+09006351,Verneer caliper วัด Wax,ตัว
+09012052,Primary cuspid stainless crown : Maxillary CU5,ตัว
+09012053,Primary cuspid stainless crown : Maxillary CU6,ตัว
+09012011,Left lateral crown LL 2,ตัว
+09012015,Left lateral crown LL 6,ตัว
+098805017003,Clindamycin Capsule 300 mg,กล่อง
+09008225,Removal Kit,ชุด
+0100701009,ผ้าเจาะกลางสีเขียวสองชั้น ขนาด 24x24 นิ้ว,ผืน
+09006345,U sickle,อัน
+09006347,Proximal carver,อัน
+09006346,T ball burnisher,อัน
+090369001,แอลกอฮอล์,ขวด
+09008226,Ginigival retraction Cord No 000,หลอด
+09002343,K3 Files 21 mm. Taper 04/TIP20,กล่อง
+09002344,K3 No.20 Taper 04 ยาว 25 mm.,กล่อง
+09002345,K3 Files 21 mm. Taper 06/TIP20,กล่อง
+09002346,K3 No.20 Taper 06 ยาว 25 mm.,กล่อง
+09002347,K3 No.45 Taper 04 ยาว 25 mm.,กล่อง
+09002348,K3 No.50 Taper 04 ยาว 25 mm.,กล่อง
+09006353,Crown-Tractor,ตัว
+09015312,กล่องสำหรับดักฝุ่น,กล่อง
+09008227,Model จัดฟัน,อัน
+09013247,แผ่นพลาสติกทำเฝือกสบฟัน ขนาด 5x5 นิ้ว หนา 0.30(1กล่อง/8แผ่น),กล่อง
+09013005,Stainless steel laboratory wire .08 mm:-Hard,อัน
+09005085,"ซองบรรจุภัณฑ์ชนิดเรียบ 12"" ความยาว 200 เมตร/ม้วน",ม้วน
+09004137,น้ำยาแช่เครื่องมือ Sodium hyproclorite 2.5% ขนาด 450 ml.,ขวด
+09006352,ชุดอุปกรณ์แปรงสีฟัน,ชุด
+0199999066,ค่าขนส่งและค่าระวาง,ชุด
+099999355,ข้อต่อ Airolor,หัว
+09013007,Stainless steel wire 0.0150 inch-twistflex,หลอด
+09006349,สายเพลทเครื่องจี้เส้นเลือดไฟฟ้ายี่ห้อ Force fx,เส้น/สาย
+09003258,silver diamine saforide,ขวด
+09015304,ถัง oxygen,ถัง
+09015305,หัว oxyen Regulator,อัน
+09015306,Oxygen Flow Meter พร้อมข้อต่อ,อัน
+09015307,O2Nut และ Nipple connector,อัน
+09015308,Oxygen cannular,อัน
+09015309,Oxygen bag with mask,อัน
+09015310,รถเข็นสแตนเลสใส่ถังออกซิเจนพร้อมโซ่คล้อง,รถ/คัน
+09015311,เครื่องช่วยหายใจชนิดมือปีบ,ชุด
+0900202,file:  H-file   25  mm.  No. 10,กล่อง
+09001164,Composite Z350 XT สี GT (grey),หลอด
+09001165,Composite Z350 XT สี WD (white dentin),หลอด
+090399189,MINI BONE PLATE,ชิ้น
+09016067,Mall Metal w Nylon,ตัว
+09016069,Cottle nasalseptum seculum 14 cm,ตัว
+09016070,Cottle ostetome (10mm),ตัว
+09016072,Obwegeser chin retractor,ตัว
+09014558,obwegeser chin retractor 3 mm.,ตัว
+09016073,obwegeser periostiom retractor,ตัว
+09016074,obwegeser periostiom j-striper,ตัว
+09016075,obwegeser periostiom Bewer tail,ตัว
+09016076,obwegeser blaed osteotome 8 mm.,ตัว
+09016077,obwegeser blaed osteotome 12 mm,ตัว
+09003146,Nasal speculum (septum osteotome),ตัว
+09016078,Dingman mobilizing retractor,ตัว
+09015032,Gelatin,ขวด
+09015083,beaker 250 ml,อัน
+09014003,beaker 100 ml,เมกะโวลต์แอมแปร์
+09014009,beaker 50 ml,เมกะโวลต์แอมแปร์
+09015321,Brush for tube 10*60 mm,อัน
+09015322,Brush for tube 16*60 mm,อัน
+09015323,Brush for tube 27*80 cm,อัน
+09015324,Spoon 8' Stainless,อัน
+09015319,แท่งแก้วคนสาร ขนาด 5 มม.ยาว 8 นิ้ว,อัน
+09015320,แท่งแก้วคนสาร ขนาด 5 มม. ยาว 10 นิ้ว,อัน
+09015318,ถังเก็บน้ำกลั่นมีก๊อก ขนาด 25 ลิตร,ถัง
+09015317,Cassette with lid white 500 pcs/pack,แพค/ห่อ
+09015316,ถาดวางสไลด์ชนิดอลูมิเนียม,อัน
+09015315,กล่องพลาสติกบรรจุสไลด์ขนาด 100 แผ่น,อัน
+09015314,กระบอกดวงพลาสติก ขนาด1000ml,อัน
+098802061005,nitroglycerin 50 mg/10 ml (Nitroject),กล่อง
+09013404,Arch wire sleeve gray,แพค/ห่อ
+09013405,Arch wire sleeve Tooth color,แพค/ห่อ
+09013399,Elastic wildlife heavy 3/16 3.5 OZ,กล่อง
+09013400,Elastic wildlife heavy 1/4 6.5 OZ,กล่อง
+09013401,Elastic wildlife heavy 5/16 5.5 OZ,กล่อง
+09013402,Elastic wildlife maxumum 3/16 14 OZ,กล่อง
+09013403,Elastic wildlife maxumum 1/4 14 OZ,กล่อง
+09006354,ตู้อบโมเดล,ตู้
+09013409,Nickel titanium wire .020 inch upper - preformed,กล่อง
+09013410,Nickel titanium wire 0.20 inch lower - preformed,กล่อง
+09001025,Glass Ionomer LC for filling ส่วนผง ยี่ห้อ Vitremer,ขวด
+09013389,Nitinol se upper No.16.22,กล่อง
+09013390,Nitinol se lower No.16.22,กล่อง
+09013391,Nitinol se upper No.17.25,กล่อง
+09013392,Nitinol se lower No.17.25,กล่อง
+09013393,Nitinol se upper No.18.25,กล่อง
+09013394,Nitinol se lower No.18.25,กล่อง
+09013395,Nitinol se upper No.19.25,กล่อง
+09013396,Nitinol se lower No.19.25,กล่อง
+09003030,diazepam 5 mg,กระป๋อง
+09001032,Glass Ionomer self cure for filling -ทั้งชุด Fuji IX,ชุด
+09007013,Sillicone-Light,ชุด
+09008228,catalyst v.(refill) supper bond C,หลอด
+09013411,Super - niti wire 0.016x0.022 upper,กล่อง
+09013412,Supper - niti wire 0.016x0.022 lower,กล่อง
+09006355,Condenser set,ชุด
+09002009,File:H-file 21 mm No08,กล่อง
+09002062,K-file 25 mm. No.15,กล่อง
+09004140,sterile water for injection 1000 ml,ขวด
+09006093,ขวดพลาสติก,ขวด
+09004139,Normal saline 100 ml,ขวด
+098805017004,clindamycin injection 300 mg/amp,ไวแอล
+090404121,0.9%NSS 500 ML.,กล่อง
+09013413,ELastic extra 5/16 14 DZ,กล่อง
+09013190,Lip retractor with tonque guard & saliva ejector tube,ชุด
+090499023,plaster พลาสเตอร์ปิดแผล,แผ่น
+09004088,Alcohol,ขวด
+090403237,Antacil gel 1000 ml,ชุด
+09003096,ยาดม,หลอด
+09005058,ยาสีฟัน,หลอด
+09006356,Mouth merrer ชนิด Magnifying mirrer,ชุด
+09006357,Mouth mirrer ชนิด Double Side Mirrer,ชุด
+09014369,Diamond round end taper bur D2 FG,กล่อง
+09015313,Drying Rack,อัน
+09006058,Syringe (Disposable) 10 cc,ชิ้น
+09009038,แผ่นระบาย Latex penrose drum tubing1,กล่อง
+09012197,stainless  steel band,กล่อง
+09008230,ดินสอเขียนเนื้อเยื่อในช่องปาก,แท่ง
+09008229,resin cement Nexus 3,หลอด
+09014561,หัว Composhape No.40D2 คาดแดง,ตัว
+09014562,หัว Composhape No.50D2 คาดเหลือง,ตัว
+09014563,Ceramic Finishing No.4205,ตัว
+09014564,Ceramic Finishing No.9205,ตัว
+09014565,Ceramic Finishing No.4274,ตัว
+09014566,Ceramic Finishing No.9274,ตัว
+09006358,Contraster For Anterior,อัน
+09006359,Contraster For Posterior,อัน
+09007054,Compound cake,กล่อง
+09007052,Daro Extra strength,ขวด
+09007053,Small Kit included,ชุด
+09016079,Unilock Reconstruction plate 2.4 mm,ตัว
+09016080,Unilock screw 2.4 mm self tapping 16 mm,ตัว
+09016081,Unilock screw 2.4 mm self tapping 14 mm,ตัว
+098802062014,Nicardipine In jection 2 mg,กล่อง
+098802062015,Nifedipine Capsule 10 mg,กล่อง
+098804010012,Diazepam Injection 10 mg,แอมพลู
+098806030003,Dexamethasone Injection 4 mg,ไวแอล
+09002107,Gutta percha cone # FF,กล่อง
+09002106,Gutta percha cone # MF,กล่อง
+090305037,Elastic bandage ผ้ายืดพันแผล ขนาด 6 นิ้ว,ม้วน
+09006240,White stone flame Latch,ตัว
+09014569,Diamond bur cylinder 008 Latch,กล่อง
+09013414,"Bracket SL Empower Clear 022,5-5 Upper lnteractive,Lower Dual",ชุด
+09013415,"Bracket SL Empower Clear 022 lnt/Pas,5-5",ชุด
+09013416,INTRO KIT DT LIGHT-POST,ชุด
+09013417,Macro-lock POST,ชุด
+09011235,RelyX U200,ชุด
+09002197,Lentulo spiral 21 mm. No. 30  สีฟ้า,กล่อง
+09002198,Lentulo spiral 21 mm. No. 35  สีเขียว,กล่อง
+09002196,Lentulo spiral 21 mm. No. 25  สีแดง,กล่อง
+09014546,Gate glidden drill 32 mm #4,กล่อง
+09008231,semi micro cuvetter,กล่อง
+09004141,Dextro strip,กล่อง
+09013406,TAD miniscrew 6 mm.,ตัว
+09013407,TAD miniscrew 8 mm.,ตัว
+09013408,TAD miniscrew 10 mm.,ตัว
+09016083,Expasyl Refill,แพค/ห่อ
+09014574,Diamond Bur End cutter,ตัว
+09005114,ตะแกรงรองอ่างล้างมือ,อัน
+09009329,Flap retractor,ตัว
+09011167,Bone curreter,ชิ้น
+09011143,สายยางต่อน้ำเกลือ สำหรับใช้ในงานทันตกรรมรากเทียม,เส้น/สาย
+09001168,Bondin:All bond 3,ชุด
+09010096,Temp Crown Bicuspids,ชุด
+090308016,เทปผ้าติดแผลแบบตาข่าย Neofix,ม้วน
+090367004,น้ำเกลือ,ถุง
+090403187,ยาธาตุน้ำแดง,ขวด
+09002355,Alovelar gel,หลอด
+09015045,Methylene Blue,ขวด
+090390020,แถบสติ๊กเกอร์ติดเครื่องมือผ่าตัด,ม้วน
+060701012,Run Capaciter,ตัว
+09002358,Tmplant cement,กล่อง
+090393003,น้ำยาล้างทำความสะอาดเครื่องมือ Enzyme detergent,แกลลอน
+09001166,Monobon-N,ชุด
+09014571,Ceramic refill (HF),ขวด
+09014572,Astrobrush,ชุด
+09014573,Optrafine (ขัดporcelaineในปาก),ชุด
+09011234,Probe,อัน
+090214107,Cylinder Water,ชิ้น
+09002356,K3XF Files 25 mm Taper .04/TIP35,กล่อง
+09002357,K3XF Files 25 mm Taper .06/TIP30,กล่อง
+09004142,Hexene scrub 500 ml.,ขวด
+09004143,Hexene scrub 100 ml.,ขวด
+09002359,Gutta percha สำหรับใช้กับเครื่องมือฉีด Gutta percha,กล่อง
+09002094,Gutta percha cone #35,กล่อง
+09002010,file:H-file   21  mm.  No. 10,กล่อง
+09002011,file:H-file   21  mm.  No. 15,กล่อง
+09002012,file:  H-file   21 mm.   No.  20,กล่อง
+09002013,file:  H-file   21 mm.   No.  25,กล่อง
+09002014,file:  H-file   21 mm.   No.  30,กล่อง
+09002015,file:  H-file   21 mm.   No.  35,กล่อง
+09002016,file:  H-file   21  mm.  No. 40,กล่อง
+09012198,Plastic Tray No.M,คู่
+09012199,Plastic Tray No.L,คู่
+09014575,Inlay:taper diamond flat end,ตัว
+09014567,Diamond round bur long .014 FG,กล่อง
+09008232,Cement-Resin cement Refill,ชุด
+09013419,Transbond,ชุด
+09005111,กระดาษใยหิน Abbestos,ม้วน
+09005112,Grusible former ring,อัน
+09008066,Wax - spru 4 mm.,กล่อง
+09006366,ออโต้ไบเปต ขนาด 100-1000 ul,อัน
+09009330,Silk 2/0 พร้อมเข็ม,กล่อง
+09009331,Silk 3/0 ไม่มีเข็ม,กล่อง
+09009332,Silk 2/0 ไม่มีเข็ม,กล่อง
+09014568,Carbide round long 009 Latch (1กล่อง/4ตัว),กล่อง
+09014553,Carbide round long shank bur .012 (Latch)(1กล่อง/5ตัว),กล่อง
+09014554,Carbide round long shank bur .014 (Latch)(1กล่อง/5ตัว),กล่อง
+09014555,Carbide round long shank bur .016 (Latch)(1กล่อง/5ตัว),กล่อง
+09006348,Trephines bur,อัน
+09013420,Band lock,ชุด
+09006363,Under cut gate Analyzing rod,ชุด
+09006364,Carbon sheet,อัน
+09013421,Round HM1 No.010 FG,ตัว
+09013422,Round HM1 No.020 FG,ตัว
+09013423,Steel cutters 71 No. 050 HP,ตัว
+09013424,Steel cutters 71 No. 070 HP,ตัว
+09013425,Steel cutters 75 No. 050 HP,ตัว
+09013426,Steel cutters 75 No. 070 HP,ตัว
+090333006,Ultrasonic gal (Ultrasound gel),อัน
+0100101320,ถุงมือ,คู่
+09002360,K3XF Files 25 mm Taper.06/TIP40,กล่อง
+09002361,K3XF Files 21 mm.Taper.04/TIP20,กล่อง
+09002362,K3XF Files 25 mm.Taper.04/TIP20,กล่อง
+09002363,K3XF Files 21 mm.TAper.06/TIP20,กล่อง
+09002364,K3XF Files 25 mm.TAper.06/TIP20,กล่อง
+09002365,K3XF Files 25 mm.TAper.06/TIP30,กล่อง
+09002366,K3XF Files 25 mm.TAper.04/TIP35,กล่อง
+09002367,K3XF Files 21 mm.TAper.04/TIP40,กล่อง
+09002368,K3XF Files 25 mm.TAper.04/TIP40,กล่อง
+09002369,K3XF Files 21 mm.TAper.04/TIP45,กล่อง
+09002370,K3XF Files 25 mm.TAper.04/TIP40,กล่อง
+09002371,K3XF Files 21 mm.TAper.06/TIP45,กล่อง
+09002372,K3XF Files 25 mm.TAper.06/TIP45,กล่อง
+098806030012,Kanolone 10 mg Injection Triamcinolone Injection,ไวแอล
+09016084,วัสดุพิมพ์ปากชนิด Odontosil,ชุด
+09016085,Blade screw driver,ด้าม
+09009334,ปรอทวัดไข้ Digital,อัน
+09011236,Dental Implant,ชุด
+09008233,วัสดุเสริมฐานฟันปลอมชั่วคราว,ชุด
+09011238,ไม้พันสำลี,อัน
+09002349,wave one rotary file No.20 ขนาด 21 mm,กล่อง
+09002350,wave one rotary file No.20 ขนาด 25 mm,กล่อง
+09002351,wave one rotary file No.25 ขนาด 21 mm,กล่อง
+09002352,wave one rotary file No.25 ขนาด 25 mm,กล่อง
+09002354,wave one rotary file No.40 ขนาด 25 mm,กล่อง
+09002353,wave one rotary file No.40 ขนาด 21 mm,กล่อง
+090516085,screw driver,ชิ้น
+09013427,A-One,แพค/ห่อ
+09002373,file : H-file 25 mm. No.15-40,กล่อง
+09003260,Bracket,ชุด
+09004144,Bio-plast Plus,ถุง
+09004145,10% Neutral buffer formalin 2.5L,ขวด
+09014576,Acrylic carbide bur : หัวมะยม,ตัว
+090399821,เจลล้างมือ,ขวด
+090220105,นาฬิกาจับเวลา Timer ชนิด 99/99 H/M/S,อัน
+09005053,spoon long shang,ชิ้น
+099999354,ที่วาง Suction,ตัว
+09005079,Mask ใช้สำหรับห้องผ่าตัด เบอร์ 3 (ผู้ใหญ่),อัน
+09005080,Mask ใช้สำหรับห้องผ่าตัด เบอร์ 4 (เด็ก),อัน
+09010097,หัว ET 40,ตัว
+090211005,absolute methanol,ขวด
+098804010022,Midazolam Tablet 15 mg,กล่อง
+09005115,แปรงสีฟันเด็ก,ด้าม
+09005116,แปรงสีฟันผู้ใหญ่,ด้าม
+09014587,Diamond round end taper bur FG D16,กล่อง
+09012111,Stainless steel band: Maxillary NU30,ตัว
+09012118,Stainless steel band : Mandibular NU35.5,ตัว
+09012120,Stainless steel band : Mandibular NU36.5,ตัว
+09012122,Stainless steel band : Mandibular NU37.5,ตัว
+09012134,Stainless steel band : Mandibular NU29.5,ตัว
+09012139,Stainless steel band : Mandibular NU32.5,ตัว
+09012145,Stainless steel band : Mandibular NU38.5,ตัว
+09012195,Stainless steel band : Mandibular NU28.5,ตัว
+09001169,Composite enamel D2,หลอด
+09001170,Composite enamel W,หลอด
+09001171,Composite dentin C4,หลอด
+09001172,Composite translucent BT,หลอด
+09013456,Surgery Bracket,ชุด
+09001174,Glass Ionomer LC for filling ทั้งชุด Fuji II,ชุด
+09010098,หัวขูด H3,ชิ้น
+09007055,Rely X Unicem Aplicap refill,กล่อง
+09002374,File : Protaper rotary ยาว 21 mm.,กล่อง
+09002375,File : Protaper rotary ยาว 25 mm.,กล่อง
+09013213,Bite Turber,ตัว
+09013429,Bracket 2D #11,ชิ้น
+09013430,Bracket 2D #12,ชิ้น
+09013431,Bracket 2D #13,ชิ้น
+09013432,Bracket 2D #21,ชิ้น
+09013433,Bracket 2D #22,ชิ้น
+09013434,Bracket 2D #23,ชิ้น
+09014577,Bracket 2D #14,ชิ้น
+09013435,Bracket 2D #15,ชิ้น
+09013436,Bracket 2D #24,ชิ้น
+09013437,Bracket 2D #25,ชิ้น
+09013438,Archwire Retractor,ชิ้น
+09013439,ก้านจับ Caliper no.1,ชิ้น
+09013440,ก้านจับ Caliper no.2,ชิ้น
+09013441,แกนจับ Caliper no.1,ชิ้น
+09013442,แกนจับ Caliper no.2,ชิ้น
+09013443,Tweezer #3,ชิ้น
+09013444,Tweezer #3-1,ชิ้น
+09013445,Tweezer #4,ชิ้น
+09013446,Tweezer #4-1,ชิ้น
+09013447,Tweezer #5,ชิ้น
+09013448,Tweezer #5-1,ชิ้น
+09013449,Explorer with Director no.1,ชิ้น
+09013450,Explorer with Director no.2,ชิ้น
+09013451,Dummy Model Upper,ชิ้น
+09013452,Dummy Model Lower,ชิ้น
+09013453,Template,ชิ้น
+09013454,Niti Wire,ชิ้น
+09013455,Mushroom Wire,ชิ้น
+09014592,Diamond Strips,กล่อง
+09008161,Titavest CB (Two 1.5kg ) ส่วนผง,กล่อง
+09008235,Titavest CB น้ำ,ขวด
+09014200,Silicone Polishing brown topedo shape HP,ตัว
+09014578,White stone long tapper shap  HP,กล่อง
+09014579,Silicone Polishing green wheel shape HP for interproximal,กล่อง
+09014580,Mandrel long shank HP,อัน
+09014581,Dimond round end tapper bur FG SF204,ตัว
+09014582,Dimond round end tapper bur FG S204,ตัว
+09014583,Dimond round end tapper bur FG S219,ตัว
+09014584,Dimond round end tapper bur FG DO901,ตัว
+09014585,Dimond round end tapper bur FG DO933,ตัว
+09013457,แผ่นพลาสติกสำหรับกั้นแสง,อัน
+09002201,Optra Sculpt Assortment,กล่อง
+090305039,1st Molar band (Plain Bands) UR/UL,ตัว
+080513056,"Super-niti wire 0.018 x 0.025 inch, upper - preformed",กล่อง
+09009335,Silicone Breathing Bag 2L-22F/30M,อัน
+09009336,Silicone Breathing Bag 1.5L-22F/30M,อัน
+09006368,caff ท่อคู่เด็กโต,ผืน
+09006369,"5Lead EKG Wire set AHA, Clip for Agilent",ชุด
+090801024,เครื่องวัดความชื้น,เครื่อง
+09009337,iv catheter No.18,กล่อง
+09009338,iv catheter No.20,กล่อง
+09012088,"Right upper ""E"" molar EUR6",ตัว
+09003262,iliadin Nasal spray,ขวด
+09003033,Doxycycline,กระป๋อง
+09015325,"staining jar, 10 pc slides",ชุด
+09015326,staining rack for 30 slides,อัน
+09015327,staining jar 30 pc slides,ชุด
+09001180,Composite Tetric N ceram สี A3.5B,หลอด
+09001181,Composite Tetric N ceram สี A3D,หลอด
+09001182,Composite Tetric N ceram สี A3E,หลอด
+09001184,Composite Tetric N ceram สี A2E,หลอด
+09014593,หัวขัด Composite Astropol รูป small flam NO.F,ถุง
+09014594,หัวขัด Composite Astropol รูป small flam NO.P,ถุง
+09014595,หัวขัด Composite Astropol รูป small flam NO.HP,ถุง
+09014589,Carbide round bur 018 (Latch),ตัว
+09014590,Carbide round bur 021 (Latch),ตัว
+09014591,Carbide round bur 023 (Latch),ตัว
+09014028,Carbide round bur.016 FG,ตัว
+09001076,Ceramic Primer,ขวด
+09013458,Optibond xtr,ชุด
+09010099,หินปูนเทียม,ชุด
+099999206,สายหัวกรอความเร็ว,ชุด
+09002376,K3XF Files 17 mm. Taper.12/TIP25,กล่อง
+09014552,Carbide round long shank bur .010 (Latch)(1กล่อง/5ตัว),กล่อง
+09001175,Composite premisa สี A3D,หลอด
+09001176,Composite premisa สี A3E,หลอด
+09001177,Composite Premisa สี A3B,หลอด
+09014556,Carbide round long shank bur .018 (Latch)(1กล่อง/5ตัว),กล่อง
+09001179,Composite Premisa สี A2D,หลอด
+09014596,Carbide round long shank bur .023 (Latch)(1กล่อง/5ตัว),กล่อง
+09001178,Composite Premisa สี A2E,หลอด
+09012200,ฟันเด็นโตฟอร์ม,ซี่
+090329003,Nelaton disposable catheter ch.12,อัน
+090332003,Intravenous disposable catheter ch.20,อัน
+090332004,Intravenous disposable catheter ch.22,อัน
+090402012,0.9%NSS 100 cc.,ขวด
+09013428,Galaxy Polishing Wheels-Coarse,แพค/ห่อ
+09001186,kolor plus สี A3,ขวด
+09001187,kolor plus สี A1,ขวด
+09001188,kolor plus สี white,ขวด
+09001189,kolor plus สี Ochre,ขวด
+09008236,Non Asbestos,กล่อง
+09001173,Glass Ionomer ชนิดฉีด,หลอด
+09001190,Composite filtek bulk สี A2,ขวด
+09001191,Composite filtek bulk สี A3,ขวด
+09013460,ไม้บรรทัดวัดมุม,อัน
+090318015,NG Tube No.16 สายยางให้อาหาร (1กล่อง/50เส้น),เส้น/สาย
+090399520,Opsite Flexigrid 6 cm. *7 cm.,กล่อง
+09006374,Endo Plugger,ชุด
+09010100,Heparin lock,อัน
+090337004,"Needle disposable size 22Gx1.5""",อัน
+09009030,IV set เด็ก,ชิ้น
+090399099,Bacterial filter,ชิ้น
+090221004,Pipette,ชุด
+090214065,Pipette tip-blue 1000 UL,ชุด
+09008242,File holder,อัน
+09006376,skin marker strerile,ชิ้น
+09006377,Reserver 100 cc,ชิ้น
+09006378,Round drain 7 Fr.,ชิ้น
+09006379,Round drain 10 Fr.,ชิ้น
+09006380,conecting non sterile tubing 1.8 m,อัน
+09006375,ตระแกรงสแตนเลสใส่เครื่องมือแพทย์,อัน
+09012201,Stainless steel band : Maxllary NU40.5,ตัว
+09012202,Stainless steel band : Mandibular NL30.5,ตัว
+09012203,Stainless steel band : Mandibular NL35,ตัว
+09012101,Stainless steel band : Mandibular NL34.5,ตัว
+09012102,Stainless steel band : Mandibular NL35.5,ตัว
+09012204,Stainless steel band : Mandibular NL38.5,ตัว
+09012142,Stainless steel band : Mandibular NL39.5,ตัว
+09012143,Stainless steel band : Mandibular NL40.5,ตัว
+098802071003,Dopamine,กล่อง
+090101070,Magnesium sulfate,หลอด
+09013461,Copper-niti 0.0195 upper,กล่อง
+09013462,Copper-niti 0.0195 lower,กล่อง
+09013463,Copper-niti 0.0175 upper,กล่อง
+09008240,Die spacer gold,ขวด
+09006381,Mandibular body retracter,อัน
+09014597,หัวยางขัดโลหะสีดำ,ตัว
+09006361,seldin,อัน
+09006370,Adson non tooth forcep,อัน
+09006371,Adson toot forcep,อัน
+09006372,Mayo hegar needle holder 15 cm.,อัน
+09014527,Soflex refill ขนาดใหญ่ 1/2 (4931C),ถุง
+09014528,Soflex refill ขนาดใหญ่ 1/2 (4931M),ถุง
+09013464,Nickel titanium wire 0.012 upper,กล่อง
+09013465,Nickel titanium wire 0.012 lower,กล่อง
+09013466,Stainless steel wire 0.016 x 0.016 inch upper,กล่อง
+09013467,Stainless steel wire 0.016 x 0.016 inch lower,กล่อง
+09013468,titanium wire 0.016 x 0.016 inch upper,กล่อง
+09013469,Band adhesive,ชุด
+09013470,Metal primer,ขวด
+090367047,Sulpha/Trimetho(Bactrim),ขวด
+098810022005,Orkelax,เม็ด
+090403029,Chlorpheniramine syrup,ขวด
+09009339,Nylon 4/0 พร้อมเข็ม,กล่อง
+09009340,Nylon 5/0 พร้อมเข็ม,กล่อง
+09009341,Nylon 6/0 พร้อมเข็ม,กล่อง
+090399523,แผ่นพลาสติกปิดแผล (Tegaderm-film),กล่อง
+09009085,Medicut No.16,กล่อง
+09009025,Medicut No.18,กล่อง
+09002385,"ปากคีบสแตนเลส 6""",อัน
+09002384,"ปากคีบสแตนเลส 8""",อัน
+09004146,Naclear fast red 5 g,ขวด
+09001192,Silicone light body Express (Quick),ชุด
+09008243,ฟันพลาสติก Nissin,ซี่
+09001193,V3 Ring Starter Pack,กล่อง
+09001194,Sonicfill Intro Kit,ชุด
+09001195,Multiflex Couping 460E,ชิ้น
+09014603,C15P - FOOTBALL,ตัว
+09014604,B71P-NEEDLESS,ตัว
+09014605,C6P-NEEDLESS,ตัว
+09014606,C6LF-NEEDLESS,ตัว
+09014601,carbide round bur 021 HP,กล่อง
+09014602,steel bur หัวมะยม,ตัว
+09008241,เครื่องฉายแสงชนิดปากกาไร้สาย,เครื่อง
+09002378,gutta percha point M two no.30,กล่อง
+09002379,gutta percha point M two no.35,กล่อง
+09002380,gutta percha point M two no.40,กล่อง
+090399149,Artery clamp,อัน
+09013471,Buccal tube hoder,ตัว
+09013472,Ortho stripping disc,กล่อง
+09013473,Cinch back plier,ตัว
+09002386,Proteper Universal,กล่อง
+09009342,Multilink n,ชุด
+09013476,Mathieu forcep 1400-025,ตัว
+09013477,Sliding stop 601-22,ห่อ
+09013478,bondable molar bracket,ห่อ
+09013479,Face mask reverse pull,กล่อง
+09010104,Hand scaler sickel ฟันหน้า/หลัง,ตัว
+09014607,หัวขัดยางสำหรับขันโลหะ สีเขียวก้านยาว,กล่อง
+09015329,stirrer magnets bar 60x10 mm,อัน
+09015330,stirrer magnets bar 40x8 mm,อัน
+09015331,stirrer magnets bar 27x7 mm,อัน
+09015332,stirrer magnets bar 10x6 mm,อัน
+09013183,Posterior Band removing plier,ตัว
+09013474,Anterior Debonding plier DSE231,ตัว
+09013475,Posterior Debonding Plier,ตัว
+09008244,Cement - Resin cement : Panavia Refill (Paste),ชุด
+09008245,Panavia Refill (ED PRIMER),ชุด
+09014599,Diamond finishing bur FG SF-D0943LT2,ตัว
+09014600,Diamond finishing bur FG SF-D0937,ตัว
+09010102,CARBON TIP PH1,ตัว
+09002387,Endo Ice,ขวด
+09006382,โมเดลสำหรับงาน Endo,อัน
+09015328,Block ใส,อัน
+09001196,5% Hydrofluoric acid,ขวด
+09001197,Silane coupling agent,ขวด
+09001198,เครื่องวัดอุณหภูมิร่างกาย,เครื่อง
+09014570,Diamond bur 023 FG รูปรักบี้,ตัว
+098803040005,Chlorpheniramine Injection 10mg/ml,แอมพลู
+098805017009,Metronidazole Injection 500 mg,ไวแอล
+09015333,McINDO Dressing Forceps 15 cm.,ชิ้น
+09015334,Gillies Tissue Forceps,ชิ้น
+09015335,Weitlaner Wullstein self retaining retractor,ชิ้น
+09015336,Gillies Hooklet,ชิ้น
+09003267,กระปุ่กทิ้งหัวเข็ม 3.2 ลิตร,อัน
+09003268,กระปุ่กทิ้งหัวเข็ม 1.2 ลิตร,อัน
+09005124,ยาชา Medicaine 2%,กล่อง
+09008246,Tray พิมพ์ปาก,อัน
+09005117,Prewash swarb,ห่อ
+09005118,สำลีพันไม้,ซอง
+09005119,Flushing set sterile,ห่อ
+09005120,sterile packing gauze,ซอง
+09003151,กอซพับ 4x4,ซอง
+09005121,sterile OR towel,ซอง
+09003264,Q bac 4 liQuid,ขวด
+09003265,Q bac 2 W 300 ml,ขวด
+09003266,Q bac liquid 600 ml,ขวด
+090318020,สายยางซิลิโคน ขนาด 5*8 มม. 15 ม./ม้วน,ม้วน
+090318021,สายยางซิลิโคน ขนาด 7*10 มม. 15ม./ม้วน,ม้วน
+09013483,Face Masks Ttiple Layer molded,กล่อง
+09003263,Sterile strip,กล่อง
+09010101,probe rep;acement tip and handle,ชุด
+09003169,Sodium perborate,กระป๋อง
+09006383,โมเดลฟันสำหรับผู้ใหญ่,ชุด
+09006384,โมเดลฟันสำหรับเด็ก,ชุด
+09014588,carbide round long shank .023 Latch,ตัว
+09013486,Bracket Mini MS V-Slot0.22,ชุด
+09005125,รถเข็นผู้ป่วยแบบนั่ง,คัน
+09004147,ห่อทดสอบทางชีวภาพแบบสำเร็จรูป,กล่อง
+09014609,ผง Pumice หยาบ,กิโลกรัม
+09014608,หัวขัดผ้า ขนาด 1 นิ้วพร้อม Mendrel,อัน
+09006385,Nasopharynx airway 6.5 นิ้ว,ชิ้น
+09013001,ลวด Stainless steel hard wire 0.7,ม้วน
+09013484,ลวด Stainless steel wire 0.012 upper,กล่อง
+09013485,ลวด Stainless steel wire 0.012 lower,กล่อง
+09004148,น้ำยาล้างทำความสะอาดเครื่องมือทางการแพทย์ i-bio,แกลลอน
+09004149,น้ำยาล้างทำความสะอาดเครื่องมือทางการแพทย์ pana spray plus,กระป๋อง
+09008250,Acrylic resin (Self-cure),ชุด
+09001199,Calcium hydroxide paste (Ultra cal XS),ชุด
+09008249,non-impergnated knitted retraction cord No.0,หลอด
+09014529,soflex refill ขนาดใหญ่ 1/2 (4931F),ถุง
+09006389,Oral tube No.4.0,อัน
+09006390,Oral tube No.4.5,อัน
+09006391,Oral tube No.5.0,อัน
+09006392,Oral tube No.5.5,อัน
+09006393,Oral tube No.8.0,อัน
+09013492,Mode base former Large upper,อัน
+09013493,Mode dase former Large lower,อัน
+09013488,Prefromed Ni Ti Wire 0.012 upper,แพค/ห่อ
+09013489,Prefromed Ni Ti Wire 0.012 lower,แพค/ห่อ
+09013490,Prefromed Ni Ti Wire 0.016x0.016 upper,แพค/ห่อ
+09013491,Prefromed Ni Ti Wire 0.016x0.016 lower,แพค/ห่อ
+09001083,Sealant ESPE Climpro TM Sealant,หลอด
+09002388,hyflex EDM 21 mm.,กล่อง
+09002389,hyflex EDM no.25,กล่อง
+09014615,Dialux bleu ไขสำหรับขัดมัน,ก้อน
+09004154,"Ethanol absolute, 99.9% AR",ขวด
+09004152,"Bio mount,500 ml",ขวด
+09004153,staining jar pc slide,ชุด
+09015340,Microtome blades35,กล่อง
+09004150,10% Neutral buffered formalin 1 L,ขวด
+09004151,Biodec R 2.5 L,ขวด
+090315002,บีกเกอร์ 600 ml,เมกะโวลต์แอมแปร์
+09014613,Soflex ขนาดเล็ก 3/8 (4931m),ถุง
+09014614,Soflex ขนาดเล็ก 3/8 (4931F),ถุง
+09013494,Molar band Seater,ตัว
+09003269,Tegretol 200mg,เม็ด
+09003270,Tegretol 400 mg,เม็ด
+09003271,Zinc 25 mg,เม็ด
+098804072001,Gabapentin 300 mg,กล่อง
+09015338,Magnetic bar 5x3 mm.,แพค/ห่อ
+09015339,Magnetic bar 10x3 mm.,แพค/ห่อ
+09006388,mendrel,อัน
+09014611,ชุดดูดซับไอพิษสารเคมี,ชุด
+09014612,ชุดดักกลิ่นท่อระบายน้ำทิ้งจากอ่างซิงค์,ชุด
+099999384,เครื่องมือซ่อมหัวกรอ,ชุด
+09010105,Tip No.1(SLIM),อัน
+09010106,Universal autoclavable wrench,อัน
+09010107,HP Suppor P5 next,อัน
+09014616,หัวกรอละเอียดพร้อมมัลเดลสำหรับกรอเฝือกสบฟัน,ชุด
+090399273,ถุงมือ PVC ล้างเครื่องมือ,คู่
+09006394,Silicone mouth prob เด็ก,คู่
+09006395,Silicone mouth prob ผู้ใหญ่,คู่
+09014617,Carbide taper long shank bur 012 HP,กล่อง
+09014619,Carbide taper long shank bur 021 HP,กล่อง
+09014621,Carbide instrument C71040,ตัว
+09014622,Carbide instrument C71050,ตัว
+09014623,Carbide instrument C79040,ตัว
+09014624,Carbide instrument C79045,ตัว
+09014625,Carbide instrument C79060,ตัว
+09006040,"Needle for irrigation No.23 (1 1/2"")",กล่อง
+09006042,"Needle for irrigation No.25 (1 1/2"")",กล่อง
+09015277,Latex tube drain,ม้วน
+09014626,หัว Composhape หัวรักบี้คาดเหลือง,ตัว
+09008251,Acrylic resin self cure ผง,กระป๋อง
+09002392,K3 Files 21 mm. Taper 04/TIP25,กล่อง
+09002393,K3 Files 21 mm. Taper 04/TIP30,กล่อง
+09002394,K3 Files 21 mm. Taper 04/TIP40,กล่อง
+09002395,K3 Files 21 mm. Taper 06/TIP25,กล่อง
+09002396,K3 Files 21 mm. Taper 06/TIP30,กล่อง
+09002397,K3 Files 21 mm. Taper 06/TIP35,กล่อง
+09002398,K3 Files 21 mm. Taper 06/TIP40,กล่อง
+09002399,K3 Files 21 mm. Taper 06/TIP45,กล่อง
+09002400,K3 Files 25 mm. Taper 04/TIP25,กล่อง
+09002401,K3 Files 25 mm. Taper 04/TIP30,กล่อง
+09002402,K3 Files 25 mm. Taper 04/TIP35,กล่อง
+09002403,K3 Files 25 mm. Taper 04/TIP40,กล่อง
+09002404,K3 Files 25 mm. Taper 04/TIP50,กล่อง
+09014629,Carbide round bur 027/104,ตัว
+09014630,Carbide round bur 031/104,ตัว
+09014631,Carbide round bur 035/104,ตัว
+09014632,Carbide round bur 040/104,ตัว
+09014633,Carbide round bur 050/104,ตัว
+09014634,Acrylic carbide bur หัวมะเฟือง CC79/040,ตัว
+09014635,Acrylic carbide bur หัวมะเฟือง CC251/0600,ตัว
+09014636,Acrylic carbide bur หัวมะเฟือง CC251cx/060,ตัว
+09016087,Mini plate 16 hole,ตัว
+09016089,mini L plate 4 hole Rt.,ตัว
+09016090,mini plate 4 hole Lt.,ตัว
+09001201,Palodent V3 sectional,ชุด
+09003273,เทปพันยืดหยุ่น Nexcare first aid,ม้วน
+09003274,ผ้าปิดแผลนีโอเทป Zinc-cxide plater,ม้วน
+09003272,Nasolin PL,เม็ด
+09006159,Crown & Bridge Preparation,ชุด
+09006401,Tokuyama สีชมพู,ชุด
+09015337,กล่องใส่ลวดจัดฟัน,กล่อง
+09015343,กล่องใส่ C-chain,กล่อง
+09006396,Syringe Irrigate,อัน
+09006397,NG Tube NO.14,กล่อง
+09006398,NG Tube NO.16,กล่อง
+09006399,ชุดทำความสะอาดช่องปาก,ชุด
+09002405,K-Flex file 30 mm.No.15,กล่อง
+09002406,K-Flex file 30 mm.No.20,กล่อง
+09002407,K-Flex 30 mm.No.25,กล่อง
+09002408,K-Flex file 30 mm.No.30,กล่อง
+09002409,K-Flex file 30 mm.No.40,กล่อง
+09002410,K-Flex  30 mm.No.45,กล่อง
+09002411,K-Flex file 30 mm.No.50,กล่อง
+09002412,K-Flex file 30 mm.No.55,กล่อง
+09002413,K-Flex file 30 mm.No.60,กล่อง
+09002414,K-Flex file 30 mm.No.70,กล่อง
+09002415,K-Flex file 30 mm.No.80,กล่อง
+09014637,Carbide round bur.023 FG,ตัว
+09001202,Ionosis,ชุด
+090399274,แว่นตา DELIGHT เลนส์ใส Anti-Fog,อัน
+09008253,GC plaque indicator kit,หลอด
+09008255,Gingival retraction cord without epinephrine No.00,หลอด
+09013499,close coil spring superelastic niti (light force) เส้นผ่าศูนย์กลาง .010x.030 นิ้ว ยาว 12 mm.,กล่อง
+09006402,Clinpro (TM) ) vanish (3M),ชุด
+09015344,กล่องใส่ Retainer,กล่อง
+09006400,Slim-line tip,ชุด
+09007060,Alginate adhesive,ขวด
+09007058,Luxateme Star,ชุด
+09007059,LuxaBite,ชุด
+098819001027,dettol,แกลลอน
+09007061,Single bond universal,ขวด
+09009344,Special forceps 88R,ตัว
+09009345,Special forceps 88L,ตัว
+09013495,Hook plice Toc-04-0304,ตัว
+09016091,Lunaitschek 1.8,ตัว
+09016092,Luniatscheck 2.5,ตัว
+09009343,Nylon 3/0 พร้อมเข็ม,กล่อง
+09006403,Oropharyngeal airway เบอร์2,อัน
+09006404,Oropharyngeal airway เบอร์3,อัน
+09006405,Oropharyngeal airway เบอร์4,อัน
+09002418,K-file 31 mm no.90,กล่อง
+09001185,Matrix Sectional,ชุด
+09001205,คอมโพสิต G-anial Syring A1,หลอด
+09001206,คอมโพสิต G-anial Syring A2,หลอด
+09001207,คอมโพสิต G-anial Syring A3,หลอด
+09001208,คอมโพสิต G-anial Syring A3.5,หลอด
+09001209,คอมโพสิต G-anial Syring A4,หลอด
+09001210,คอมโพสิต G-anial Syring P-A2,หลอด
+09001211,คอมโพสิต G-anial Syring P-A3,หลอด
+09008256,น้ำยาขจัดสนิม Pose,ชุด
+09014641,Diamond round bur long .010 FG,ตัว
+09014642,Diamond round bur long .012 FG,ตัว
+09005126,Disposible resin applicator,กล่อง
+09004155,0.9 nss 10 ml./amp,กล่อง
+09004052,Root canal lubicant : RC prep,หลอด
+09001020,Glass Ionomer LC for filling- ทั้งชุด ยี่ห้อ Fuji VII,ชุด
+09003275,Amiodarone 150 mg/ml.,หลอด
+09014643,Acrylic bur สีชมพู รูปดอกบัว ขนาดกลาง,ตัว
+09013500,Copper-niti 0.0175 lower,กล่อง
+09013501,"Intraoral elastic band 1/4"" 4.5 oz (100วง/ซอง)",ซอง
+09003276,2% Chlorhexidine gluconate,ขวด
+09005127,ไม้กดลิ้น,แพค/ห่อ
+09010108,หัว Ultrasonic tip No.ASLD,ตัว
+09013497,Sliding Hook-Left ขนาด 6 mm,ตัว
+09013498,Sliding Hook-Right ขนาด 6 mm,ตัว
+09008254,Lim lock tray (perforated),คู่
+09014639,cylinder 010 FG,ตัว
+09014208,Silicone polishing green flame shape HP,ตัว
+09014640,Cylinder 008 FG,ตัว
+09014504,Diamond bur FG D18,ตัว
+09014628,Finishing polishing point refill,ตัว
+09002292,file : K-file 21 mm No.08,กล่อง
+09002293,file : K-file 21 mm No.10,กล่อง
+09015345,staining rack for 20 slides,อัน
+09003277,Ventolin nebulizer,หลอด
+09013502,Universal long plastic retractors,คู่
+09016093,Plate สำหรับเครื่องจี้ไฟฟ้า,แผ่น
+09003278,Amoxicillin-Clavulanic syrup,ขวด
+098805012012,Ceftriaxone Irjection 1 Gm,ไวแอล
+09003279,Amoxicillin-Clavulanic inj.,หลอด
+09002417,Gutta percha protaper next mate,กล่อง
+090337006,"Needle disposable size 24Gx1.5""",อัน
+09009346,Dexon 2/0 พร้อมเข็ม,กล่อง
+090211195,Diethyl ether,ขวด
+09004003,Acetone 2.5 L,ขวด
+09004030,Formaldehyde,ขวด
+09014644,หัว Composhape No.8526,กล่อง
+09014645,หัว Composhape No.5238,กล่อง
+09014646,หัว Composhape No.5526,กล่อง
+09014647,หัว Composhape No.423R,กล่อง
+09014648,หัว Composhape No.01440,กล่อง
+09014649,หัว Composhape No.4310S,กล่อง
+09014650,หัว Composhape No.CU41312,กล่อง
+09014651,Diamond bur roung end taper D17,กล่อง
+09014652,Diamond bur round end taper KR-014,กล่อง
+09014653,Diamond bur round end taper KR-016,กล่อง
+09014654,Intensive tooth caring bur set,ชุด
+09013503,Optibond FL,กล่อง
+09014245,Polishing kit: Enchance refill point,ชุด
+09007062,TSCAN senscrs small HD,แพค/ห่อ
+09007063,TSCAN senscrs lage HD,แพค/ห่อ
+09005128,สำลี alchohol,แผง
+09008189,Gingival retraction cord No.00,หลอด
+09011240,Bone Graft Material 0.5g,กล่อง
+09012016,"Left lower ""D"" molar DLL2",ตัว
+09014240,Poloshing kit Compo Master TM Polishers (ket) SF-0115,ชุด
+09011239,colla Guide ขนาด 15 mm x 20 mm x 0.3 mm,ชิ้น
+09008257,Gold Polishing Kit,ชุด
+09008258,Enamel Adjustment Kit,ชุด
+09014464,Silicone polishing for I acrylic-brow HP,ตัว
+099999084,ท่อนำแสงของเครื่องฉายแสง,อัน
+09003281,Erythonmycin Syrup 200 mg/5ml,ขวด
+09016094,Micro screw ขนาด 9 mm,ตัว
+09016095,Micro screw ขนาด 11 mm,ตัว
+098802062016,Nifedipine Capsule 5 mg,กล่อง
+09007056,Polymer L-Typer clear,กระป๋อง
+09007057,Polymer L-Typer paque,กระป๋อง
+09011241,Blue Photosesitizer,ชุด
+09015346,BRUX CHECKER FOIL,กล่อง
+09005129,X-ray sterile gauze 4x4,ซอง
+09010109,หัว Ultrasone tip no.A.S 6D,อัน
+09010110,หัว Ultrasone tip no.A.S 9D,อัน
+09007064,Light cure adhesive,ชุด
+09002163,Protaper retreatment ASS,กล่อง
+090316010,แก๊สอ๊อกซิเจนถังเล็ก,ถัง
+09013505,Orthocryl EQ power clear,ขวด
+09013506,Orthocryl liquid transparent pink,ขวด
+09004009,Alcohol : Adsolude 3.8 L.,ขวด
+09006152,Micro bruch,กล่อง
+09003113,Sodium Nitropusside 50 mg,หลอด
+09003282,Nitroglycerine 50 mg/5 ml,หลอด
+09003283,Naloxone HCL 5,หลอด
+09003284,Vitamin K 10 mg injection,หลอด
+09008259,Aluminiun oxide 110 ไมคอน,ถัง
+09008260,Alloy 4 all non percious,กล่อง
+09014586,Diamond round end taper bur FG D16,กล่อง
+090803285,Dent Bib,กล่อง
+09003285,Dental bin,กล่อง
+09003287,Gabapentin 300 mg,เม็ด
+09008262,Maxem Elite,ชุด
+090316009,แก๊สอ๊อกซิเจน,ถัง
+090399200,Medicut No.20 Jelco เข็มแทงเส้นเลือดเพื่อให้น้ำเกลือ,ชิ้น
+09008261,Acrylic Hybird ชนิดใช้กับเครื่อง,หลอด
+09003286,Battery for Defibrillator,ชุด
+09015347,Oxygen Corrugate,ม้วน
+09016096,แผ่นตรวจวัดระดับน้ำตาลในเลือด,กล่อง
+09003253,Ferrous Fumarate,กล่อง
+09013507,เครื่องวันแรง Tension and Compression Gauge Measuring range 24-450 g,อัน
+09013508,เครื่องวัดแรง Measuring Gauge measuring range 100-1000 g,อัน
+09006406,Nasal tube No. 4.5,อัน
+09006407,Nasal tube No. 6,อัน
+09006408,Nasal tube No. 6.5,อัน
+09006409,Nasal tube No. 7,อัน
+09006410,Nasal tube No. 7.5,อัน
+09011242,Drill cornponents 41153 Round bur,ตัว
+09011243,Drill cornponents 41152,ตัว
+09008263,Opaque porcelain,ขวด
+09008264,Body porcelain,ขวด
+09008265,Liquid porcelai,หลอด
+098802030001,Adenosine Injection 6 mg,กล่อง
+098811040013,Pilocarpine Eye Drop,ขวด
+09014657,Carbide cutters,ตัว
+09014658,Carbide round bur 008 (Latch),ตัว
+09014659,Carbide round bur 010 (Latch),ตัว
+09014660,Carbide round bur 012 (Latch),ตัว
+09014656,Carbide round bur 016 (Latch),กล่อง
+098804051004,Metoclopramide10 mg  injection,กล่อง
+09001145,Composite resin refill A3(P60),หลอด
+09009348,Luxa core,ชุด
+09001212,Composite resin สี A1,กล่อง
+09001213,Composite resin สี A2,กล่อง
+09014214,Composite resin สี A3,กล่อง
+09001214,Composite resin สี A3,กล่อง
+09014666,หัวขัด Zirconia,กล่อง
+09014667,หัวขัด Porcelain cere Master Assorted HP,กล่อง
+09006119,Sugarman file,ตัว
+09008266,Panaiv Refille F20,ชุด
+09008267,Panaiv liqid A,ขวด
+09008268,Panaiv liqid B,ขวด
+09001200,Section matrix refill รุ่น plus,กล่อง
+09016097,น้ำยาล้างสายยาง Suction,ขวด
+09001219,Bonding scotchbond refill,ขวด
+09013509,"Intraoral elastic band 3/16""6oz (100วง/ซอง)",ซอง
+09011247,P24G Periostrals,อัน
+09001215,Automatrix Refill รุ่น Medium Regular Bands,กล่อง
+09001216,Automatrix Refill รุ่น Wide regular Bands,กล่อง
+09001217,Automatrix Refill รุ่น Medium Thin Bands,กล่อง
+09001218,Automatrix Refill รุ่น Narrow Regular Bands,กล่อง
+09013078,Australian wire 0.14 inch-premium plus,ม้วน
+09013080,Australian wire 0.18 inch-premium plus,ม้วน
+09014671,Bur prep Bevelshape intensive No.BS25,ตัว
+09014672,Bur prep Bevelshape intensive No.BS15,ตัว
+09014673,Bur prep Bevelshape intensive No.BS40,ตัว
+09014669,หัว Bur carbide HP No.CX 486,ตัว
+09014670,หัว Bur carbide HP No.CX 489F,ตัว
+09013510,"Intraoral elastic band 1/4""14 oz.",กล่อง
+09013511,"Intraoral elastic band 1/4""8 oz.",กล่อง
+09013512,"Intraoral elastic band 5/16""14 oz.",กล่อง
+09005131,jackson drain 200 ml.,ขวด
+09006412,Aspto syring,อัน
+09005130,Penut gauze,แพค/ห่อ
+09008284,Relyx Ultimate Adesove Resin Cement,ชุด
+09010111,Gracey scaler 1/2,ตัว
+09010112,Gracey Mini five No.1/2,ตัว
+09010113,Universal Curettes SC2R/12L,ตัว
+09010114,Universal Curettes SC4R/12L,ตัว
+090356001,Dropping amber glass bottle 60 ml.,อัน
+09008269,ชุดพ่นยาผู้ใหญ่,อัน
+09008270,กระบอกอ๊อกซิเจน,อัน
+09008271,กระบอกออกซิเจน Humidifier,อัน
+09008272,ชุดพ่นยาสำหรับต่อท่อช่วยหายใจ,อัน
+09008273,หน้ากากดมยา No.3,อัน
+09008274,หน้ากากดมยา No.4,อัน
+09008275,หน้ากากสำหรับต่อกระป๋องออกซิเจน,อัน
+09008276,T - piece ด้านเท่า,อัน
+09008277,Corrugate 100 ft,กล่อง
+09008278,ข้อต่อกระป๋องออกซิเจน,อัน
+09008279,Wye connector,อัน
+09008280,Elbow connector,อัน
+09008281,ข้อต่อปลายสาย,อัน
+09008282,Air way สีขาว,อัน
+09008283,Silicone Flex G77014,อัน
+09010025,Mini five No.1-2,ตัว
+061019002,ไทริสเตอร์ TRIAC,ตัว
+09011244,R661 Wingrove Titanium Instruments,อัน
+09011245,R693 Wingrove Titanium Instruments,อัน
+09011246,R680 Wingrove Titanium Instruments,อัน
+09009347,blad skin graft,อัน
+09004161,R661 Wingrove Titanium Implant Instrument,ตัว
+09004162,R680 Wingrove Titanium Implant Instrument,ตัว
+09004163,R693 Wingrove Titanium Implant Instrument,ตัว
+09013514,ลวด Niti 012 (Super elastic) upper,แพค
+09013515,ลวด Niti 012 (Super elastic) Midsize,แพค
+09013516,ลวด Niti 014 (Super elastic) upper,แพค
+09013517,ลวด Niti 014 (Super elastic) midsize,แพค
+09013518,ลวด Niti 016 (Super elastic) upper,แพค
+09013519,ลวด Niti 016 (Super elastic) Midsize,แพค
+09013520,ลวด Niti 018 (Super elastic) upper,แพค
+09013521,ลวด Niti 018 (Super elastic) Midsize,กล่อง
+09009349,MS Coat ONE,ขวด
+09014674,porc-Etch,ชุด
+09014675,Lighening Strips/Double Sided 8 mm,กล่อง
+09014676,หัวขัด Adhesive (Renew118L),ตัว
+09014655,Carbide round bur 014 (Latch),กล่อง
+09016108,mini plate 4 hole Rt medium,ตัว
+09016109,mini plate 8 hole,ตัว
+09016110,Emergency screw 2.0 mm 5 mm,ตัว
+09013513,Distal and cutters Flush cut,ตัว
+09004166,นำยาล้างฟิล์ม Developer และ Fixer - Automatic,ชุด
+09015348,Glycopyrolate 0.2 mg/ml.,แอมพลู
+09005133,ถุงมือ ชนิด Sterlie No.SS,กล่อง
+09005134,ถุงมือชนิด Sterlie No.S,กล่อง
+09005135,ถุงมือ ชนิด Sterlie No.M,กล่อง
+09008156,Debuplizer,ขวด
+09004158,Auto Chip Maker 4.5 mm.,ชิ้น
+09004159,Tissue Punch 4.0 mm.,ชิ้น
+09004160,Tissue Punch 4.5 mm.,ชิ้น
+09002421,X3XF Files 25 mm. Taper .04/TIP45,กล่อง
+09002422,X3XF Files 25 mm. Taper .04/TIP50,กล่อง
+09002425,X3XF Files 21 mm. Taper .04/TIP50,กล่อง
+09011254,AS-22886 Twist Drill Tiger 2.0,ชิ้น
+09011255,AS-22886 Twist Drill Tiger 2.0 SHORT,ชิ้น
+09011251,Dernineralized Cortical Power 0.5 cc.,ขวด
+09011252,Mineralized Cortical Power 0.5 cc.,ขวด
+090399209,ท่อช่วยหายใจ Tracheal tube size 5.5,ชิ้น
+090399208,ท่อช่วยหายใจ tracheal tube size 5,ชิ้น
+09011253,Colla Guide 15 mm.x30 mm.x0.3 mm.,กล่อง
+09001086,Fuji II LC Capsule,ชุด
+09011248,DMEN,ขวด
+09011249,Dead cell apoptosis:Annexin V FITC,ชุด
+09011250,IIVG-20012-027 phosphate buffer saline,ขวด
+09011256,IP1 TIP,ชิ้น
+09011257,IP2L TIP,ชิ้น
+09011258,IP2L TIP,ชิ้น
+09011259,IP3L TIP,ชิ้น
+09011260,IP3R TIP,ชิ้น
+09005138,แปรงสีฟันคอลเกตสลิมซอฟท์ ขนแปรงนุ่มพิเศษ(หัวแปรงเล็ก),อัน
+09005139,แปรงสีฟันเด็กคอลเกต 3-5 ปี,อัน
+09005140,แปรงสีฟันเด็กเดอลุกซ์ (5-9 ปี),อัน
+09006415,น้ำมัน Main Tenance oil,แกลลอน
+09010115,Scaling tip P5,ตัว
+09014557,Carbide round long shank bur .021 (Latch),กล่อง
+09012089,"Right upper ""E"" molar EUR7",ตัว
+09006416,ถาดหลุมสำหรับใส่ etching bonding,แพค/ห่อ
+09004164,Mist Filter,กล่อง
+09014677,Band toffirmire รหัส 101(HA-40X 101),ถุง
+09014678,Band toffirmire รหัส 102(HA-40X 102),ถุง
+09014679,Refill Astropol F(gray) Small flame,ถุง
+09014680,Refill Astropol F(gray) Large flame,ถุง
+09014681,Refill Astropol P(green) Small flame,ถุง
+09014682,Refill Astropol P(green) Large flame,ถุง
+09014683,Refill Astropol HP(pink) Small flame,ถุง
+09014684,Refill Astropol HP(pink) Large flame,ถุง
+09002433,Protrper next XA,กล่อง
+09012205,SSC ANT.Central UL2,ตัว
+09012206,SSC ANT.Central UL3,ตัว
+09012207,SSC ANT Lateral UR4,ตัว
+09012208,SSC ANT Cuspid #U1,ตัว
+09001220,Composite dentin สี A1,หลอด
+09001221,Composite dentin สี A2,หลอด
+09001222,Composite dentin สี A3,หลอด
+09001223,Composite dentin สี A4,หลอด
+09001224,Composite dentin สี B3,หลอด
+09001225,Composite enamel สี A1,หลอด
+09001226,Composite enamel สี A2,หลอด
+09001227,Composite enamel สี A3,หลอด
+09001228,Composite enamel สี D2,หลอด
+09001229,Composite enamel สี B1,หลอด
+09001230,Composite enamel สี B2,หลอด
+09016099,สติ๊กเกอร์ติดเครื่องมือทางการแพทย์,ม้วน
+09016100,Oscilating saw blade,อัน
+09016101,Oscilating saw blade medium,อัน
+09016098,Reciprocatin sab blade,ชิ้น
+09013528,Light Cure Adhesive Pad Lock,ชุด
+09013529,Bonding : ASSURE Plus,ขวด
+09013530,"Super Elastic Niti Archwire 0.012 inch, Natural Mid-size-preformed",แพค/ห่อ
+09013531,"Super Elastic Niti Archwire 0.012 inch, Natural Upper-size-preformed",แพค/ห่อ
+09013532,"Stainless Steel Archwire 0.012 inch, Natural Upper-size-preformed",แพค/ห่อ
+09013533,"Stainless Steel Archwire 0.012 inch, Natural Mid-size-preformed",แพค/ห่อ
+09013534,"Stainless Steel Archwire 0.016*0.016 inch, Natural Upper-size-preformed",แพค/ห่อ
+09013535,"Stainless Steel Archwire 0.016*0.016 inch, Natural Mid-size-preformed",แพค/ห่อ
+09008287,Panaiv Refille F20 แบบน้ำ,ชุด
+09002431,Gutta Percha Pellet ชนิด soft,กล่อง
+09002432,Needle of super Endo-B,แผง
+09003123,ViscoStal 20% Ferric sulfate : Sate of the Art ของน้ำยาห้ามเลือดทำให้เลือดตกตะกอนทันทีและเส้นเลือดฝอยหดตัวในเวลาเสี้ยววินาที,หลอด
+09001231,Kolor plus สี Lavender,ขวด
+09013524,Sectional screw Mini,ตัว
+09015351,Agar สำหรับ Duplicate cast 54351,ถัง
+09015352,Agar สำหรับ Duplicate cast 54352,ถัง
+09015353,Ring กระเบื้อง สำหรับทำงานเหวี่ยงเตาเผาพอสซิเลน,อัน
+09009350,Coated Vicryl 4/0 พร้อมเข็ม ความยาว 45 cm.,กล่อง
+09011261,Autobone Collector ยาว 14 mm.,ตัว
+09011262,Autobone Collector ยาว 17 mm.,ตัว
+09011263,Autobone Collector Stopper ยาว 14 mm.,ตัว
+09011264,Autobone Collector Stopper ยาว 17 mm.,ตัว
+09016111,น้ำยาล้างท่อ suction,แกลลอน
+09002419,Protaper Next assorfed pack (x1-x3) 21 mm.,กล่อง
+09002420,Protaper Next assorfed pack (x1-x3) 25 mm.,กล่อง
+09001233,Super Bond C,ชุด
+09013537,น้ำยาทำความสะอาดถาดพิมพ์ปาก,แกลลอน
+09004169,Propan-2-OL,ขวด
+09004168,Countess Test Beads,ชุด
+09004167,10% Neutral buffered formalin 20L,ขวด
+09015349,Filter paper No.1 dia 18.5 cm.,กล่อง
+09014694,หัวกรอ Stone แดง HP,ตัว
+09014695,Carbide round bur HP,ตัว
+09008303,E-max ceram dentine 20g A3,อัน
+09008304,E-max ceram transpa incisal 20g TI2,อัน
+09008305,E-max ceram transpa 20g clear,อัน
+09008306,E-max ceram transpa 20g neutral,อัน
+09008307,E-max ceram shade 3g2,อัน
+09008308,E-max ceram glaze paste3g,อัน
+09008309,IPS Emax ceram GL-Stain liquid allround,อัน
+09008310,IPS Buildi-Up Liquid 60ml solf,อัน
+09008291,Classic V Opaquer,อัน
+09008292,Classic V dentine 100g B3,อัน
+09008293,Classic V Incisal 100g B3,อัน
+09008294,Classic V transparent clear 100g,อัน
+09008295,Classic V transparent neutral 100g,อัน
+09008296,Classic glazing paste 3g,อัน
+09008297,Classic add-on power 20g,อัน
+09008298,Classic glazing/staining liquid 15 ml,อัน
+09008299,Classic build-up liquid 250 ml,อัน
+09008300,IPS model sealer 50 ml,อัน
+09008301,IPS Ceramic sep LIQ W.Brush 15 ml,อัน
+09008302,IPS shade V 3g B2/B3/B4,อัน
+09014691,Pumice สำหรับขัดตาเทียม,ถัง
+09001234,Polodent V3 refill เฉพาะ Ring,อัน
+09003290,Furosemide 40 mg inj,หลอด
+098806011010,Regular Insulin injection 10 ml,ไวแอล
+090395012,Bowie-dick test Pack,แพ็ค
+090395013,NEO Bowie-dick test Pack,แพ็ค
+09015350,กระดาษสำหรับผสมวัสดุ ขนาดใหญ่,ถุง
+090404156,Clindamycin injection 150 mg,กล่อง
+09006413,Root Tip Pick สองด้าน,ตัว
+090101461,น้ำยาทำความสะอาดชนิดขจัดคราบสนิมเหล็กและล้างด่าง,ถัง
+09002434,File : Niti 21 mm. No.30,กล่อง
+09002435,File : Niti 21 mm. No.35,กล่อง
+09002436,File : Niti 21 mm. No.40,กล่อง
+09002437,File : Niti 25 mm. No.20,กล่อง
+09002438,File : Niti 25 mm. No.25,กล่อง
+09002439,File : Niti 25 mm. No.30,กล่อง
+09002440,File : Niti 25 mm. No.35,กล่อง
+09002441,File : Niti 25 mm. No.40,กล่อง
+09002427,Rely XTM Luting Plus Cement,ชุด
+09002428,Ketac TM Universal Aplicap TM Glass Ionomer Restroative,กล่อง
+09002429,G-aenial Universal Flo,ชุด
+09002430,G-aenial Primer,ชุด
+09008288,Wax pattle สี Ivory ชนิดก้อน,ก้อน
+09008289,Wax pattle สี เทา ชนิดก้อน,ก้อน
+09008290,Wax pattle สี น้ำเงิน ชนิดก้อน,ก้อน
+09008285,crylic resin for temporary crown (Unifast 3 ส่วนน้ำ),ขวด
+09008286,Acrylic resin for termporary crown (Unifast 3),ชุด
+09008311,Acrylic listh cure สีชมพู,กล่อง
+09008312,Acrylic light cure สีขาว ทำ Special tray,กล่อง
+09003291,Litholyme,ถุง
+09005143,"ซองบรรจุภัณฑ์ Tyvek ขนาด 2""",ม้วน
+09005144,"ซองบรรจุภัณฑ์ Tyvek ขนาด 3""",ม้วน
+09005145,"ซองบรรจุภัณฑ์ Tyvek ขนาด 4""",ม้วน
+09005146,"ซองบรรจุภัณฑ์ Tyvek ขนาด 6""",ม้วน
+09005147,"ซองบรรจุภัณฑ์ Tyvek ขนาด 8""",ม้วน
+09013538,Elastic Thread ขนาด .030 นิ้ว ยาว 25 นิ้ว,ม้วน
+09013122,bondable lingual cleat,ตัว
+09015356,Rnalater,ชิ้น
+09001235,Composite sonic fille สี A1,กล่อง
+09001236,Composite sonic fille สี A2,กล่อง
+09001237,Composite sonic fille สี A3,กล่อง
+09015355,Anaeropack-Anaero 2.5L,แพค/ห่อ
+09001232,Composite resin LC สี A6,หลอด
+09008313,PMMA Temp Liquid,ขวด
+09015354,ชุดแผ่นกรองอากาศสำหรับระบบดูดไอพิษสารเคมี,ชุด
+09001238,Bulk filee flow able composite-SDR Refill,ชุด
+09001239,Composite resin ceram.x.sphere tec one syringe intro kit,ชุด
+09013541,Monomer Ortho clear,ขวด
+09006417,Oral tip Amcoflex Premium Type 3 light body,ถุง
+09002446,TF Adaptive 21 mm.,กล่อง
+09004194,Ethilon 6-0 (11 mm) ยาว 45 cm.,กล่อง
+09014689,Everex,ชุด
+09014693,หัวขัด Ceramist,ชุด
+09008314,Acrytic ชนิดต้มด่วน,ชุด
+09013542,Cap removal plier,อัน
+09016113,ปลายทิป Buchanan Plugger 0.8 Taper,ตัว
+09016114,ปลายทิป Buchanan Plugger 1.0 Taper,ตัว
+09014697,Dia-Finish L,ชุด
+09002445,Panaivia V5,ชุด
+098801030010,Omeprazole 40 mg injection,ไวแอล
+09003292,Pentoxifyline mg,เม็ด
+09003293,Acetylcysteine Solution 300 mg,หลอด
+09014696,Diamond torpedo shape .021 FG,ตัว
+09013522,Three Dimensional Screw 600-606-10,ตัว
+09013523,Three Dimensional Screw 600-605-10,ตัว
+09013526,"Expansion Screw,Mini 600-300-30",ตัว
+09013527,"Expansion Screw,Mini 600-301-30",ตัว
+09013525,Retraction Screw 600-600-30,ตัว
+09015363,Prestoblue cell viability reagent 25 ml,ขวด
+09015364,DMSO 500 ml.,ขวด
+09015365,Fetal Bovine Serum 500 ml.,ขวด
+09015366,D-PSB 500 ml.,ขวด
+09015367,Antibiotic-Antimycotic 100 ml.,ขวด
+09015368,Trypsin-EDTA 100 ml.,ขวด
+09015369,Glutamzx I supplement 100 ml.,ขวด
+09015357,PBS Tablets,ชิ้น
+09015358,Fluid thiogl ycollate medium 500 g,ขวด
+09015359,Blood Agar base infusion agar 500g,ขวด
+09004172,น้ำยาฆ่าเชื้อ พ่นรอยพิมพ์,ชุด
+09009351,NIBP cuff Adult ชนิดท่อเดี่ยวสำหรับผู้ใหญ่,อัน
+09009352,NIBP Cuff Pedritric ชนิดท่อเดี่ยวสำหรับเด็กโต,อัน
+09015361,"MEM/EBSS w/o L-Glutamine 1,000 ml.",ขวด
+09015362,"LPS-PG,Standard 1 mg",แพค/ห่อ
+09007065,Gutta percha protaper next no.x4 x5,กล่อง
+09002442,Gutta percha protaper next no.x3,กล่อง
+09002226,Barbed broach 21 mm. No.40,กล่อง
+09008317,แบบหล่อเรซินชนิดใส,ชุด
+09002451,แผ่นขัดอลูมิเนียมออกไซด์,กล่อง
+09004191,"Rogosa SL agar 500 g, #248020,Difco",ขวด
+09004192,"Mitis salivarius agar 500 g. # 229810,Difco",ขวด
+09004193,"Petri dish PS Sterile 90x150 mm.,Bioscan",ขวด
+09013547,IPR Thickness Gauge for Stripping,ชุด
+09005148,กล่องทิ้งแข็ม,กล่อง
+09005141,Eladtic bandage ผ้ายึดพันแผล ขนาด 4 นิ้ว,ม้วน
+09004195,Cellulose Acetate Minisart Syringe Fliter 0.2u 25 mm.,กล่อง
+09004196,"DW Pipetter Tip 200 ul YEL,",แพค
+09004197,"DW Pipetter Tip 1000 ul GRAD EXT LENGTH,768/PKG",แพค
+09004198,"24 Well TC Plate, FB,W/Lid,",แพค
+09014699,Lindemann bone cutters FGXL 316,ตัว
+09006423,Microcentrifuge tube 1.5 ml.,แพค
+09006424,Flat plate w/Lid 96 well Corning,แพค
+09003294,Nicardipine 10 mg injection,หลอด
+09003295,Dopamine,หลอด
+09003296,Regular Insulin injection 10 ml.,ไวแอม
+09003297,Salbutamol Nebulizer,หลอด
+09003298,Beradual Nebulizer,หลอด
+09003299,Chlorpheniramine Injection 10 gm/ml.,แอมพลู
+09003300,Hydrocrotisoce 100 mg Injection,ไวแอม
+09003301,Norfloxacin 400 mg,เม็ด
+09003302,Isosorbide Dinitrate 5 mg,เม็ด
+09013554,Retractor PhotoMed (Double end),แพค
+09013555,Oral Wider (Adult),แพค
+09008315,ครอบฟันเด็กฟันหลัง,ชุด
+09008316,ครอบฟันเด็กฟันหน้า,ชุด
+09003303,Muporin ointment 2.0% w/w,หลอด
+09012209,Stainless steel band : Maxllary NU41,ตัว
+09012210,Stainless steel band : Maxllary NU41.5,ตัว
+09012211,Stainless steel band : Maxllary NL41,ตัว
+09009353,Coat vicryl 3/0 พร้อมเข็ม 19 mm.,กล่อง
+09002452,Protaper Next 21 mm.,กล่อง
+09002453,Protaper Next 25 mm.,กล่อง
+09002454,Gutta percha matched-one No.30 (F3),กล่อง
+09002455,Gutta percha matched-one No.25 (F2),กล่อง
+09002456,File : Protaper rotary F4  21 mm.,กล่อง
+09002457,File : Protaper rotary F4  25 mm.,กล่อง
+09007066,Cryo Apron,ชุด
+09003304,Epipen 0.3 mg injection,หลอด
+09003305,Cavumox BID 228.5 mg/5 ml syrup,ขวด
+09008318,light cure (Nexus 3) สี clear,หลอด
+09008319,light cure (Nexus 3) สี white,หลอด
+09008320,light cure (Nexus 3) สี bleach,หลอด
+09008321,try in paste สี clear,หลอด
+09008322,try in paste สี white,หลอด
+09008323,try in paste สี bleach,หลอด
+09006421,Tissue Forceps,อัน
+09013543,Stainless steel wire 0.016 inch-upper,แพค
+09013544,Stainless steel wire 0.016x0.016 mid size,แพค
+09013545,Stainless steel wire 0.020 mid size,แพค
+09013546,Stainless steel wire 0.016x0.016 inch upper,แพค
+09015370,Stainless steel wire 0.016x0.022 inch mid size,แพค
+09011237,Implant cement,กล่อง
+09002459,Proglider,กล่อง
+09002460,Protaper universal gold,กล่อง
+09013536,Tie black plier,ตัว
+09013548,Buccal Tube lfit (non-con) # 17,ตัว
+09013549,Buccal Tube lfit (non-con) # 27,ตัว
+09013550,Buccal Tube lfit (non-con) # 37,ตัว
+09013551,Buccal Tube lfit (non-con) # 47,ตัว
+09013552,Buccal Tube Slim (non-con) # 17,ตัว
+09013553,Buccal Tube Slim (non-con) # 27,ตัว
+09004170,George Bissregistrierung,ชุด
+09004171,George Bissgable (Refill),ชุด
+09014698,Diamond bur .014 FG รูปรักบี้,ตัว
+09014560,Diamond bur .023 FG รูปรักบี้,ตัว
+09015360,"Alizarin red S,Certified",ขวด
+09014700,หัวกรอ Zirconai DCB1,ตัว
+09014701,หัวกรอ Zirconai DCB3,ตัว
+09014702,หัวกรอ Zirconai รูปวงล้อ 94013C,ตัว
+09014703,หัวกรอ Zirconai รูปวงล้อ 94013F,ตัว
+09014704,หัวกรอ Zirconai รูปเปลวไฟ 94018C,ตัว
+09014705,หัวกรอ Zirconai รูปเปลวไฟ 94018F,ตัว
+09014706,Carbide fissure long shank bur HP 364RE,ตัว
+09012012,Left lateral crown LL3,ตัว
+09012051,Prirnary cuspid stainelees crown : Maxillary CU4,ตัว
+09001243,build-it FR mini-mix A3 syringe 4 ml.,หลอด
+09001241,K-flex file 25 mm. No.8,กล่อง
+09001242,K-flex file 25 mm. No.10,กล่อง
+09006425,Painrose drain,กล่อง
+09003306,Amlodipine 5 mg,เม็ด
+09003307,Nifedipine 20 mg,เม็ด
+09006430,Bruxzir Full Zirconia Crown,ชิ้น
+09006429,Thumb (Dressing) Forceps 5.5 นิ้ว 14 cm.,ชิ้น
+09006431,TS Link Abutment,ตัว
+09006432,GS Fixture Lab Analog,ตัว
+09006433,ด้ามมี SNR 0020 N16,อัน
+09008324,Insert MMT 161R AG 60 VS735,อัน
+09008325,แสตนเลสกรม 304 2x110 mm.,ท่อน
+09008326,แสตนเลสกรม 304 4x55 mm.,อัน
+09008327,แสตนเลสกรม 1 5/8x300 mm.,ท่อน
+09008328,เอ็นมิล X-Power 8.0 มม.,ดอก
+09015372,"24 Well TC Plate,FB,W/Lid",แพค
+09015373,"TC dishes, 100x20 mm,steriled, 20/pkg",แพค
+09015374,"Vial,2.0ml,F/S,internal threat,50/pkg",แพค
+09015375,"Centrifuge tube 15m.,centristar cap, 50/rack",แพค
+09015376,"Centrifuge tube 50ml,centristar cap, 25/rack",แพค
+09011265,Probe satin steel,ชิ้น
+09011266,Probe periodontal,ชิ้น
+09011267,Arkansas stone,อัน
+09011268,Cassette,อัน
+09011269,Everedge gracey scaler,ตัว
+09011270,Everedge mini five gracey,ตัว
+09011271,หัวขูดแบบ sivel,อัน
+09015371,"0.2ml., qPCR Tube,flat cap",แพค
+09002461,File : Protaper rotary next 21 mm.,กล่อง
+09002462,File : Protaper rotary next 25 mm.,กล่อง
+09002458,K-file 31 mm. No.10,กล่อง
+09003308,Clindamycin injection 300 mg/amp,ไวแอล
+09003309,Nicardipine injection 2 mg,หลอด
+09009354,Extension Tube Micro 500 mm,กล่อง
+09009355,Extension Tube Micro 1200 mm,กล่อง
+09009356,Extension Tube Micro 1800 mm,กล่อง
+09009357,3 Way Stopcoki,กล่อง
+09006437,Cell T dish 35x10 mm.,กล่อง
+09006434,Titanium(IV)Oxide SIGMA 50 g,ขวด
+09006435,Sabouraud dextrose agar 500 g,ขวด
+09006436,Sabouraud dextrose broth 500 g,ขวด
+09004190,EPOXY resin # 200,ชุด
+09004175,Carbopol 940,แพค
+09004176,Calcium chlorde 2H2O,ขวด
+09004177,Potassium dihydrogen phosphate 500g,ขวด
+09004178,Sodium dihydrogen phosphate 500g,ขวด
+09004179,"Potassiun chloride AR, 1kg",ขวด
+09004180,Sodium carboxymethylcellulose (CMC) 1 kg,แพค
+09004181,Magnesium chloride 6H20O 500g,ขวด
+09004182,di-Potassium hydrogen phosphate 500g,ขวด
+09004183,Sodium benzoate 500g,ขวด
+09004184,Laboratoty bottle 2L,ชิ้น
+09004185,Magnetic bar 40x8 mm.,ชิ้น
+09004186,Wash bottle 500 m.,ชิ้น
+09004187,กระดาษเลเบล A7,แพค
+09004189,Laboratory bottle 25 ml.,ชิ้น
+09004188,Spatula No.1 ยาว 24 cm.,ชิ้น
+09006426,"Forceps 6""",อัน
+09006427,Blade handle No.4,อัน
+09006428,แว่นตานิรภัยเลนส์ใส,อัน
+09005151,Gauze sterile 4x4,ซอง
+09001247,G-Cem Link Force Starter kit Translucent,ชุด
+09005154,ชุดแปรงซอกฟัน,ชุด
+09005153,สำลีก้านเล็ก,แพค
+09005137,ยาสีฟันเซ็นแอนดรูว์,ชิ้น
+099999070,SOLENOID OILSTOP VALVE,ตัว
+09001244,Scotchbond universal etching gel,อัน
+09001245,Filtex Z250 A3,หลอด
+09001246,Adper single bond 2 refill,ขวด
+09004200,ไส้กรองน้ำบริสุทธิ์ DI PAK FOR NP ANALYSIS,ชุด
+09010118,แผ่นเยื่อเหนี่ยวนำ : (Ossguide 15x20 mm.),กล่อง
+09004173,Zirconia InCoris TZI Mono,กล่อง
+09004174,Centra Duo,กล่อง
+09006420,NG Tube No.12,กล่อง
+09013539,"Stainlees steel wire inch,upper-preformed 0.016x0.016",กล่อง
+09013540,"Stainlees steel wire inch,lower-preformed 0.016x0.016",กล่อง
+09001240,Composite G-aenial syring สี O2,หลอด
+09013556,"Ni ti wire 0.016x0.022 inch, upper-reverse curve",กล่อง
+09013557,"Ni ti wire 0.016x0.022 inch, lower-reverse curve",กล่อง
+09004199,"Hexamethylenetetramine, 99%",ขวด
+09003310,พลาสเตอร์ Fixomull stretch,กล่อง
+09003311,พลาสเตอร์ Nex care,กล่อง
+09001251,Composite Filtek Z350XT A3D,หลอด
+09001252,Composite Filtek P60 A3,หลอด
+09006442,เข็มฉีดยาชาสำหรับเครื่องฉีดยา,กล่อง
+09008329,Acrylic resin (Heat cure) สี 3R,ขวด
+09011272,Lance drill,ตัว
+09011273,Taper Kit drill,ตัว
+09004203,สเปรย์ทำความสะอาดหัวกรอ NSK,กระป๋อง
+09013558,"Stainless steel swire 0.018 inch, Mid size-preformed",แพค
+09013559,"Niti wire 0.016x0.022 inch,upper-preformed",แพค
+09008330,Porcelain conditioner,ขวด
+09013561,Tweed arch plier short Jaw,ตัว
+09013562,Angle debonding plier,ตัว
+09006443,สายท่อดูดน้ำลาย,เส้น
+09014707,หัวขัดยางขัดอคริลิก (Acrylic polisher),ตัว
+098804010021,Midazolam 5 mg/ml injection,กล่อง
+09002469,Protaper Next assorfed x4 25 mm.,กล่อง
+09015378,ข้อต่อที่ดูดน้ำลาย,ตัว
+090396002,เสื้อกาวน์กันน้ำเต็มตัว,ลัง
+090396003,เสื้อกาวน์กันน้ำ ชนิดครึ่งตัว,ลัง
+09001253,Band sectionol matrix(pv3)3.5,กล่อง
+09001254,Band sectionol matrix(pv3)4.5,กล่อง
+09001255,Band sectionol matrix(pv3)5.5,กล่อง
+09006447,แผ่นเจลประคบร้อน-เย็น สำหรับเด็ก,แผ่น
+09006448,แผ่นเจลประคบร้อน-เย็น สำหรับผู้ใหญ่,แผ่น
+09006449,กระโถนผู้ป่วยหญิง,อัน
+09002468,Protaper Next x4 21 mm.,กล่อง
+09002470,Gutta percha protaper next no. X2,กล่อง
+09008333,Pattern resin,ชุด
+09006451,Adson forceps มีเขี๊ยว,ตัว
+09014708,หัวขัด Diamond polisher for ceramics no.94012c.104.110,ตัว
+09014709,หัวขัด Diamond polisher for ceramics no.94012f.104.110,ตัว
+09014710,หัวขัด Diamond polisher for ceramics no.94018c.104.110,ตัว
+09014711,หัวขัด Diamond polisher for ceramics no.94018f.104.110,ตัว
+09014712,หัวขัด Diamond polisher for ceramics no.DCB1.104.025,ตัว
+09014713,หัวขัด Diamond polisher for ceramics no.DCB3.104.040,ตัว
+09008331,Gingival Hemostatic Retraction Paste,ชุด
+09014716,Icon-Microabrasion kit,กล่อง
+09006444,น้ำยาเช็คกระจกส่องปาก (mouth mirror),ขวด
+09010119,Seldin Periosteal Retractor,ตัว
+09002471,K3 File ความยาย 2% 25 mm. Taper 02/TIP20,กล่อง
+09002472,K3 File ความยาย 2% 25 mm. Taper 02/TIP25,กล่อง
+09002473,K3 File ความยาย 2% 25 mm. Taper 02/TIP30,กล่อง
+09002474,K3 File ความยาย 2% 25 mm. Taper 02/TIP35,กล่อง
+09008332,Natural Die Material Shade guide,แผง
+09006446,ที่ดูดจ่ายสารละลายอัตโนมัติ Pipette Aid,ชุด
+09004204,ชุดตรวจสอบการทำงานของฝักบัวและอ่างล้างตาฉุกเฉิน,ชุด
+09003313,Tegretol CR 200 mg,กล่อง
+090220041,ตัวทดสอบการล้างอุปกรณ์ประเภทยาว TOSI-Lum Chack,กล่อง
+090399538,ชุดทดสอบประสิทธิภาพคลื่นอัลตราโซนิค,กล่อง
+09014661,แปรงปัดสนิมขนไนลอน,ด้าม
+09014664,แปรงขนยาวสำหรับล้างท่อ FX-060,ด้าม
+09001256,Compoiste carver,ตัว
+09013560,Ni Ti Torquing Spring .016x.022,ตัว
+09013564,Intraoral elastic band 1/8 6.5 oz,กล่อง
+09002475,File : Edge Taper Platinum assort 21 mm.,กล่อง
+09002476,File : Edge Taper Platinum assort 25 mm.,กล่อง
+09002477,File : Edge Taper Platinum SX  19 mm.,กล่อง
+09002478,File : Edge Sequel Sapphire No.15 ผาย 0.04  21 mm.,กล่อง
+09002479,File : Edge Sequel Sapphire No.15 ผาย 0.04  25 mm.,กล่อง
+09002482,File : Edge Sequel Sapphire No.20 ผาย 0.04  21 mm.,กล่อง
+09002483,File : Edge Sequel Sapphire No.20 ผาย 0.04  25 mm.,กล่อง
+09002486,File : Edge Sequel Sapphire No.25 ผาย 0.04  21 mm.,กล่อง
+09002487,File : Edge Sequel Sapphire No.25 ผาย 0.04  25 mm.,กล่อง
+09002490,File : Edge Sequel Sapphire No.30 ผาย 0.04  21 mm.,กล่อง
+09002495,File : Edge Sequel Sapphire No.30 ผาย 0.04  25 mm.,กล่อง
+09002491,File : Edge Sequel Sapphire No.35 ผาย 0.04  21 mm.,กล่อง
+09002492,File : Edge Sequel Sapphire No.35 ผาย 0.04  25 mm.,กล่อง
+09002493,File : Edge Sequel Sapphire No.40 ผาย 0.04  21 mm.,กล่อง
+09002494,File : Edge Sequel Sapphire No.40 ผาย 0.04  25 mm.,กล่อง
+09006454,Syringe (Disposable) 1 ml.,กล่อง
+09005155,Examination glove without tale (vinyl) สีฟ้า M,กล่อง
+09015027,Double side adhesive carbon tape 8 mm.(W)x20(L),ม้วน
+09001257,Composite resin light cure SDR,ซอง
+09002092,Gutta percha cone # 25,กล่อง
+09002093,Gutta percha cone # 30,กล่อง
+09002095,Gutta percha cone # 40,กล่อง
+09009361,Mersik 3/0 พร้อมเข็ม 19 mm.,กล่อง
+09014714,Diamon Discs single sided (bottom),ตัว
+09014715,Diamon Discs Double sided,ตัว
+09013563,Convertibe cap removing plier,ตัว
+09013566,"Niti wire 0.018 inch,upper-preformed",แพค
+09013567,Brass wire,กล่อง
+09013565,Optiband for orthodontic,กล่อง
+09003315,Periocline 2% Minocycline-HCI Periodontal ointmen,กล่อง
+09014325,Carbide round long shank bur .014 HP,กล่อง
+09014326,Carbide round long shank bur .016 HP,กล่อง
+09014327,Carbide round long shank bur .018 HP,กล่อง
+09014476,Carbide taper long shank bur .014 HP,กล่อง
+09014477,Carbide taper  long shank bur .016 HP,กล่อง
+09014478,Carbide taper long shank bur .018 HP,กล่อง
+09014361,Diamond round bur .010 FG,กล่อง
+09014362,Diamond round bur .012 FG,กล่อง
+09014363,Diamond round bur .014 FG,กล่อง
+09014721,หัว Composhanpe No.4255L,ตัว
+09014722,หัว Composhanpe No.4205L คาดแดง (Latch),ตัว
+09014723,หัว Composhanpe No.5205L คาดเหลือง (Latch,ตัว
+09011274,Hex Driver (short),ตัว
+09011275,Hex Torque (short),ตัว
+09011276,Loctor Tool,ตัว
+09001071,Composite resin LC Flowable สี A2,หลอด
+09001072,Composite resin LC  Flowable สี A3,หลอด
+09002497,Gutta percha protaper universal  F2,กล่อง
+09002498,Gutta percha protaper universal  F3,กล่อง
+09002499,Gutta percha protaper universal  F4,กล่อง
+09013569,Dead soft Respond Arch wire 0.0150,หลอด
+09013570,Dead soft Respond Arch wire 0.0175,หลอด
+09003316,Omepazole 20 mg,เม็ด
+09008166,Acrylic resin (Heat-cure)-ผงสี 4L,ขวด
+09006455,EVE SET HP 321 DIASYNT PLUS/DIACERA,ชุด
+09006456,EVE SET RA 322 DIASYNT PLUS/DIACERA,ชุด
+09014724,Diamond round end taper bur FG 014,ตัว
+09014725,Diamond round end taper bur FG 016,ตัว
+09014726,Diamond round end taper bur FG 018,ตัว
+09014727,Diamond round end taper bur FG 021,ตัว
+09014728,Diamond round end taper bur FG 023,ตัว
+09014717,หัวกรอฟันแบบชุด JT-KT 1918 KIT KhonKaen,ชุด
+09014729,JT-DIFG801/014 DIAMOND BUR FG801/014,ตัว
+09014730,JT-DIFG830EF/018 DIAMOND BUR FG830EF/018,ตัว
+09014731,JT-DIFG830EF/021 DIAMOND BUR FG830EF/021,ตัว
+09014732,JT-DIFG862EF/010 DIAMOND BUR FG862EF/010,ตัว
+09014733,JT-DIFG850/016 DIAMOND BUR FG850/016,ตัว
+09014734,JT-DIFG835/009 DIAMOND BUR FG835/009,ตัว
+09001262,Aquasil Deca Mono,กล่อง
+09001263,Aquasil LV Cart,กล่อง
+09001264,Enhance Piont,กล่อง
+09001265,Core X-Flow,ชุด
+09013568,Wire Cutter,ตัว
+09009358,Artery forceps ใหญ่,ตัว
+09009359,Artery forceps กลาง,ตัว
+09009360,Artery forceps เล็ก,ตัว
+09001270,Tetric N-Flow สี604053AN,หลอด
+09008031,Gingival retraction cord No 0,หลอด
+09004206,น้ำยาไฮโดราเจนเพอร์ออกไซด์พลาสม่า,หลอด
+09013571,ผงสีขาว Ortho DP white,ขวด
+09011277,Probe for EPT,แพค/ห่อ
+09006452,ที่รัดแขนสำหรับเครื่องวัดความดันโลหิต,ชุด
+09014718,Carbide fissure long shank bur 012 HP,กล่อง
+09014720,Carbide fissure long shank bur 023 HP,กล่อง
+09006450,Ivoclean,ขวด
+09004208,Eosin plus alcoholic solution,ขวด
+09004209,Bio Marking Dyse 30 ml. blue,ขวด
+09004210,Bio Marking Dyse 30 ml. green,ขวด
+09004211,Bio Marking Dyse 30 ml. red,ขวด
+09002426,UltraSeal XT plus,หลอด
+09001271,Band sectionol matrix (pv3) 6.5,กล่อง
+09014739,Cabide C72E060/CM205,ตัว
+09014740,Cabide C725E023/CM206,ตัว
+09014741,Cabide C85EFAL060/CM237,ตัว
+090714742,Cabide S200 137 040/CM271,ตัว
+09014743,Cabide S274 190 060/CM37,ตัว
+09014744,Cabide C251E060/CM217,ตัว
+09014742,Cabide S200 137 040/CM271,ตัว
+09008334,Pink wax ขนาด 2 มม.,กล่อง
+09001266,Glase Set,ชุด
+09001267,VIPI Block W16 TRIL A2,ชิ้น
+09001268,VIPI Block W16 TRIL A3,ชิ้น
+09001269,หัวขัด Degudent,ชุด
+09015379,Eddy tip,กล่อง
+09007069,Functional Instrinsic II-Silicone coloring system (Yellow) 1 oz,ชิ้น
+09007070,Functional Instrinsic II-Silicone coloring system (White) 1 oz,ชิ้น
+09007071,Functional Instrinsic II-Silicone coloring system (Red) 1 oz,ชิ้น
+09001258,Calibra Ceram Dual Cure Automix,ชุด
+09001259,Ceram-X SPT A3,ชิ้น
+09001260,Ceram-X SPT A3.5,ชิ้น
+09001261,Prie-Bond NT Universal,กล่อง
+09014747,หัวสแกนในช่องปาก,ชุด
+09006462,Palaseal 2x15 ml.,ขวด
+09007014,Silicone - Putty,ชุด
+09007067,George gauge,ชุด
+09006453,Tyco Health care,อัน
+09004205,Fluoride : Topical Topamine,ขวด
+09006457,Original prophy Style,ตัว
+09006458,Everedge Gracey Scaler,ตัว
+09006459,Zilmaster Finishing,ชุด
+09006460,Tenax Fiber Trans Intro Kit,ชุด
+09004207,Diastase powder 500 g,ขวด
+09003312,Labetalol 5 mg/ml,หลอด
+09014735,Dimond round end tapper bur FG F204,ตัว
+09014736,Diamond finishing bur FG SF-D0943,ตัว
+09014737,Diamond finishing bur FG SF-D0933,ตัว
+09014738,Diamond finishing bur FG SF-D0925,ตัว
+09006461,G-Premio Bond Bottle Refill 5 ml.,กล่อง
+09013572,Closed coil spring super elastic niti (light force) เส้นผ่าศูนย์กลาง .010x.030 นิ้ว ยาว 12 mm.,กล่อง
+09014748,DURA-GREEN  DIA HP  3PCS TC4 #PN0155,แพค
+09014749,BIG SILICONE ACRYPOINTHP BP1 6PCS #0426,แพค
+09014750,BIG SILICONE ACRYPOINT HP BP1 6PCS #0427,แพค
+09014751,BIG SILICONE ACRYPOINT HP BP1 6PCS #0428,แพค
+09014753,ZILMASTER COARSE HP BULLET 3PCS #PN0640,แพค
+09014754,ZILMASTER MEDIUM HP BULLET 3 PCS #PN0646 #0426,แพค
+09014755,ZILMASTER MEDIUM HP BULLET 3 PCS #PN0646 #0652,แพค
+09014756,SOFTCUT WHEEL PA 8 #0595,โหล
+09014757,SOFTCUT WHEEL PB 8,โหล
+09014758,CERAMISTE HP STD PC2 #0262,โหล
+09014759,CERAMISTE HP UL PC2,โหล
+09014760,SILAGUM PUTTY SOFT PKG #909019,แพค
+09014761,OPTIGLAZE COLOR CELAR,กล่อง
+09002500,Gutta percha piont taper 0.04 No.30,กล่อง
+09002501,Gutta percha piont taper 0.04 No.35,กล่อง
+09007068,Mixing tip  NX3 light cure,แพค/ห่อ
+09006463,EVE SET RA 306 DIAPOL TWIST,ชุด
+09006464,EVE SET RA 323 DIACERA TWIST 14 MIX,ชุด
+09006465,EVE SET HP 311 DIAPOL TWIST MIX,ชุด
+09006466,EVE SET HP 324 DIACERA TWIST 14/17 MIX,ชุด
+09015380,PH 4.01 buffer 250 ml.,ขวด
+09015381,PH 7.00 buffer 250 ml.,ขวด
+09015382,PH 10.01 buffer 250 ml.,ขวด
+09014762,หัวกระดูก Trephines 229RE/045,ตัว
+09014763,หัวกระดูก Trephines 229RE/050,ตัว
+09005156,ฟลูโอารีลคิดส์ 2-6ปี สตรอเบอรี่ 40 กรัม,หลอด
+09005157,ฟลูโอารีลคิดส์ 26ปี ส้ม 40 กรัม,หลอด
+09005158,ฟลูโอารีลคิดส์ 2-6ปี กรีน 65 กรัม,หลอด
+09005159,ฟลูโอารีลคิดส์ฟันน้ำนม องุ่น 65 กรัม,หลอด
+09005160,ฟลูโอารีลคอดส์แปรงเด็ก 2-6 ปี+ยาสีฟัน,หลอด
+09011278,NeoGen-Ti-Reinforced memebrane-S I,ชิ้น
+0903101017,Orthodontic Screw Driver Tip,ตัว
+09002138,Clamp # 2,ตัว
+09006467,"Needle disposable size 27Gx1""",กล่อง
+09003314,Vitamin E 100 I.U.,เม็ด
+09003317,Paracetamol 325 mg (1 กล่อง/1000 เม็ด,กล่อง
+09006469,สายน้ำเกลือ,เส้น
+09014769,Abrasive stone pink HP 743s,ตัว
+09014770,Abrasive stone pink HP 751,ตัว
+09014771,Abrasive stone brown HP 20R,ตัว
+09008336,Variolink N Bonding System,ชุด
+09008337,Variolin N Base transparent,หลอด
+09005337,Variolink N Base transparent,หลอด
+09008338,Variolink N Catalyst transparent,หลอด
+098804022005,Lamotringine Tablet 25 mg,กล่อง
+09003321,Sodium Bicarbonate 3.75g/50 ml.,หลอด
+09003322,Kalimate 5 g,ซอง
+09003318,Tramadol 50 mg inj.,แอมพลู
+09003319,Myda-B cream 5 g (Clotrimazole Betamethasone),หลอด
+09003320,Glycerine Borax,ขวด
+09003324,Gabapentin 300 mg,กล่อง
+098801030004,Omeprazole 40 mg injection,ไวแอล
+09008335,Variolink N,ชุด
+09013584,Kobayashi Hook. 012,กล่อง
+09014195,White stone short flame  shape FG,ตัว
+09014196,White stone short round shape (Latch),ตัว
+09014197,White stone short round shape FG,ตัว
+09014282,White stone short flame shape (Latch),ตัว
+09005161,แปรงกระจุกเดียว,ชิ้น
+09005162,Summit Plus Sensitive Comp TB,กล่อง
+09005163,Post-Operative TB,กล่อง
+09005164,ฺBufler Yasashiishita B (Tongue Cleaner),ชิ้น
+09005165,Ortho Kit,ถุง
+09005166,Ortho TB With CAP,กล่อง
+09005167,Ortho Trav TB,กล่อง
+09005168,Classic TB Soft4RW Compact,กล่อง
+09005169,Easythread Floss 50 Strand,ถุง
+09005170,Floss Weave Wax MINT 60YD,โหล
+09005171,Soft-Pick 50CT,ถุง
+09005172,Floss Threade 100 ENV,กล่อง
+09005173,GUM A Dental Paste 130G Stand,หลอด
+09005174,GUM Dental Rinse NA 500ML,ขวด
+09005175,GUM Perio SET,แพค/ห่อ
+09005176,GUM Implant SET,แพค/ห่อ
+09005177,Interdental Brush 0.8M,ถุง
+09005178,Interdental Brush 0.9M,ถุง
+09005179,Interdental Brush 1.1M,ถุง
+09005180,Interdental Brush 1.28M,ถุง
+09005181,Interdental Brush 1.3M,ถุง
+09005182,Interdental Brush 1.4M,ถุง
+09005183,Interdental Brush 1.6M,ถุง
+09005184,Jordand Click GUM Protector-Suppersoft,โหล
+09005185,Ster 2 Age 3-5,แพค/ห่อ
+09005186,Ster 3 Age 6-9,แพค/ห่อ
+09005187,Orthodontic Cleansing TAB,กล่อง
+09005188,ฟิตตี้เด้นท์ เม็ดฟูล้างฟันปลอม รี 32 เม็ด,กล่อง
+09005191,Step By Stem 0-2,โหล
+09001272,biodentine,ชุด
+09013574,ด้ามจับใบมีด Striping Bur,ตัว
+09013575,ตัวถอดใบมีดจากด้ามจับ Striping,ชิ้น
+09013576,ใบมีด Striping Bur,ชิ้น
+09014768,หัวกรอฟันปลอม Carbide Tunsten D-1507-22(12/060),ตัว
+09011279,Torque Wrench,ชิ้น
+09011280,Torque Driver For Torque Wrench,ชิ้น
+09011281,Hexted Driver Handle short,ชิ้น
+09013573,Orthodontic Screw,ชิ้น
+09003010,Amoxycillin Syrup 125 mg/5 ml. 60 ml,ขวด
+09002502,Edge Taper Platinum ขนา SX ยาว 17 mm.,กล่อง
+09002503,Edge Taper Platinum ขนาด S1 ยาว 25 mm.,กล่อง
+09002504,Edge Taper Platinum ขนาด S2 ยาว 25 mm.,กล่อง
+09002505,Edge Taper Platinum ขนาด  F1 ยาว 25 mm.,กล่อง
+09002506,Edge Taper Platinum ขนาด F2 ยาว 25 mm.,กล่อง
+09002507,Edge Taper Platinum ขนาด S1 ยาว 21 mm.,กล่อง
+09002508,Edge Taper Platinum ขนาด S2 ยาว 21 mm.,กล่อง
+09002509,Edge Taper Platinum ขนาด  F1 ยาว 21 mm,กล่อง
+09002510,Edge Taper Platinum ขนาด  F2 ยาว 21 mm,กล่อง
+09003323,Tegretol CR 400 mg,กล่อง
+09008009,Acrylic resin (Self - cure) - pink - น้ำ,ขวด
+09009363,ตัวทดสอบความสะอาดเครื่องมือแพทย์แบบรวดเร็วด้วยระบบ ATP,ซอง
+09009364,อุปกรณ์เก็บตัวอย่างน้ำเพื่อทดสอบความสะอาดของน้ำ,ซอง
+09013577,ลวด Niti 014 (Super elastic) lower,แพค
+09013578,ลวด Niti 016 (Super elastic) midsize lower,แพค
+09013579,ลวด Niti 018 (Super elastic) lower,แพค
+09013580,"Niti wire 0.016x0.022 inch,Mid size-preformed",แพค
+09013581,"Niti wire 0.016x0.022 inch,lower size-preformed",แพค
+09014745,ชุดขัด ZilMaster HP kit,ชุด
+09014746,ชุดขัด ZilMaster ในปาก,ชุด
+09014764,Carbide round 010 HP,ตัว
+09014765,Carbide taper 010 HP,ตัว
+09014766,Carbide round 023 HP,ตัว
+09014767,Carbide taper 023 HP,ตัว
+09006440,Polident,กล่อง
+09001273,Compositer resin LC สี XW,หลอด
+09006468,ที่ยึดตำแหน่งศรีษะผู้ป่วยของเครื่องถ่ายภาพรังสีนอกช่องปาก,ชุด
+09005189,Dry Mouth gel,หลอด
+09005190,Tooth Mousse,หลอด
+09009014,Coated vicryl 4/0 พร้อมเข็ม 16 mm.(W9443),กล่อง
+09005192,Gammex non-latex sterile glvoe NO.7,กล่อง
+090403001,Acetylcysteine,กล่อง
+09001278,วัสดุพิมพ์ชนิดออโต้มิกซ์ Honigum,ชุด
+09001279,Light body Honigum AM,ชุด
+09004212,น้ำมันพ่น Hand Pice แบบเครื่อง KAVO,กระป๋อง
+09009367,กระเป๋า EMS Emergency Bag,ใบ
+09008022,Articulating paper : curve,กล่อง
+09008341,Stone - Stone ชนิดป้องกันเชื้อรา,กล่อง
+09008340,Stone - extra-hard stone - Velmix ชนิดป้องกันเชื้อรา,กล่อง
+09009368,กล่องยา EMS Emergency,กล่อง
+09009369,กล่องใส่นามบัตร,ใบ
+09009365,stylet สำหรับผู้ใหญ่,อัน
+09009366,stylet สำหรับเด็กโต,อัน
+09005193,Ambubag 2L.,อัน
+09005194,Ambubag 1L.,อัน
+09005195,ambubag mask silicone No.1,อัน
+09005196,ambubag mask silicone No.2,อัน
+09005197,ambubag mask silicone No.3,อัน
+09005198,ambubag mask silicone No.4,อัน
+09005199,Oxygen mask with bag pediatric,อัน
+09008339,Dura-polish DIA,กล่อง
+09004213,"Acetone,commercial",แกลลอน
+09001277,Mount driver (short),ตัว
+09011282,Mount driver (long),ตัว
+09011283,Guide drill,ตัว
+09002513,File:Edge Sequel Sapphire 21 mm. No.15,กล่อง
+09002514,File:Edge Sequel Sapphire 25 mm. No.15,กล่อง
+09006473,Syringe for elastomer,อัน
+09006474,ปลาย Syringe for elastomer,ถุง
+090393004,เจลล้างมือฆ่าเชื้อ 450 ml. (Hand sanitizer),ขวด
+09006472,Infrared  Forehead Themometer,อัน
+09004215,แอลกอฮอล์เจล 3.5 ลิตร,แกลลอน
+09009370,Cuff BP ผู้ใหญ่ (large adult) แบบสายเดียว,อัน
+09009371,Cuff BP เด็กเล็ก แบบสายเดียว,อัน
+09006475,Biological Indicator for plasma,กล่อง
+09015384,"HUPROSTAGLANDIN E2 ELISA KIT, 96 TEST",ชุด
+09015385,RANTES HUMAN ELISA KIT,ชุด
+09008342,น้ำยาละลาย arit-spot,ขวด
+09014204,Silicone polishing for acrylic - green HP,ตัว
+09013589,J-Hook crimpabel Right 8 mm.,ตัว
+09013590,J-Hook crimpabel Left 8 mm.,ตัว
+09004218,Ethanol 95%,แกลลอน
+09006477,กระดาษปริ้นต์สำหรับเครื่องนึ่ง Steelco,ม้วน
+09006476,ตัวทอสอบสำเร็จรูปทางชีวภาพสำหรับเครื่องอบแก๊ส,กล่อง
+09004217,ฺBioplast plus,กล่อง
+09013588,ART Spring,กล่อง
+09001274,kolor plus สี gray,ขวด
+09001275,kolor plus สี purple,ขวด
+09001276,kolor plus สี brown,ขวด
+09014188,White stone long flame shape HP,ตัว
+09006478,ชุด Coverall  ป้องกันการติดเชื้อ,ชุด
+099999475,สาย Handplece ยูนิตทันตกรรม รุ่น C8 พร้อม adapter ปลายสาย,ชุด
+09003328,Adenosine 3 mg/ml,ไวแอล
+09003326,Metronidzole injection 500 mg,ขวด
+09003327,Labetalol 100  mg/20 ml.,ไวแอล
+09003325,Betadine Gargle 70  mg/30 ml.,ขวด
+09009373,เสื้อกาวน์กันน้ำมี  hood แบบซักได้,ตัว
+09004219,Strip INR,กล่อง
+09009372,ชุดวัดแรงดูด Suction Digital,ชุด
+09008348,Temporary cement clear,ชุด
+09011287,MulTipeg 11,ตัว
+09011288,MulTipeg 25,ตัว
+09011289,MulTipeg 16,ตัว
+09011290,MulTipeg 4,ตัว
+09011291,MulTipeg 15,ตัว
+09005201,ดีแคร์หน้ากากผ้านาโนซิงค์ออก ไซด,ชิ้น
+09005202,ชุดผ้าปิดจมูก แผ่นกรอง 50 ชิ้น/กล่อง,กล่อง
+09004013,Alcohol 70 %  ขนาด 450 cc,ขวด
+09014775,Carbide round taper 012 HP,ตัว
+09014776,หัวมะเฟืองกรอกระดูก 75060,ตัว
+09014777,หัวมะเฟืองกรอกระดูก 77050,ตัว
+09014779,หัวมะยมกรอกระดูก 71050,ตัว
+09014780,Diamond round กรอช้า 023,ตัว
+09008349,กล่องอะคริลิกกรอฟันปลอมป้องกันการฟุ้งกระจาย,ชุด
+09005204,หน้ากากอนามัยN95,ชิ้น
+09005203,Customize Mask Fitting,อัน
+09011292,Handkit with carrying case sizes 2.83,ตัว
+09011293,Handkit with carrying case sizes 3.61,ตัว
+09011294,Handkit with carrying case sizes 4.31,ตัว
+09011295,Handkit with carrying case sizes 4.56,ตัว
+09011296,Handkit with carrying case sizes 6.65,ตัว
+09003332,Diclofenac gel 30 g,หลอด
+09012212,กระดานรัดตัวเด็ก size S,ตัว
+09012213,กระดานรัดตัวเด็ก size M,ตัว
+09012214,กระดานรัดตัวเด็ก size L,ตัว
+09009374,Isolation Grown G4L,ตัว
+09009375,Isolation Grown G4M,ตัว
+09008347,ฟันพลาสติก Livera,แผง
+09003331,Vitamin B complex,กล่อง
+09003329,Dicloxaciling 500 mg,กล่อง
+09003330,1% Lidocain 50 ml,ขวด
+09015386,สไลด์สำหรับนับเซลล์,ชุด
+09008350,Imaging Plate สำหรับถ่ายภาพรังสีในช่องปากของระบบดิจิตอล,กล่อง
+09006479,กระดาษพิมพ์ผลสำหรับเครื่องวัดความดันชนิดสอดแขน,ม้วน
+09006481,Flit-ray,กล่อง
+09006480,Snap A Ray,กล่อง
+09009377,3MTM AtterTM Biological Indicator 1262 for Steam Sterilization,กล่อง
+09011297,Impression Coping Cap Closed Tray,กล่อง
+09006483,ซองกันน้ำลาย  Size 2,กล่อง
+09009376,เสื้อกาวน์กันน้ำ แบบซักได้ 100 ครั้ง,ตัว
+09004220,น้ำมันพ่นสเปรย์หัวกรอ BA Oil,ชุด
+09007077,George gauge refill,ชุด
+09013591,"ทราย COBRA 110 ไมครอน,white",ถัง
+09013592,"ทราย COBRA 50 ไมครอน,white",ถัง
+09006360,Tripple syring,อัน
+09016116,Mini Screw 2.0 mm. long 6 mm.,ตัว
+09009378,"Extension tube length 18"" capacity 2.5 ml.",กล่อง
+09010121,หัว ET 25L,ตัว
+09014787,Carbide round bur 009 (Latch),ตัว
+09001049,Pit  fissure sealant LC : สีขุ่น OPAQUE (กล่องสีชมพู),ชุด
+09009379,ชุดสครับสีม่วง,ชุด
+09003333,Arcoxia 90 mg,กล่อง
+09003334,Lamotringine Tablet 25 mg,กล่อง
+09014785,Acrylic carbide bur หัวมะเฟือง,ตัว
+09014784,Lindemann bone citter,ตัว
+098804051005,Metoclopamide Tablct 10  mg,กล่อง
+09011145,Twist Drill,ชิ้น
+061219002,Spliter,ตัว
+09013583,Kobayashi Hook,ตัว
+09005205,ใบมีดตัดปูน (เครื่องTrimmer) ชนิดหยาบ,ใบ
+09005206,ใบมีดตัดปูน (เครื่องTrimmer) ชนิดละเอียด,ใบ
+09007078,S.E.P-Self Etching primer,ชุด
+09002391,K-file 21 mm.No.06,กล่อง
+09009382,Coat vicryl 3/0 พร้อมเข็ม 16 mm.,กล่อง
+09009383,Ciated vicryl 4/0 พร้อมเข็ม 16 mm. W9437,กล่อง
+09009381,Ethilon 3/0 พร้อมเข้ม 19 mm. 3/8 c,กล่อง
+0199999421,ไนโตรเจน,ถัง
+09003336,Zports Taps,กล่อง
+09003217,"ผ้าก๊อช ขนาด 2""x2""",กล่อง
+09005211,"ซองบรรจุเวชภัณฑ์ชนิดเรียบ 5"" ความยาว 200 เมตร/ม้วน",ม้วน
+090358005,แถบตรวจน้ำตาลในเลือด Dextrometer,อัน
+09013593,ลวดมัดฟัน เบอร์ 25,ม้วน
+09013594,ลวดมัดฟัน เบอร์ 26,ม้วน
+09006486,temp bond clear,ชุด
+090401002,Alcohol 70%,ขวด
+09007076,ปลายผสมวัสดุ Multi Core Flow สีเหลือง (refill),แพค/ห่อ
+09005207,น้ำยาล้างทำความสะอาดสายยาง,ขวด
+09007075,ปลายผสมวัสดุ Multi core Flow สีฟ้า (refill),แพค/ห่อ
+09005208,น้ำยากัดสนิมสำหรับเครื่องมือแพทย์,ขวด
+09006484,Exaclear,ชุด
+09006485,สารห้ามเลือด Septodont,ขวด
+09006487,Ring Sectional Matrix,ตัว
+09006489,ETHILON 3-0 ความยาว 45 cm,กล่อง
+09006488,ETHILON 2-0 ความยาว 45 Cm,กล่อง
+09002424,K3XF File 25 mm. Taper .06/TIP50,กล่อง
+09008212,Silicone reline material,ชุด
+090403108,Vitamin E,ขวด
+090395001,"Niti wire 0.012 inch,upper-preformed",แพค/ห่อ
+090393018,"Niti wire 0.012 inch,Lower-preformed",แพค/ห่อ
+090212004,ก๊าซออกซิเจน,ท่อ
+090393019,Silicone-Medium,ชุด
+090903267,กระปุกทิ้งหัวเข็ม 3.2 ลิตร,อัน
+060511081,Smoke Detertor,ตัว
+099999047,Heat detector,ตัว
+090801058,ไส้กรอง Filter เครื่องดูดเลือดน้ำลาย(Suction),อัน
+09016117,Merocel,กล่อง
+09006498,Valiolink K เรซินซีเมนต์,ชุด
+090401075,ยาล้างตา,ขวด
+099999012,ก๊าซไนตรัสออกไซด์,ท่อ
+099999471,วาสลีน,กระปุก
+090304011,ผ้าก๊อสพับขนาด 4x4 นิ้ว,กล่อง
+090308001,พลาสเตอร์ยาติดแผล,อัน
+090308026,ยาสามัญประจำบ้าน,ชุด
+090408005,ยาหม่อง,ตลับ
+0904099021,แอมโมเนีย,ขวด
+09003182,เบตาดีน,ขวด
+098813011006,Silver sulfadiazine Cream,ปอนด์
+0199999325,ยาพาราเซตามอล,แผง
+090408009,Neotica Blam,หลอด
+061303054,หลอดไฟ,หลอด
+090304009,ผ้าก๊อซ แบบแผ่น,แพค/ห่อ
+090390019,แผ่นกระตุ้นหัวใจไฟฟ้าภายนอกสำหรับเครื่องกระตุกหัวใจไฟฟ้า ยี่ห้อ PHILIPS,แพค/ห่อ
+09006501,disposable micro applicators,กล่อง
+09009385,สายสวนปัสสาวะ (Folerys catheter) No.8,เส้น/สาย
+090318008,ชุดให้เลือด Blood set,ชุด
+090393010,Rubber Packing,แพค/ห่อ
+09006536,Carbon dioxide apsorber สารดูดซับก๊อซคาร์บอนไดออกไซด์,ถุง
+09006535,อุปกรณ์ตรวจค่าน้ำตาล DTX,ชุด
+09006523,Shade guide vita classic,แผง
+09006509,K-file 31 mm. No.110,กล่อง
+09006524,หัว ET 20D,ตัว
+09006526,A0625-07 Ragno fan-type rapid expander and mini 7 mm.,ตัว
+09006527,Aligner Chewies,แพค
+090410067,ยาชา Spray,ขวด
+09006534,Alveogyl,กระปุก
+09006528,MAXILLARY SKELETAL EXPANDER II 08mm SET,ชิ้น
+09006529,MAXILLARY SKELETAL EXPANDER II 10mm SET,ชิ้น
+09006530,MAXILLARY SKELETAL EXPANDER II 12mm SET,ชิ้น
+09006531,HAND TOOL RW,ชิ้น
+09006532,HAND TOOL MINI DRIVER,ชิ้น
+09006533,INSTRUMENT EAS(L)5 PIECES,ชิ้น
+0903104011,Nickel titanium wire .012 midsize,แพค/ห่อ
+09006490,Nickel titanium wire .016x0.016 Upper,แพค/ห่อ
+090006491,Vaiety Expansion screw,ตัว
+09006491,Variety Expansion screw,ตัว
+09006502,cabide HM296 104 040,ตัว
+09006507,Silicone polishing brown flame HP 9983V 104,ตัว
+09006497,camoy' solution,ขวด
+09006511,หัว Composhape No.4062FG คาดแดง,ตัว
+09006514,หัว Composhape No.4400 FG คาดแดง,ตัว
+09006515,หัว Composhape No.5062 FG คาดเหลือง,ตัว
+09006516,หัว Composhape No.5255 FG คาดเหลือง,ตัว
+09006517,หัว Composhape No.5201 FG คาดเหลือง,ตัว
+09006518,หัว Composhape No.5400 FG คาดเหลือง,ตัว
+09006519,Safe tip,ตัว
+09006520,Safe tip 016 FG,ตัว
+09006521,Safe tip 018 FG,ตัว
+090303003,Diamond Depth marker .008,กล่อง
+090303004,Diamond round end taper .022 FG (สั้น),กล่อง
+090303005,Diamond round end taper .012 FG (สั้น),กล่อง
+09006537,buser periosteal,ตัว
+09006538,buser periosteal elevator,ตัว
+090211444,Sabouraud Dextrose Agar,ขวด
+09006499,potassium tellurite 1%,กล่อง
+09006500,soyabean casein digest agar,ขวด
+090399684,แผ่นกระตุ้นหัวใจของเครื่อง AED,ชิ้น
+09016063,ด้ามพู่กัน,อัน
+090350046,Silk No.3/0 เข็ม 16 ราวด์,โหล
+09006555,Top guaze sterile,แพค/ห่อ
+09006553,ถุงมือ Examination gloves Sterile latex powdered,กล่อง
+09006557,Force Guage,ชิ้น
+09006559,Hole Punch,ตัว
+09006560,Tear Drop,ตัว
+09006561,Face Mask,ชุด
+09006544,Niti wire 0.017x0.025 inch upper - preformed,เส้น/สาย
+09006545,Niti wire 0.017x0.025 inch lower - preformed,เส้น/สาย
+09006546,Niti wire 0.018x0.025 inch upper - preformed,เส้น/สาย
+09006547,Niti wire 0.018x0.025 inch lower - preformed,เส้น/สาย
+09006548,Niti wire 0.019x0.025 inch lower - preformed,เส้น/สาย
+09006549,Stainless steel wire 0.017x0.025 inch upper,เส้น/สาย
+09006552,Stainless steel wire 0.018x0.025 inch lower,เส้น/สาย
+09013595,Copper-niti 0.017*0.025 upper,ม้วน
+09013596,Copper-niti 0.017*0.025 lower,ม้วน
+09006540,หัวขัด Zerconia (นอกปาก),กล่อง
+09006541,หัวขัด Zerconia (ในปาก),กล่อง
+09013597,หัวกรอ Zirconia (Refill),กล่อง
